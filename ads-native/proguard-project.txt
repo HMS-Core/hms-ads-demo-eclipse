@@ -1,0 +1,61 @@
+-keep @interface com.huawei.hms.ads.annotation.GlobalApi
+-keep @interface com.huawei.hms.ads.annotation.AllApi
+-keep @interface com.huawei.openalliance.ad.annotations.ModuleVisible
+-keep @interface com.huawei.openalliance.ad.annotations.DataKeep
+
+-keep @com.huawei.hms.ads.annotation.GlobalApi class *
+-keepclassmembers class * {
+    @com.huawei.hms.ads.annotation.GlobalApi *;
+}
+
+-keep @com.huawei.hms.ads.annotation.GlobalApi enum * {
+    <fields>;
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keepclassmembers enum * {
+    @com.huawei.hms.ads.annotation.GlobalApi *;
+}
+
+-keep @com.huawei.hms.ads.annotation.AllApi class *
+-keepclassmembers class * {
+    @com.huawei.hms.ads.annotation.AllApi *;
+}
+
+-keep @com.huawei.hms.ads.annotation.AllApi enum * {
+    <fields>;
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keepclassmembers enum * {
+    @com.huawei.hms.ads.annotation.AllApi *;
+}
+
+-keep,includedescriptorclasses @com.huawei.hms.ads.annotation.GlobalApi interface * { *; }
+-keep,includedescriptorclasses @com.huawei.hms.ads.annotation.AllApi interface * { *; }
+-keep,includedescriptorclasses public @com.huawei.openalliance.ad.annotations.ModuleVisible interface * { *; }
+
+-keep @com.huawei.openalliance.ad.annotations.DataKeep class * {
+    <fields>;
+    <init>();
+}
+
+-keep public @com.huawei.openalliance.ad.annotations.ModuleVisible class * {
+    public *;
+    protected *;
+    public static *;
+}
+
+-keepnames class * implements android.os.Parcelable
+-keepclassmembers class * implements android.os.Parcelable {
+    public final static *** CREATOR;
+}
+
+-keep class com.huawei.appmarket.service.externalservice.activityresult.IActivityResult {
+    *;
+}
+
+-dontwarn com.huawei.openalliance.ad.**
+-dontwarn com.huawei.hms.ads.**

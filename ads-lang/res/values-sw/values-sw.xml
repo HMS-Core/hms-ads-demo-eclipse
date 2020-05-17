@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Dirisha litajifunga ndani ya sekunde %1$s."</item>
+    <item priority="translator" quantity="other">"Dirisha litajifunga ndani ya sekunde %1$s."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Kumbuka chaguo kwa siku %1$s"</item>
+    <item priority="Reviewed" quantity="other">"Kumbuka chaguo kwa siku %1$s"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"Sekunde %1$d"</item>
+    <item priority="LT" quantity="other">"Sekunde %1$d"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Tangazo"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s imesakinishwa"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Usakinishaji umekamilika. Gusa ili kufungua."</string>
+    <string name="hiad_app_permission" priority="LT">"Vibali"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Tangazo limefichwa"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Hainivutii"</string>
+    <string name="hiad_choices_hide" priority="translator">"Ficha tangazo"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Kwa nini niliona tangazo hili?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="translator">"Kutumia mtandao wa simu kutatumia %1$s data ya. Ungependa kuendelea?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Kucheza kutatumia data ya simu. Ungependa kuendelea?"</string>
+    <string name="hiad_continue_download" priority="LT">"Pakua"</string>
+    <string name="hiad_continue_download_new" priority="LT">"PAKUA"</string>
+    <string name="hiad_continue_to_play" priority="translator">"ENDELEA"</string>
+    <string name="hiad_copy_link" priority="LT">"Nakili kiungo"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"MB %1$s"</string>
+    <string name="hiad_default_app_name" priority="LT">"Programu"</string>
+    <string name="hiad_default_skip_text" priority="translator">"Ruka"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Ruka ndani ya %d"</string>
+    <string name="hiad_detail" priority="translator">"Maelezo"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Pakua"</string>
+    <string name="hiad_dialog_accept" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_allow" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"GHAIRI"</string>
+    <string name="hiad_dialog_close" priority="LT">"Sawa"</string>
+    <string name="hiad_dialog_continue" priority="LT">"PAKUA"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"NIMEELEWA"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Ruhusu %1$s isakinishe %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Chanzo: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_open" priority="LT">"FUNGUA"</string>
+    <string name="hiad_dialog_reject" priority="LT">"NYIMA"</string>
+    <string name="hiad_dialog_title" priority="LT">"Ungependa kupakua ukitumia data ya simu?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Dokezo"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Pakua kwa kutumia data ya simu?"</string>
+    <string name="hiad_download_download" priority="translator">"SAKINISHA"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"PAKUA (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Hitilafu imetokea wakati wa kupakua %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Faili imeharibika. Tafadhali pakua tena."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Faili haipo. Tafadhali jaribu tena."</string>
+    <string name="hiad_download_install" priority="LT">"SAKINISHA"</string>
+    <string name="hiad_download_installing" priority="LT">"INASAKINISHA"</string>
+    <string name="hiad_download_no_space" priority="LT">"Hifadhi haitoshi. Ongeza nafasi na ujaribu tena."</string>
+    <string name="hiad_download_open" priority="LT">"FUNGUA"</string>
+    <string name="hiad_download_resume" priority="LT">"ENDELEA"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Hitilafu imetokea wakati wa kupakua %1$s. Upakuaji utaanza upya."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Kwa sasa hujaunganishwa kwenye Wi-Fi. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kwa sasa hujaunganishwa kwenye WLAN. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
+    <string name="hiad_install_completed" priority="LT">"Imefanyika"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Ukurasa huu unataka kufungua %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Kiungo kimenakiliwa."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Upakuaji huu utatumia %1$s za data ya simu."</string>
+    <string name="hiad_network_error" priority="translator">"Hitilafu kwenye muunganisho wa mtandao."</string>
+    <string name="hiad_network_no_available" priority="LT">"Hamna muunganisho wa mtandao. Tafadhali kagua mipangilio ya mtandao wako."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Usinikumbushe tena"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Hakuna muunganisho wa Wi-Fi. Kupakua sasa kutatumia data yako ya simu. Pakua?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Hakuna muunganisho wa WLAN. Kupakua sasa kutatumia data yako ya simu. Pakua?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Fungua kwenye kivinjari"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Imeshindwa kupakia ukurasa. Tafadhali jaribu tena."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s inahitaji ruhusa zifuatazo:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Ingojee Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Pakua kupitia mtandao wa simu?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Ingojee WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Sera ya faragha"</string>
+    <string name="hiad_refresh" priority="LT">"Onyesha upya"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Programu ni kubwa kuliko MB %1$d"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Ruka"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Endelea kutazama"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Maliza kutazama tangazo hili ili kupata tuzo."</string>
+    <string name="hiad_whether_download" priority="LT">"Pakua programu hii?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Imepakiwa awali kupitia Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Imepakiwa awali"</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:paddingLeft="@dimen/hiad_8_dp"
+    android:orientation="horizontal">
+
+    <View
+        android:layout_width="@dimen/hiad_4_dp"
+        android:background="@drawable/hiad_bg_permission_circle"
+        android:layout_height="@dimen/hiad_4_dp"/>
+
+    <TextView
+        android:id="@+id/hiad_permissions_dialog_child_tv"
+        android:layout_width="0dp"
+        android:layout_marginLeft="@dimen/hiad_8_dp"
+        android:layout_weight="1"
+        style="@style/HIAD_Permissions_child_text"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

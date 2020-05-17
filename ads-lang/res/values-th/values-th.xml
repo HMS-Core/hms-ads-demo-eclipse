@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="other">"หน้าต่างจะปิดภายใน %1$s วินาที"</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="other">"จำการเลือกไว้เป็นเวลา %1$s วัน"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="other">"%1$d วินาที"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"โฆษณา"</string>
+    <string name="hiad_app_installed" priority="LT">"ติดตั้ง %1$s แล้ว"</string>
+    <string name="hiad_app_open_notification" priority="translator">"การติดตั้งเสร็จสมบูรณ์ แตะเพื่อเปิด"</string>
+    <string name="hiad_app_permission" priority="LT">"การอนุญาต"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"โฆษณาซ่อนอยู่"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"ไม่สนใจ"</string>
+    <string name="hiad_choices_hide" priority="LT">"ซ่อนโฆษณา"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"เหตุใดฉันจึงเห็นโฆษณานี้"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"การใช้เครือข่ายมือถือจะใช้ข้อมูล %1$s ดำเนินการต่อหรือไม่"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"การเล่นจะใช้ข้อมูลมือถือ ดำเนินการต่อหรือไม่"</string>
+    <string name="hiad_continue_download" priority="LT">"ดาวน์โหลด"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ดาวน์โหลด"</string>
+    <string name="hiad_continue_to_play" priority="LT">"ดำเนินการต่อ"</string>
+    <string name="hiad_copy_link" priority="LT">"คัดลอกลิงก์"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"แอป"</string>
+    <string name="hiad_default_skip_text" priority="LT">"ข้าม"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"ข้ามใน %d วิ"</string>
+    <string name="hiad_detail" priority="LT">"รายละเอียด"</string>
+    <string name="hiad_detail_download_now" priority="LT">"ดาวน์โหลด"</string>
+    <string name="hiad_dialog_accept" priority="LT">"อนุญาต"</string>
+    <string name="hiad_dialog_allow" priority="LT">"อนุญาต"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ยกเลิก"</string>
+    <string name="hiad_dialog_close" priority="LT">"ตกลง"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ดาวน์โหลด"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"รับทราบ"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"อนุญาตให้ %1$s ติดตั้ง %2$s หรือไม่"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"แหล่งที่มา: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"อนุญาต"</string>
+    <string name="hiad_dialog_open" priority="LT">"เปิด"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ปฏิเสธ"</string>
+    <string name="hiad_dialog_title" priority="LT">"ดาวน์โหลดโดยการใช้ข้อมูลมือถือหรือไม่"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"หมายเหตุ"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"ดาวน์โหลดโดยการใช้ข้อมูลมือถือหรือไม่"</string>
+    <string name="hiad_download_download" priority="translator">"ติดตั้ง"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ดาวน์โหลด (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"เกิดข้อผิดพลาดขณะดาวน์โหลด %1$s"</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"ไฟล์เสียหาย โปรดดาวน์โหลดอีกครั้ง"</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"ไม่มีไฟล์อยู่ โปรดลองใหม่อีกครั้ง"</string>
+    <string name="hiad_download_install" priority="LT">"ติดตั้ง"</string>
+    <string name="hiad_download_installing" priority="LT">"การติดตั้ง"</string>
+    <string name="hiad_download_no_space" priority="LT">"พื้นที่เก็บข้อมูลไม่เพียงพอ โปรดเพิ่มพื้นที่ว่างและลองใหม่อีกครั้ง"</string>
+    <string name="hiad_download_open" priority="LT">"เปิด"</string>
+    <string name="hiad_download_resume" priority="LT">"ดำเนินการต่อ"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"เกิดข้อผิดพลาดขณะดาวน์โหลด %1$s การดาวน์โหลดจะเริ่มต้นใหม่"</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"คุณยังไม่ได้เชื่อมต่อกับ Wi-Fi ในขณะนี้ การดาวน์โหลดขณะนี้จะใช้ข้อมูลมือถือ %1$s ดาวน์โหลดหรือไม่"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"คุณยังไม่ได้เชื่อมต่อกับ WLAN ในขณะนี้ การดาวน์โหลดขณะนี้จะใช้ข้อมูลมือถือ %1$s ดาวน์โหลดหรือไม่"</string>
+    <string name="hiad_install_completed" priority="LT">"เสร็จสิ้น"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"หน้านี้ต้องการเปิด %1$s"</string>
+    <string name="hiad_link_already_copied" priority="LT">"คัดลอกลิงก์แล้ว"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"การดาวน์โหลดนี้จะใช้ข้อมูลมือถือ %1$s"</string>
+    <string name="hiad_network_error" priority="LT">"ข้อผิดพลาดเกี่ยวกับการเชื่อมต่อเครือข่าย"</string>
+    <string name="hiad_network_no_available" priority="LT">"ไม่มีการเชื่อมต่ออินเทอร์เน็ต โปรดตรวจสอบการตั้งค่าเครือข่ายของคุณ"</string>
+    <string name="hiad_no_more_remind" priority="LT">"โปรดอย่าเตือนอีก"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"ไม่มีการเชื่อมต่อ Wi-Fi การดาวน์โหลดตอนนี้จะใช้ข้อมูลมือถือของคุณ ดาวน์โหลดหรือไม่"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"ไม่มีการเชื่อมต่อ WLAN การดาวน์โหลดตอนนี้จะใช้ข้อมูลมือถือของคุณ ดาวน์โหลดหรือไม่"</string>
+    <string name="hiad_open_in_browser" priority="LT">"เปิดในเบราว์เซอร์"</string>
+    <string name="hiad_page_load_failed" priority="LT">"ไม่สามารถโหลดหน้าได้ โปรดลองใหม่อีกครั้ง"</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s ต้องการได้รับอนุญาตดังต่อไปนี้:"</string>
+    <string name="hiad_prepare_download" priority="LT">"รอสัญญาณ Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"ดาวน์โหลดผ่านเครือข่ายมือถือหรือไม่"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"รอ WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"นโยบายความเป็นส่วนตัว"</string>
+    <string name="hiad_refresh" priority="LT">"รีเฟรช"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"แอปมีขนาดเกิน %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"ข้าม"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"รับชมต่อ"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"รับชมโฆษณานี้จนจบเพื่อรับรางวัล"</string>
+    <string name="hiad_whether_download" priority="LT">"ดาวน์โหลดแอปนี้หรือไม่"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"โหลดล่วงหน้าผ่าน Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"โหลดไว้ล่วงหน้า"</string>
+</resources>

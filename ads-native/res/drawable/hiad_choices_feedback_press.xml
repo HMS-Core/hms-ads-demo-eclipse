@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--设置button四个角的弧度-->
+    <corners android:radius="@dimen/hiad_14_dp" />
+    <!--设置button里面的颜色-->
+    <solid android:color="@color/hiad_20_percent_black" />
+    <!--设置button边框的颜色和宽度-->
+    <!--    <stroke android:color="@android:color/black" android:width="6dp"/>-->
+    <padding
+        android:bottom="@dimen/hiad_4_dp"
+        android:left="@dimen/hiad_8_dp"
+        android:right="@dimen/hiad_8_dp"
+        android:top="@dimen/hiad_4_dp" />
+</shape>

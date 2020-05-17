@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Το παράθυρο θα κλείσει σε %1$s δευτερόλεπτο."</item>
+    <item priority="translator" quantity="other">"Το παράθυρο θα κλείσει σε %1$s δευτερόλεπτα."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Απομνημόνευση επιλογής για %1$s ημέρα"</item>
+    <item priority="Reviewed" quantity="other">"Απομνημόνευση επιλογής για %1$s ημέρες"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d δευτ."</item>
+    <item priority="LT" quantity="other">"%1$d δευτ."</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"ΔΙΑΦΗΜΙΣΗ"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Διαφήμιση"</string>
+    <string name="hiad_app_installed" priority="LT">"Η εγκατάσταση της εφαρμογής %1$s έχει ολοκληρωθεί."</string>
+    <string name="hiad_app_open_notification" priority="translator">"Η εγκατάσταση ολοκληρώθηκε. Αγγίξτε για άνοιγμα."</string>
+    <string name="hiad_app_permission" priority="LT">"Άδειες"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Κρυφή διαφήμιση"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Δεν ενδιαφέρομαι"</string>
+    <string name="hiad_choices_hide" priority="LT">"Απόκρυψη διαφήμισης"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Γιατί είδα τη διαφήμιση;"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Αν χρησιμοποιήσετε δίκτυο κινητής τηλεφωνίας, θα καταναλωθούν %1$s από τα δεδομένα. Συνέχεια;"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Για την αναπαραγωγή θα χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας. Συνέχεια;"</string>
+    <string name="hiad_continue_download" priority="LT">"Λήψη"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ΛΗΨΗ"</string>
+    <string name="hiad_continue_to_play" priority="LT">"ΣΥΝΕΧΕΙΑ"</string>
+    <string name="hiad_copy_link" priority="LT">"Αντιγραφή συνδέσμου"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Εφαρμογή"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Παράλειψη"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Παράλειψη σε %d"</string>
+    <string name="hiad_detail" priority="LT">"Λεπτομέρειες"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Λήψη"</string>
+    <string name="hiad_dialog_accept" priority="LT">"ΝΑ ΕΠΙΤΡΑΠΕΙ"</string>
+    <string name="hiad_dialog_allow" priority="LT">"ΝΑ ΕΠΙΤΡΑΠΕΙ."</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ΑΚΥΡΩΣΗ"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ΛΗΨΗ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ΚΑΤΑΛΑΒΑ"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Να επιτραπεί στην εφαρμογή %1$s να εγκαταστήσει την εφαρμογή %2$s;"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Πηγή: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"ΝΑ ΕΠΙΤΡΑΠΕΙ"</string>
+    <string name="hiad_dialog_open" priority="LT">"ΑΝΟΙΓΜΑ"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ΑΡΝΗΣΗ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Σημείωση"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</string>
+    <string name="hiad_download_download" priority="translator">"ΕΓΚΑΤΑΣΤΑΣΗ"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ΛΗΨΗ (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Προέκυψε σφάλμα κατά τη λήψη του αρχείου %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Το αρχείο είναι αλλοιωμένο. Επαναλάβετε τη λήψη."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Το αρχείο δεν υπάρχει. Προσπαθήστε ξανά."</string>
+    <string name="hiad_download_install" priority="LT">"ΕΓΚΑΤΑΣΤΑΣΗ"</string>
+    <string name="hiad_download_installing" priority="LT">"ΓΙΝΕΤΑΙ ΕΓΚΑΤΑΣΤΑΣΗ"</string>
+    <string name="hiad_download_no_space" priority="LT">"Ανεπαρκής χώρος αποθήκευσης. Ελευθερώστε λίγο χώρο και προσπαθήστε ξανά."</string>
+    <string name="hiad_download_open" priority="LT">"ΑΝΟΙΓΜΑ"</string>
+    <string name="hiad_download_resume" priority="LT">"ΣΥΝΕΧΕΙΑ"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Προέκυψε σφάλμα κατά τη λήψη του αρχείου %1$s. Η λήψη θα αρχίσει ξανά."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Αυτή τη στιγμή η συσκευή σας δεν είναι συνδεδεμένη σε Wi-Fi. Αν προχωρήσετε στη λήψη τώρα, θα χρησιμοποιηθούν %1$s δεδομένων κινητής τηλεφωνίας. Λήψη οπωσδήποτε;"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Αυτή τη στιγμή η συσκευή σας δεν είναι συνδεδεμένη σε WLAN. Αν προχωρήσετε στη λήψη τώρα, θα χρησιμοποιηθούν %1$s δεδομένων κινητής τηλεφωνίας. Λήψη οπωσδήποτε;"</string>
+    <string name="hiad_install_completed" priority="LT">"Τέλος"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Η σελίδα αυτή θέλει να ανοίξει την εφαρμογή %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Ο σύνδεσμος αντιγράφτηκε."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Αυτή η λήψη θα χρησιμοποιήσει %1$s δεδομένων κινητής τηλεφωνίας."</string>
+    <string name="hiad_network_error" priority="LT">"Σφάλμα σύνδεσης δικτύου"</string>
+    <string name="hiad_network_no_available" priority="LT">"Δεν έχετε συνδεθεί στο Ίντερνετ. Ελέγξτε τις ρυθμίσεις του δικτύου σας."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Όχι άλλη υπενθύμιση"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Δεν υπάρχει σύνδεση Wi-Fi. Αν πραγματοποιήσετε λήψη τώρα, θα χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας. Να γίνει λήψη;"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Δεν υπάρχει σύνδεση WLAN. Αν πραγματοποιήσετε λήψη τώρα, θα χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας. Να γίνει λήψη;"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Άνοιγμα σε πρόγραμμα περιήγησης"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Δεν είναι δυνατή η φόρτωση της σελίδας. Προσπαθήστε ξανά."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"Η εφαρμογή %1$s απαιτεί τις ακόλουθες άδειες:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Αναμονή για Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Λήψη μέσω δικτύου κινητής τηλεφωνίας;"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Αναμονή για WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Πολιτική απορρήτου"</string>
+    <string name="hiad_refresh" priority="LT">"Ανανέωση"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Εφαρμογή μεγαλύτερη από %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Παράλειψη"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Συνέχιση παρακολούθησης"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Παρακολουθήστε αυτή τη διαφήμιση μέχρι το τέλος για να κερδίσετε μια ανταμοιβή."</string>
+    <string name="hiad_whether_download" priority="LT">"Να γίνει λήψη αυτής της εφαρμογής;"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Προφορτώθηκε μέσω του Wi-Fi."</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Προφορτωμένο"</string>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Акно закрыецца праз %1$s секунду."</item>
+        <item priority="translator" quantity="few">"Акно закрыецца праз %1$s секунд."</item>
+        <item priority="translator" quantity="many">"Акно закрыецца праз %1$s секунд."</item>
+        <item priority="translator" quantity="other">"Акно закрыецца праз %1$s секунд."</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Запомніць выбар на %1$s дзень"</item>
+        <item priority="Reviewed" quantity="few">"Запомніць выбар на %1$s дні"</item>
+        <item priority="translator" quantity="many">"Запомніць выбар на %1$s дзён"</item>
+        <item priority="Reviewed" quantity="other">"Запомніць выбар на %1$s дзён"</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d с"</item>
+        <item priority="LT" quantity="few">"%1$d с"</item>
+        <item priority="translator" quantity="many">"%1$d с"</item>
+        <item priority="translator" quantity="other">"%1$d с"</item>
+    </plurals>
+    <string name="hiad_ad_label" priority="translator">"АС"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Рэклама"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s усталявана"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Устаноўка завершана. Націсніце, каб адкрыць."</string>
+    <string name="hiad_app_permission" priority="LT">"Дазволы"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Рэклама схавана"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Не цікава"</string>
+    <string name="hiad_choices_hide" priority="translator">"Схаваць рэкламу"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Чаму вы бачылі гэту рэкламу?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Выкарыстанне мабільнай сеткі спажыве %1$s даных. Працягнуць?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Прайграванне спажывае мабільны трафік. Працягнуць?"</string>
+    <string name="hiad_continue_download" priority="LT">"Спампаваць"</string>
+    <string name="hiad_continue_download_new" priority="LT">"СПАМПАВАЦЬ"</string>
+    <string name="hiad_continue_to_play" priority="LT">"ПРАЦЯГНУЦЬ"</string>
+    <string name="hiad_copy_link" priority="LT">"Капіраваць спасылку"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s МБ"</string>
+    <string name="hiad_default_app_name" priority="LT">"Праграма"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Прапусціць"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Прапусціць праз %d"</string>
+    <string name="hiad_detail" priority="LT">"Падрабязнасці"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Спампаваць"</string>
+    <string name="hiad_dialog_accept" priority="LT">"ДАЗВОЛІЦЬ"</string>
+    <string name="hiad_dialog_allow" priority="LT">"ДАЗВОЛІЦЬ"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"АДМЯНІЦЬ"</string>
+    <string name="hiad_dialog_close" priority="LT">"ОК"</string>
+    <string name="hiad_dialog_continue" priority="LT">"СПАМПАВАЦЬ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ЗРАЗУМЕЛА"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Дазволіць %1$s устанавіць %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Крыніца: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"ДАЗВОЛІЦЬ"</string>
+    <string name="hiad_dialog_open" priority="LT">"АДКРЫЦЬ"</string>
+    <string name="hiad_dialog_reject" priority="LT">"АДМОВІЦЬ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Спампаваць з дапамогай мабільнай сеткі?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Заўвага"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Спампаваць праз мабільную перадачу даных?"</string>
+    <string name="hiad_download_download" priority="translator">"УСТАЛЯВАЦЬ"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"СПАМПАВАЦЬ (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Пры спампоўцы %1$s адбылася памылка."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Файл пашкоджаны. Паўтарыце спампоўку."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Файл не існуе. Паўтарыце спробу."</string>
+    <string name="hiad_download_install" priority="LT">"УСТАЛЯВАЦЬ"</string>
+    <string name="hiad_download_installing" priority="LT">"УСТАЛЯВАННЕ"</string>
+    <string name="hiad_download_no_space" priority="LT">"Недастаткова памяці. Вызваліце трохі памяці і паўтарыце спробу."</string>
+    <string name="hiad_download_open" priority="LT">"АДКРЫЦЬ"</string>
+    <string name="hiad_download_resume" priority="LT">"ПРАЦЯГНУЦЬ"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Пры спампоўцы %1$s адбылася памылка. Спампоўка будзе адноўленая."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Зараз вы не падключаны да Wi-Fi. Спампоўка зараз скарыстае %1$s мабільных даных. Усё роўна спампаваць?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Зараз вы не падключаны да WLAN. Спампоўка зараз скарыстае %1$s мабільных даных. Усё роўна спампаваць?"</string>
+    <string name="hiad_install_completed" priority="LT">"Гатова"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Гэта старонка хоча адкрыць %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Спасылка скапіравана."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Для спампавання спатрэбіцца %1$s мабільных даных."</string>
+    <string name="hiad_network_error" priority="LT">"Памылка злучэння з сеткай."</string>
+    <string name="hiad_network_no_available" priority="LT">"Злучэння з Інтэрнэтам няма. Праверце свае параметры сеткі."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Больш не нагадваць"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Няма падключэння да сеткі Wi-Fi. Для спампавання будзе выкарыстана мабільная перадача даных. Спампаваць?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Няма падключэння да WLAN. Для спампавання будзе выкарыстана мабільная перадача даных. Спампаваць?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Адкрыць у браўзеры"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Немагчыма загрузіць старонку. Паўтарыце спробу."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s неабходны наступныя дазволы:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Чакаць падключэння да Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Спампаваць праз сетку мабільнай сувязі?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Чакаць падключэння да WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Палітыка прыватнасці"</string>
+    <string name="hiad_refresh" priority="LT">"Абнавіць"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Праграма больш за %1$d Мб"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Прапусціць"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Працягнуць прагляд"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Для атрымання ўзнагароды праглядзіце гэту рэкламу да канца."</string>
+    <string name="hiad_whether_download" priority="LT">"Спампаваць гэту праграму?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Папярэдне загружана праз Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Папярэдне спампавана"</string>
+</resources>

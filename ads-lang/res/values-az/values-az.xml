@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"%1$s saniyə sonra pəncərə bağlanacaq."</item>
+    <item priority="translator" quantity="other">"%1$s saniyə sonra pəncərə bağlanacaq."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Seçimi %1$s gün yadda saxlayın"</item>
+    <item priority="Reviewed" quantity="other">"Seçimi %1$s gün yadda saxlayın"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d saniyə"</item>
+    <item priority="LT" quantity="other">"%1$d saniyə"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Reklam"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s quraşdırılıb"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Quraşdırma tamamlandı. Açmaq üçün toxunun."</string>
+    <string name="hiad_app_permission" priority="LT">"İcazələr"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Reklam gizlədilib"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Maraqlanmıram"</string>
+    <string name="hiad_choices_hide" priority="translator">"Reklamı gizlədin"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Nəyə görə bu reklamı görürəm?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Mobil şəbəkə %1$s verilənlərdən istifadə edəcəkdir. Davam etsin?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Təkrar ifa zamanı mobil şəbəkədən istifadə olunacaqdır. Davam etsin?"</string>
+    <string name="hiad_continue_download" priority="LT">"Endirin"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ENDİRIN"</string>
+    <string name="hiad_continue_to_play" priority="LT">"DAVAM ET"</string>
+    <string name="hiad_copy_link" priority="LT">"Keçidi köçür"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Proqram"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Ötür"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"%d ərzində ötürün"</string>
+    <string name="hiad_detail" priority="LT">"Təfərrüatlar"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Endirin"</string>
+    <string name="hiad_dialog_accept" priority="translator">"İCAZƏ VER"</string>
+    <string name="hiad_dialog_allow" priority="LT">"İCAZƏ VER"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"LƏĞV ET"</string>
+    <string name="hiad_dialog_close" priority="translator">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"YÜKLƏMƏ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ANLADIM"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s-ə %2$s-i quraşdırmaq üçün icazə verilsin?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Mənbə: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"İCAZƏ VERİN"</string>
+    <string name="hiad_dialog_open" priority="LT">"AÇIN"</string>
+    <string name="hiad_dialog_reject" priority="LT">"RƏDD ET"</string>
+    <string name="hiad_dialog_title" priority="LT">"Mobil şəbəkədən istifadə etməklə endirilsin?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Qeyd"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Mobil məlumatlardan istifadə etməklə endirilsin?"</string>
+    <string name="hiad_download_download" priority="translator">"QURAŞDIR"</string>
+    <string name="hiad_download_download_with_size" priority="translator">"ENDİRİN (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"%1$s endirən zaman səhv baş verdi."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fayl zədəlidir Lütfən, yenidən endirin."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Fayl mövcud deyil. Lütfən, yenidən cəhd edin."</string>
+    <string name="hiad_download_install" priority="LT">"QURAŞDIR"</string>
+    <string name="hiad_download_installing" priority="translator">"QURAŞDIRILIR"</string>
+    <string name="hiad_download_no_space" priority="LT">"Yaddaşda yer azdır. Yaddaşı bir az boşaldın və yenidən cəhd edin."</string>
+    <string name="hiad_download_open" priority="LT">"AÇ"</string>
+    <string name="hiad_download_resume" priority="LT">"DAVAM ET"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"%1$s endirilən zaman səhv baş verdi. Yükləmə yenidən başladılacaqdır."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Hazırda Wi-Fi bağlantınız yoxdur. İndi endirmək %1$s mobil şəbəkədən istifadə edəcək. Yenə də endirilsin?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Hazırda WLAN bağlantınız yoxdur. İndi endirmək %1$s mobil şəbəkədən istifadə edəcək. Yenə də endir?"</string>
+    <string name="hiad_install_completed" priority="LT">"Hazırdır"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Bu səhifə açmaq istəyir: %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Keçid köçürüldü."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Bu endirmə %1$s mobil məlumatlar istifadə edəcək."</string>
+    <string name="hiad_network_error" priority="LT">"Şəbəkə bağlantısı xətası."</string>
+    <string name="hiad_network_no_available" priority="LT">"İnternet bağlantısı yoxdur. Lütfən, şəbəkə parametrlərinizi yoxlayın."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Bir daha xatırlatma"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Wi-Fi bağlantısı yoxdur. İndi endirmək mobil məlumatlarınızdan istifadə edəcək. Endirilsin?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"WLAN bağlantısı yoxdur. İndi endirmək mobil məlumatlarınızdan istifadə edəcək. Endirilsin?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Brauzerdə aç"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Səhifə yüklənə bilmir. Lütfən, yenidən cəhd edin."</string>
+    <string name="hiad_permission_dialog_title" priority="translator">"%1$s aşağıdakı icazələri tələb edir:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wi-Fi-ı gözləyin"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Mobil şəbəkə vasitəsilə endirilsin?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"WLAN-ı gözləyin"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Məxfilik siyasəti"</string>
+    <string name="hiad_refresh" priority="LT">"Təzələ"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Proqram %1$d MB-dan böyükdür"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Ötürün"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"İzləməyə davam edin"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Mükafat qazanmaq üçün bu reklamı izləyib sona çatdırın."</string>
+    <string name="hiad_whether_download" priority="LT">"Bu proqram endirilsin?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi vasitəsilə əvvəldən yüklənib"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Əvvəlcədən yüklənmiş"</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Window %1$s ਸਕਿੰਟ ਵਿੱਚ ਬੰਦ ਹੋ ਜਾਵੇਗੀ।"</item>
+    <item priority="translator" quantity="other">"Window %1$s ਸਕਿੰਟਾਂ ਵਿੱਚ ਬੰਦ ਹੋ ਜਾਵੇਗੀ।"</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"%1$s ਦਿਨ ਲਈ ਪਸੰਦ ਨੂੰ ਯਾਦ ਰੱਖੋ"</item>
+    <item priority="Reviewed" quantity="other">"%1$s ਦਿਨ ਲਈ ਪਸੰਦ ਨੂੰ ਯਾਦ ਰੱਖੋ"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d ਸਕਿੰਟ"</item>
+    <item priority="LT" quantity="other">"%1$d ਸਕਿੰਟ"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"ਵਿਗਿਆਪਨ"</string>
+    <string name="hiad_ad_label_new" priority="translator">"ਇਸ਼ਤਿਹਾਰ"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s ਇੰਸਟਾਲ ਹੋ ਗਿਆ ਹੈ"</string>
+    <string name="hiad_app_open_notification" priority="translator">"ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ। ਖੋਲ੍ਹਣ ਲਈ ਟੱਚ ਕਰੋ।"</string>
+    <string name="hiad_app_permission" priority="LT">"ਇਜਾਜ਼ਤਾਂ"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"ਇਸ਼ਤਿਹਾਰ ਲੁਕਾਇਆ ਗਿਆ"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"ਕੋਈ ਦਿਲਚਸਪੀ ਨਹੀਂ"</string>
+    <string name="hiad_choices_hide" priority="LT">"ਇਸ਼ਤਿਹਾਰ ਨੂੰ ਲੁਕਾਓ"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"ਮੈਨੂੰ ਇਹ ਇਸ਼ਤਿਹਾਰ ਕਿਉਂ ਦਿਖਾਈ ਦਿੱਤਾ?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="translator">"ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਦੀ ਵਰਤੋਂ ਕਰਨ ਨਾਲ %1$s ਡੇਟਾ ਦੀ ਖਪਤ ਹੋਵੇਗੀ। ਕੀ ਜਾਰੀ ਰੱਖਣਾ ਹੈ?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ਪਲੇਬੈਕ ਲਈ ਮੋਬਾਈਲ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਵੇਗੀ। ਕੀ ਜਾਰੀ ਰੱਖਣਾ ਹੈ?"</string>
+    <string name="hiad_continue_download" priority="LT">"ਡਾਊਨਲੋਡ ਕਰੋ"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ਡਾਊਨਲੋਡ ਕਰੋ"</string>
+    <string name="hiad_continue_to_play" priority="translator">"ਜਾਰੀ ਰੱਖੋ"</string>
+    <string name="hiad_copy_link" priority="LT">"ਲਿੰਕ ਕਾਪੀ ਕਰੋ"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"ਐਪ"</string>
+    <string name="hiad_default_skip_text" priority="translator">"ਛੱਡੋ"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"%d ਵਿੱਚ ਛੱਡੋ"</string>
+    <string name="hiad_detail" priority="translator">"ਵੇਰਵੇ"</string>
+    <string name="hiad_detail_download_now" priority="LT">"ਡਾਊਨਲੋਡ ਕਰੋ"</string>
+    <string name="hiad_dialog_accept" priority="LT">"ਇਜਾਜ਼ਤ ਦਿਓ"</string>
+    <string name="hiad_dialog_allow" priority="LT">"ਇਜਾਜ਼ਤ ਦਿਓ"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ਰੱਦ ਕਰੋ"</string>
+    <string name="hiad_dialog_close" priority="LT">"ਠੀਕ ਹੈ"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ਡਾਊਨਲੋਡ ਕਰੋ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ਸਮਝ ਲਿਆ"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s ਨੂੰ %2$s ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"ਸਰੋਤ: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"ਇਜਾਜ਼ਤ ਹੈ"</string>
+    <string name="hiad_dialog_open" priority="LT">"ਖੋਲ੍ਹੋ"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ਇਨਕਾਰ ਕਰੋ"</string>
+    <string name="hiad_dialog_title" priority="LT">"ਕੀ ਮੋਬਾਈਲ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"ਨੋਟ"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"ਕੀ ਮੋਬਾਈਲ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ?"</string>
+    <string name="hiad_download_download" priority="translator">"ਇੰਸਟਾਲ ਕਰੋ"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ਡਾਊਨਲੋਡ ਕਰੋ (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"%1$s ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਦੇ ਸਮੇਂ ਕੋਈ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ।"</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"ਫ਼ਾਈਲ ਖ਼ਰਾਬ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਡਾਊਨਲੋਡ ਕਰੋ।"</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"ਫ਼ਾਈਲ ਮੌਜੂਦ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+    <string name="hiad_download_install" priority="LT">"ਇੰਸਟਾਲ ਕਰੋ"</string>
+    <string name="hiad_download_installing" priority="LT">"ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"</string>
+    <string name="hiad_download_no_space" priority="LT">"ਉਚਿਤ ਸਟੋਰੇਜ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਕੁਝ ਥਾਂ ਨੂੰ ਖਾਲੀ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+    <string name="hiad_download_open" priority="LT">"ਖੋਲ੍ਹੋ"</string>
+    <string name="hiad_download_resume" priority="LT">"ਜਾਰੀ ਰੱਖੋ"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"%1$s ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਦੇ ਸਮੇਂ ਕੋਈ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ। ਡਾਊਨਲੋਡ ਨੂੰ ਰੀਸਟਾਰਟ ਕੀਤਾ ਜਾਵੇਗਾ।"</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"ਤੁਸੀਂ ਵਰਤਮਾਨ ਵਿੱਚ Wi-Fi ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ। ਇਸ ਸਮੇਂ ਡਾਊਨਲੋਡ ਕਰਨ ਨਾਲ %1$s ਮੋਬਾਈਲ ਡੇਟਾ ਵਰਤਿਆ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਫਿਰ ਵੀ ਡਾਊਨਲੋਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"ਤੁਸੀਂ ਵਰਤਮਾਨ ਵਿੱਚ WLAN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ। ਇਸ ਸਮੇਂ ਡਾਊਨਲੋਡ ਕਰਨ ਨਾਲ %1$s ਮੋਬਾਈਲ ਡੇਟਾ ਵਰਤਿਆ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਫਿਰ ਵੀ ਡਾਊਨਲੋਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="hiad_install_completed" priority="LT">"ਸੰਪੰਨ"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"ਇਹ ਪੰਨਾ %1$s ਨੂੰ ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦਾ ਹੈ।"</string>
+    <string name="hiad_link_already_copied" priority="LT">"ਲਿੰਕ ਕਾਪੀ ਹੋਇਆ।"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"ਇਹ ਡਾਊਨਲੋਡ %1$s ਮੋਬਾਈਲ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕਰੇਗਾ।"</string>
+    <string name="hiad_network_error" priority="translator">"ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਤਰੁੱਟੀ।"</string>
+    <string name="hiad_network_no_available" priority="LT">"ਕੋਈ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ ਨੈੱਟਵਰਕ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।"</string>
+    <string name="hiad_no_more_remind" priority="LT">"ਮੈਨੂੰ ਦੁਬਾਰਾ ਯਾਦ ਨਾ ਕਰਵਾਓ"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"ਕੋਈ Wi-Fi ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਵੇਗੀ ਕੀ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"ਕੋਈ WLAN ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਵੇਗੀ ਕੀ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"</string>
+    <string name="hiad_page_load_failed" priority="LT">"ਪੰਨਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s ਨੂੰ ਹੇਠ ਲਿਖੀ ਇਜਾਜ਼ਤ ਚਾਹੀਦੀ ਹੈ:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wi-Fi ਲਈ ਉਡੀਕ ਕਰੋ"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਰਾਹੀਂ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"WLAN ਲਈ ਉਡੀਕੋ"</string>
+    <string name="hiad_privacy_policy" priority="LT">"ਪਰਦੇਦਾਰੀ ਨੀਤੀ"</string>
+    <string name="hiad_refresh" priority="LT">"ਤਾਜ਼ਾ ਕਰੋ"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB ਤੋਂ ਵੱਧ ਆਕਾਰ ਵਾਲੀ ਐਪ"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"ਛੱਡੋ"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"ਦੇਖਦੇ ਰਹੋ"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"ਇਨਾਮ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਇਸ ਇਸ਼ਤਿਹਾਰ ਨੂੰ ਦੇਖਣਾ ਸਮਾਪਤ ਕਰੋ।"</string>
+    <string name="hiad_whether_download" priority="LT">"ਕੀ ਇਸ ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi ਰਾਹੀਂ ਪਹਿਲਾਂ ਹੀ ਲੋਡ ਕੀਤਾ ਗਿਆ"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"ਪਹਿਲਾਂ ਤੋਂ ਲੋਡ ਕੀਤੇ"</string>
+</resources>

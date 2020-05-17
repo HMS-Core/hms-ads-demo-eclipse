@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huawei.openalliance.ad.views.AutoScaleSizeRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hiad_view_adchoice_wrapper"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/hiad_view_adchoice"
+        android:layout_width="@dimen/hiad_16_dp"
+        android:layout_height="@dimen/hiad_16_dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/hiad_4_dp"
+        android:layout_marginEnd="@dimen/hiad_24_dp"
+        android:src="@drawable/hiad_choices_whythisad_x"
+        android:visibility="visible"></ImageView>
+
+</com.huawei.openalliance.ad.views.AutoScaleSizeRelativeLayout>

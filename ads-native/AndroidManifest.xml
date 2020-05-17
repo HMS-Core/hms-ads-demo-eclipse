@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.huawei.hms.ads.nativead"
+    android:versionCode="130429303"
+    android:versionName="13.4.29.303" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="29" />
+
+    <application>
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:ads-native"
+            android:value="ads-native:13.4.29.303" />
+    </application>
+
+</manifest>

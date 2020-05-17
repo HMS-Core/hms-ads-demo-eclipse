@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Vindu lukkes om %1$s sekund."</item>
+    <item priority="translator" quantity="other">"Vindu lukkes om %1$s sekunder."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Husk valget i %1$s dag"</item>
+    <item priority="Reviewed" quantity="other">"Husk valget i %1$s dager"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d sek."</item>
+    <item priority="LT" quantity="other">"%1$d sek."</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"Reklame"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Reklame"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s er installert"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Installasjonen er fullført. Berør for å åpne."</string>
+    <string name="hiad_app_permission" priority="LT">"Tillatelser"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Annonse skjult"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Ikke interessert"</string>
+    <string name="hiad_choices_hide" priority="LT">"Skjul annonse"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Hvorfor så jeg denne annonsen?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Bruk av mobildata vil forbruke %1$s data. Fortsette?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Avspilling vil konsumere mobildata. Fortsette?"</string>
+    <string name="hiad_continue_download" priority="LT">"Last ned"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LAST NED"</string>
+    <string name="hiad_continue_to_play" priority="LT">"FORTSETT"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopier lenke"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"App"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Hopp over"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Hopp over om %d"</string>
+    <string name="hiad_detail" priority="LT">"Detaljer"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Last ned"</string>
+    <string name="hiad_dialog_accept" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_allow" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"AVBRYT"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LAST NED"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"SKJØNNER"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Tillat at %1$s installerer %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Kilde: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_open" priority="LT">"ÅPNE"</string>
+    <string name="hiad_dialog_reject" priority="LT">"IKKE TILLAT"</string>
+    <string name="hiad_dialog_title" priority="LT">"Last ned med mobildata?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Merk"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Laste ned med mobildata?"</string>
+    <string name="hiad_download_download" priority="translator">"INSTALLER"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"LAST NED (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"En feil oppstod under nedlastingen av %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Filen er skadet. Last ned på nytt."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Filen eksisterer ikke. Prøv igjen."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALLER"</string>
+    <string name="hiad_download_installing" priority="LT">"INSTALLERER"</string>
+    <string name="hiad_download_no_space" priority="LT">"Ikke nok lagringsplass. Frigjør litt plass, og prøv igjen."</string>
+    <string name="hiad_download_open" priority="LT">"ÅPNE"</string>
+    <string name="hiad_download_resume" priority="LT">"FORTSETT"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"En feil oppstod under nedlastingen av %1$s. Nedlastingen vil starte på nytt."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Du er ikke tilkoblet Wi-Fi i øyeblikket. Hvis du laster ned nå forbrukes %1$s mobildata. Laste ned likevel?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Du er ikke tilkoblet WLAN i øyeblikket. Hvis du laster ned nå forbrukes %1$s mobildata. Laste ned likevel?"</string>
+    <string name="hiad_install_completed" priority="LT">"Ferdig"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Denne siden ønsker å åpne %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Lenke kopiert."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Denne nedlastingen vil bruke %1$s av mobildata."</string>
+    <string name="hiad_network_error" priority="LT">"Feil ved nettverkstilkobling."</string>
+    <string name="hiad_network_no_available" priority="LT">"Ingen Internett-tilkobling. Kontroller dine nettverksinnstillinger."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Ikke minn meg på det"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Ingen Wi-Fi-forbindelse. Hvis du laster ned nå, forbrukes mobildata. Laste ned?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Ingen WLAN-forbindelse. Hvis du laster ned nå, forbrukes mobildata. Laste ned?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Åpne i nettleser"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Kunne ikke laste inn siden. Prøv igjen."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s krever følgende tillatelser:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Vent på Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Laste ned over mobilnett?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Vent på WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Personvernerklæring"</string>
+    <string name="hiad_refresh" priority="LT">"Oppdater"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"App større enn %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Hopp over"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsette å se"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Se denne reklamen ferdig for å få en belønning."</string>
+    <string name="hiad_whether_download" priority="LT">"Laste ned denne appen?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Forhåndsinnlastet over Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Forhåndsinnlastet"</string>
+</resources>

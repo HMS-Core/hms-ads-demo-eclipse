@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Терезе %1$s секунд ішінде жабылады."</item>
+    <item priority="translator" quantity="other">"Терезе %1$s секунд ішінде жабылады."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="translator" quantity="one">"%1$s күн таңдауын есте сақтау"</item>
+    <item priority="translator" quantity="other">"%1$s күн таңдауын есте сақтау"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d сек"</item>
+    <item priority="LT" quantity="other">"%1$d сек"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"ЖАРНАМА"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Жарнама"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s орнатылды"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Орнату аяқталды. Ашу үшін түртіңіз."</string>
+    <string name="hiad_app_permission" priority="LT">"Рұқсаттар"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Жарнама жасырылды"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Қызықпаймын"</string>
+    <string name="hiad_choices_hide" priority="LT">"Жарнаманы жасыру"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Неліктен бұл жарнаманы көрдім?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Мобильді желіні пайдаланғанда деректердің %1$s мөлшері тұтынылады. Жалғастыру керек пе?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Ойнату кезінде мобильді деректер пайдаланылады. Жалғастыру керек пе?"</string>
+    <string name="hiad_continue_download" priority="LT">"Жүктеп алу"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ЖҮКТЕП АЛУ"</string>
+    <string name="hiad_continue_to_play" priority="LT">"ЖАЛҒАСТЫРУ"</string>
+    <string name="hiad_copy_link" priority="LT">"Сілтемені көшіру"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s МБ"</string>
+    <string name="hiad_default_app_name" priority="LT">"Қолданба"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Өткізіп жіберу"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"%d өткізіп жіберу"</string>
+    <string name="hiad_detail" priority="LT">"Мәліметтер"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Жүктеп алу"</string>
+    <string name="hiad_dialog_accept" priority="LT">"РҰҚСАТ ЕТУ"</string>
+    <string name="hiad_dialog_allow" priority="LT">"РҰҚСАТ ЕТУ"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"БАС ТАРТУ"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ЖҮКТЕУ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ТҮСІНДІМ"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s үшін %2$s орнату рұқсат етілсін бе?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Көзі: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"РҰҚСАТ ЕТУ"</string>
+    <string name="hiad_dialog_open" priority="LT">"АШУ"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ТЫЙЫМ САЛУ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Мобильді деректер арқылы жүктеу керек пе?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Ескертпе"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Мобильді трафик арқылы жүктеп алу керек пе?"</string>
+    <string name="hiad_download_download" priority="translator">"ОРНАТУ"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ЖҮКТЕУ (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"%1$s жүктеп алу кезінде қате орын алды."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Файл бүлінген. Қайта жүктеңіз."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Файл жоқ. Әрекетті қайталаңыз."</string>
+    <string name="hiad_download_install" priority="LT">"ОРНАТУ"</string>
+    <string name="hiad_download_installing" priority="LT">"ОРНАТУ"</string>
+    <string name="hiad_download_no_space" priority="LT">"Қойма орны жеткіліксіз. Біраз орын босатып, әрекетті қайталаңыз."</string>
+    <string name="hiad_download_open" priority="LT">"АШУ"</string>
+    <string name="hiad_download_resume" priority="LT">"ЖАЛҒАСТЫРУ"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"%1$s жүктеп алу кезінде қате орын алды. Жүктеп алу қайта іске қосылады."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Қазіргі уақытта Wi-Fi желісіне қосылмағансыз. Жүктеу кезінде %1$s мобильді деректер пайдаланылады. Сонда да жүктеу керек пе?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Қазіргі уақытта WLAN желісіне қосылмағансыз. Жүктеу кезінде %1$s мобильді деректер пайдаланылады. Сонда да жүктеу керек пе?"</string>
+    <string name="hiad_install_completed" priority="LT">"Дайын"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Бұл бет %1$s ашады."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Сілтеме көшірілді."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Бұл жүктеп алуда %1$s мобильді деректер пайдаланылады."</string>
+    <string name="hiad_network_error" priority="LT">"Желілік байланыс қатесі."</string>
+    <string name="hiad_network_no_available" priority="LT">"Интернет байланысы жоқ. Желі параметрлерін тексеріңіз."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Қайта еске салмау"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Wi-Fi байланысы жоқ. Қазір жүктеп алатын болсаңыз, мобильді трафик пайдаланылады. Жүктеп алу керек пе?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"WLAN байланысы жоқ. Қазір жүктеп алатын болсаңыз, мобильді трафик пайдаланылады. Жүктеп алу керек пе?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Браузерде ашу"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Бетті жүктеу мүмкін емес. Әрекетті қайталаңыз."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s қолданбасы келесі рұқсаттарды талап етеді:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wi-Fi желісін күту"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Мобильді желі арқылы жүктеп алу керек пе?"</string>
+    <string name="hiad_prepare_download_zh" priority="translator">"WLAN желісін күту"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Құпиялық саясаты"</string>
+    <string name="hiad_refresh" priority="LT">"Жаңарту"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"%1$d МБ-тан үлкен қолданба"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Өткізіп жіберу"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Қарауды жалғастыру"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Сыйақы алу үшін осы жарнаманы соңына дейін қараңыз."</string>
+    <string name="hiad_whether_download" priority="LT">"Бұл қолданбаны жүктеп алу керек пе?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi арқылы алдын ала жүктелген"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Алдын ала жүктелген"</string>
+</resources>

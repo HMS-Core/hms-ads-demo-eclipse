@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Oyna %1$s soniyadan keyin yopiladi."</item>
+    <item priority="translator" quantity="other">"Oyna %1$s soniyadan keyin yopiladi."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Tanlov %1$s kunga eslab qolinsin"</item>
+    <item priority="Reviewed" quantity="other">"Tanlov %1$s kunga eslab qolinsin"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d soniya"</item>
+    <item priority="LT" quantity="other">"%1$d soniya"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"REKLAMA"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Reklama"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s o‘rnatildi"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Oʻrnatildi. Ochish uchun bosing."</string>
+    <string name="hiad_app_permission" priority="LT">"Ruxsatlar"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Reklama berkitildi"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Qiziq emas"</string>
+    <string name="hiad_choices_hide" priority="LT">"Reklamani berkitish"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Bu reklamani nega koʻryapman?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Mobil internet ishlatilsa, %1$s trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Ijro uchun mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_continue_download" priority="LT">"Yuklab olish"</string>
+    <string name="hiad_continue_download_new" priority="LT">"YUKLAB OLISH"</string>
+    <string name="hiad_continue_to_play" priority="LT">"DAVOM ETISH"</string>
+    <string name="hiad_copy_link" priority="LT">"Havoladan nusxa olish"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Ilova"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Tashlab ketish"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Tashlab ketish: %d"</string>
+    <string name="hiad_detail" priority="LT">"Tafsilotlar"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Yuklab olish"</string>
+    <string name="hiad_dialog_accept" priority="LT">"RUXSAT"</string>
+    <string name="hiad_dialog_allow" priority="LT">"RUXSAT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"BEKOR QILISH"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"YUKLAB OLISH"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"TUSHUNDIM"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s uchun %2$s ilovasini oʻrnatishga ruxsat berasizmi?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Manba: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"RUXSAT"</string>
+    <string name="hiad_dialog_open" priority="LT">"OCHISH"</string>
+    <string name="hiad_dialog_reject" priority="LT">"RAD ETISH"</string>
+    <string name="hiad_dialog_title" priority="LT">"Mobil internet yordamida yuklab olinsinmi?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Eslatma"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Mobil internet orqali yuklab olasizmi?"</string>
+    <string name="hiad_download_download" priority="translator">"O‘RNATISH"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"YUKLAB OLISH (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"%1$s yuklab olinayotganda xatolik yuz berdi."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fayl shikastlangan. Uni qayta yuklab oling."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Fayl mavjud emas. Qaytadan urining."</string>
+    <string name="hiad_download_install" priority="LT">"O‘RNATISH"</string>
+    <string name="hiad_download_installing" priority="LT">"O‘RNATILMOQDA"</string>
+    <string name="hiad_download_no_space" priority="LT">"Xotirada joy yetarli emas. Biroz joy bo‘shatib, keyin qaytadan urining."</string>
+    <string name="hiad_download_open" priority="LT">"OCHISH"</string>
+    <string name="hiad_download_resume" priority="LT">"DAVOM ETISH"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"%1$s yuklab olinayotganda xatolik yuz berdi. Qaytadan yuklab olinadi."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Wi-Fi tarmoqqa ulanmagansiz. Yuklab olish uchun %1$s mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"WLAN tarmoqqa ulanmagansiz. Yuklab olish uchun %1$s mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
+    <string name="hiad_install_completed" priority="LT">"Tayyor"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Bu ilova quyidagini ochmoqchi: %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Havoladan nusxa olindi."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Yuklab olish uchun %1$s internet-trafik sarflanadi."</string>
+    <string name="hiad_network_error" priority="LT">"Tarmoqqa ulanishda xato."</string>
+    <string name="hiad_network_no_available" priority="LT">"Internet aloqasi yo‘q. Tarmoq sozlamalarini tekshiring."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Boshqa eslatilmasin"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Wi-Fi tarmoqqa ulanmagansiz. Hozir yuklab olinsa, internet-trafik sarflanadi. Yuklab olinsinmi?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"WLAN tarmoqqa ulanmagansiz. Hozir yuklab olinsa, internet-trafik sarflanadi. Yuklab olinsinmi?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Brauzerda ochish"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Sahifa yuklanmadi. Qaytadan urining."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s quyidagi ruxsatlarni talab qiladi:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wi-Fi aloqasini kutish"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Mobil internet orqali yuklab olinsinmi?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"WLAN aloqasini kutish"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Maxfiylik siyosati"</string>
+    <string name="hiad_refresh" priority="LT">"Yangilash"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Ilova hajmi %1$d MB dan katta"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Tashlab ketish"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Davom etish"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Mukofot olish uchun reklamani oxirigacha tomosha qiling."</string>
+    <string name="hiad_whether_download" priority="LT">"Bu ilova yuklab olinsinmi?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi orqali avvaldan yuklangan"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Yuklangan"</string>
+</resources>

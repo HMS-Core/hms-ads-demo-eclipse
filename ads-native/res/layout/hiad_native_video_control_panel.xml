@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/hiad_iv_preview_video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:scaleType="fitCenter"/>
+
+    <RelativeLayout
+        android:id="@+id/hiad_native_video_control_panel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:id="@+id/hiad_btn_play_or_pause"
+            android:layout_width="@dimen/hiad_native_video_play_btn_w"
+            android:layout_height="@dimen/hiad_native_video_play_btn_h"
+            android:layout_centerInParent="true"
+            android:scaleType="fitCenter"
+            android:gravity="center"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/hiad_cb_sound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:padding="@dimen/hiad_12_dp"
+        android:src="@drawable/hiad_selector_ic_sound_check"/>
+
+    <ProgressBar
+        android:id="@+id/hiad_pb_buffering"
+        style="@style/HIAD_Video_Buffer_ProgressBar"
+        android:layout_width="@dimen/hiad_video_buffering_w"
+        android:layout_height="@dimen/hiad_video_buffering_w"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+    <FrameLayout
+        android:id="@+id/hiad_rl_non_wifi_alert"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@color/hiad_62_percent_black"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/hiad_non_wifi_alert_msg_text_margin_side"
+            android:layout_marginRight="@dimen/hiad_non_wifi_alert_msg_text_margin_side"
+            android:layout_gravity="center">
+
+            <TextView
+                android:id="@+id/hiad_non_wifi_alert_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/hiad_alert_msg_margin_b"
+                android:text="@string/hiad_consume_data_to_play_video"
+                android:textColor="@color/hiad_emui_white"
+                android:gravity="center_horizontal"
+                android:textSize="@dimen/hiad_non_wifi_alert_msg_text_size"/>
+
+            <Button
+                android:id="@+id/hiad_btn_non_wifi_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="@dimen/hiad_non_wifi_play_button_w"
+                android:minHeight="@dimen/hiad_non_wifi_play_button_h"
+                android:layout_below="@+id/hiad_non_wifi_alert_msg"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/hiad_selector_bg_btn_continue"
+                android:text="@string/hiad_continue_to_play"
+                android:textColor="@color/hiad_continue_play_btn_text"
+                android:textSize="12sp"/>
+        </RelativeLayout>
+    </FrameLayout>
+
+</merge>

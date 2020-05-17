@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"A janela será fechada em %1$s segundo."</item>
+    <item priority="translator" quantity="other">"A janela será fechada em %1$s segundos."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Lembrar escolha para %1$s dia"</item>
+    <item priority="Reviewed" quantity="other">"Lembrar escolha para %1$s dias"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d s"</item>
+    <item priority="LT" quantity="other">"%1$d s"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Anúncio"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s foi instalado"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Instalação concluída. Toque para abrir."</string>
+    <string name="hiad_app_permission" priority="LT">"Permissões"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Anúncio oculto"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Não tenho interesse"</string>
+    <string name="hiad_choices_hide" priority="translator">"Ocultar anúncio"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Por que eu vi esse anúncio?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Usar uma rede móvel consumirá %1$s de dados. Continuar?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"A reprodução vai usar dados móveis. Deseja continuar?"</string>
+    <string name="hiad_continue_download" priority="LT">"Baixar"</string>
+    <string name="hiad_continue_download_new" priority="LT">"BAIXAR"</string>
+    <string name="hiad_continue_to_play" priority="LT">"CONTINUAR"</string>
+    <string name="hiad_copy_link" priority="LT">"Copiar link"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Aplicativo"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Pular"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Pular em %d"</string>
+    <string name="hiad_detail" priority="LT">"Detalhes"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Baixar"</string>
+    <string name="hiad_dialog_accept" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_allow" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"CANCELAR"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"BAIXAR"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ENTENDI"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Permitir que %1$s instale %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Origem: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"PERMITIR"</string>
+    <string name="hiad_dialog_open" priority="LT">"ABRIR"</string>
+    <string name="hiad_dialog_reject" priority="LT">"REJEITAR"</string>
+    <string name="hiad_dialog_title" priority="LT">"Baixar usando dados móveis?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Nota"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Baixar usando dados móveis?"</string>
+    <string name="hiad_download_download" priority="translator">"INSTALAR"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"BAIXAR (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Ocorreu um erro durante o download de %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Arquivo corrompido. Baixe novamente."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"O arquivo não existe. Tente novamente."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALAR"</string>
+    <string name="hiad_download_installing" priority="LT">"INSTALANDO"</string>
+    <string name="hiad_download_no_space" priority="LT">"Armazenamento insuficiente. Libere espaço e tente novamente."</string>
+    <string name="hiad_download_open" priority="LT">"ABRIR"</string>
+    <string name="hiad_download_resume" priority="LT">"CONTINUAR"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Ocorreu um erro durante o download de %1$s. O download será reiniciado."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Você não está conectado ao Wi-Fi no momento. Se baixar agora usará %1$s de dados móveis. Baixar assim mesmo?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Você não está conectado ao WLAN no momento. Se baixar agora usará %1$s de dados móveis. Baixar assim mesmo?"</string>
+    <string name="hiad_install_completed" priority="LT">"Concluído"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Esta página deseja abrir %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Link copiado."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Este download usará %1$s de dados móveis."</string>
+    <string name="hiad_network_error" priority="LT">"Erro na conexão com a rede."</string>
+    <string name="hiad_network_no_available" priority="LT">"Não há conexão com a Internet. Verifique suas configurações de rede."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Não lembrar novamente"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Não há conexão Wi-Fi. Baixar agora usará seus dados móveis. Baixar?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Não há conexão WLAN. Baixar agora usará seus dados móveis. Baixar?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Abrir no navegador"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Não é possível carregar página. Tente novamente."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s requer as seguintes permissões:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Aguardar Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Baixar pela rede móvel?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Aguardar WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Política de privacidade"</string>
+    <string name="hiad_refresh" priority="LT">"Atualizar"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Aplicativo maior do que %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Pular"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar assistindo"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Termine de assistir a este anúncio para ganhar uma recompensa."</string>
+    <string name="hiad_whether_download" priority="LT">"Baixar este aplicativo?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Pré-carregado por Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Pré-carregado"</string>
+</resources>

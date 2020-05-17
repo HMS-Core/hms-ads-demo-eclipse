@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="other">"%1$s 秒后自动忽略"</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="translator" quantity="other">"%1$s 天内不再提示"</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="translator" quantity="other">"%1$d秒"</item>
+    </plurals>
+    <string name="hiad_ad_label" priority="LT">"广告"</string>
+    <string name="hiad_ad_label_new" priority="translator">"广告"</string>
+    <string name="hiad_app_installed" priority="translator">"%1$s 已安装成功"</string>
+    <string name="hiad_app_open_notification" priority="translator">"安装完成，点击打开"</string>
+    <string name="hiad_app_permission" priority="translator">"权限"</string>
+    <string name="hiad_choices_ad_closed" priority="translator">"广告已关闭"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"不感兴趣"</string>
+    <string name="hiad_choices_hide" priority="translator">"隐藏广告"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"为什么看到此广告？"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"使用移动网络将消耗%1$s流量"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"使用移动网络将消耗流量。是否继续？"</string>
+    <string name="hiad_continue_download" priority="translator">"继续下载"</string>
+    <string name="hiad_continue_download_new" priority="translator">"继续下载"</string>
+    <string name="hiad_continue_to_play" priority="LT">"继续播放"</string>
+    <string name="hiad_copy_link" priority="LT">"复制链接"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="translator">"应用"</string>
+    <string name="hiad_default_skip_text" priority="LT">"跳过"</string>
+    <string name="hiad_default_skip_text_time" priority="translator">"跳过%d"</string>
+    <string name="hiad_detail" priority="LT">"详情"</string>
+    <string name="hiad_detail_download_now" priority="translator">"立即下载"</string>
+    <string name="hiad_dialog_accept" priority="translator">"接受"</string>
+    <string name="hiad_dialog_allow" priority="LT">"允许"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"取消"</string>
+    <string name="hiad_dialog_close" priority="translator">"关闭"</string>
+    <string name="hiad_dialog_continue" priority="LT">"下载"</string>
+    <string name="hiad_dialog_dismiss" priority="translator">"忽略"</string>
+    <string name="hiad_dialog_install_desc" priority="translator">"是否同意%1$s安装%2$s应用？"</string>
+    <string name="hiad_dialog_install_source" priority="translator">"安装来源：%1$s"</string>
+    <string name="hiad_dialog_ok" priority="translator">"同意"</string>
+    <string name="hiad_dialog_open" priority="translator">"打开"</string>
+    <string name="hiad_dialog_reject" priority="LT">"拒绝"</string>
+    <string name="hiad_dialog_title" priority="LT">"提示"</string>
+    <string name="hiad_dialog_title_tip" priority="translator">"提示"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="translator">"是否继续使用移动数据网络下载？"</string>
+    <string name="hiad_download_download" priority="LT">"下载"</string>
+    <string name="hiad_download_download_with_size" priority="translator">"下载 (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"网络原因导致“%1$s”安装包下载失败"</string>
+    <string name="hiad_download_file_corrupted" priority="LT">"文件已损坏，请重新下载"</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"文件不存在，请重新下载"</string>
+    <string name="hiad_download_install" priority="LT">"安装"</string>
+    <string name="hiad_download_installing" priority="translator">"安装中"</string>
+    <string name="hiad_download_no_space" priority="LT">"存储空间不足，请清理后再安装"</string>
+    <string name="hiad_download_open" priority="LT">"打开"</string>
+    <string name="hiad_download_resume" priority="LT">"继续"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"网络原因导致“%1$s”安装包下载异常，即将重新下载"</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"当前未连接 Wi-Fi，下载会耗费%1$s流量。是否确定下载？"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"当前未连接 WLAN，下载会耗费%1$s流量。确定下载？"</string>
+    <string name="hiad_install_completed" priority="translator">"完成"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"网页将打开“%1$s”。是否允许？"</string>
+    <string name="hiad_link_already_copied" priority="LT">"链接已复制"</string>
+    <string name="hiad_mobile_download_prompt" priority="translator">"当前使用移动数据网络，立即下载将消耗%1$s数据流量。是否立即下载？"</string>
+    <string name="hiad_network_error" priority="LT">"网络连接失败"</string>
+    <string name="hiad_network_no_available" priority="LT">"网络未连接，请检查网络设置"</string>
+    <string name="hiad_no_more_remind" priority="LT">"不再提醒"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="translator">"当前为非 Wi-Fi 环境，下载将消耗数据流量。是否继续下载？"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="translator">"当前为非 WLAN 环境，下载将消耗数据流量。是否继续下载？"</string>
+    <string name="hiad_open_in_browser" priority="LT">"用浏览器打开"</string>
+    <string name="hiad_page_load_failed" priority="LT">"页面加载失败，点击重试"</string>
+    <string name="hiad_permission_dialog_title" priority="translator">"“%1$s”需要以下权限："</string>
+    <string name="hiad_prepare_download" priority="translator">"预约 Wi-Fi 下载"</string>
+    <string name="hiad_prepare_download_title" priority="translator">"数据网络下载提示"</string>
+    <string name="hiad_prepare_download_zh" priority="translator">"预约 WLAN 下载"</string>
+    <string name="hiad_privacy_policy" priority="translator">"隐私政策"</string>
+    <string name="hiad_refresh" priority="LT">"刷新"</string>
+    <string name="hiad_reminder_app_over_size" priority="translator">"超过%1$d MB 的应用"</string>
+    <string name="hiad_reward_close_dialog_close" priority="translator">"关闭广告"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="translator">"继续观看"</string>
+    <string name="hiad_reward_close_dialog_message" priority="translator">"观看完整视频才可获得奖励"</string>
+    <string name="hiad_whether_download" priority="translator">"是否下载该软件？"</string>
+    <string name="hiad_wifi_loaded_already" priority="LT">"已 Wi-Fi 预加载"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"已在 WLAN 下预加载"</string>
+</resources>

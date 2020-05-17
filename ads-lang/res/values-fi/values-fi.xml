@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Ikkuna sulkeutuu %1$s sekunnin kuluttua."</item>
+    <item priority="translator" quantity="other">"Ikkuna sulkeutuu %1$s sekunnin kuluttua."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="translator" quantity="one">"Muista valinta %1$s päivän"</item>
+    <item priority="translator" quantity="other">"Muista valinta %1$s päivää"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d s"</item>
+    <item priority="LT" quantity="other">"%1$d s"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"Mainos"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Mainos"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s on asennettu"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Asennus valmis. Avaa koskettamalla."</string>
+    <string name="hiad_app_permission" priority="LT">"Luvat"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Mainos piilotettu"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Ei kiinnosta"</string>
+    <string name="hiad_choices_hide" priority="LT">"Piilota mainos"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Miksi näin tämän mainoksen?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Matkapuhelinverkon käyttö kuluttaa %1$s dataa. Haluatko jatkaa?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Toisto käyttää mobiilidataa. Haluatko jatkaa?"</string>
+    <string name="hiad_continue_download" priority="LT">"Lataa"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LATAA"</string>
+    <string name="hiad_continue_to_play" priority="LT">"JATKA"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopioi linkki"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s Mt"</string>
+    <string name="hiad_default_app_name" priority="LT">"Sovellus"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Ohita"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Ohita: %d"</string>
+    <string name="hiad_detail" priority="LT">"Tiedot"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Lataa"</string>
+    <string name="hiad_dialog_accept" priority="LT">"SALLI"</string>
+    <string name="hiad_dialog_allow" priority="LT">"SALLI"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"PERUUTA"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LATAA"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"YMMÄRRÄN"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Sallitaanko sovelluksen %1$s asentaa %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Lähde: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"SALLI"</string>
+    <string name="hiad_dialog_open" priority="LT">"AVAA"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ESTÄ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Ladataanko mobiilidatayhteydellä?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Huomautus"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Päivitetäänkö käyttämällä mobiilidataa?"</string>
+    <string name="hiad_download_download" priority="translator">"ASENNA"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"LATAA (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Sovelluksen %1$s lataamisen aikana tapahtui virhe."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Tiedosto on vioittunut. Lataa uudelleen."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Tiedostoa ei löydy. Yritä uudelleen."</string>
+    <string name="hiad_download_install" priority="LT">"ASENNA"</string>
+    <string name="hiad_download_installing" priority="LT">"ASENTAMINEN"</string>
+    <string name="hiad_download_no_space" priority="LT">"Tallennustila ei riitä. Vapauta tilaa ja yritä uudelleen."</string>
+    <string name="hiad_download_open" priority="LT">"AVAA"</string>
+    <string name="hiad_download_resume" priority="LT">"JATKA"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Sovelluksen %1$s lataamisen aikana tapahtui virhe. Lataaminen aloitetaan uudelleen."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Wi-Fi-yhteyttä ei ole. Lataaminen käyttää %1$s mobiilidataa. Ladataanko silti?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"WLAN-yhteyttä ei ole. Lataaminen käyttää %1$s mobiilidataa. Ladataanko silti?"</string>
+    <string name="hiad_install_completed" priority="LT">"Valmis"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Tämä sivu haluaa avata sovelluksen %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Linkki kopioitu."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Tämä lataus käyttää %1$s mobiilidataa."</string>
+    <string name="hiad_network_error" priority="LT">"Verkon yhteysvirhe."</string>
+    <string name="hiad_network_no_available" priority="LT">"Ei Internet-yhteyttä. Tarkista verkkoasetukset."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Älä muistuta uudelleen"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Ei Wi-Fi-yhteyttä. Lataaminen nyt käyttää mobiilidataa. Ladataanko?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Ei WLAN-yhteyttä. Lataaminen nyt käyttää mobiilidataa. Ladataanko?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Avaa selaimessa"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Sivua ei voitu ladata. Yritä uudelleen."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s vaatii seuraavat käyttöoikeudet:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Odota Wi-Fiä"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Ladataanko mobiiliverkon kautta?"</string>
+    <string name="hiad_prepare_download_zh" priority="translator">"Odota WLANia"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Tietosuojakäytäntö"</string>
+    <string name="hiad_refresh" priority="LT">"Päivitä"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Sovellus yli %1$d Mt"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Ohita"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Jatka katselua"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Katso tämä mainos loppuun ansaitaksesi palkinnon."</string>
+    <string name="hiad_whether_download" priority="LT">"Ladataanko tämä sovellus?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Esiladattu Wi-Fi-yhteydellä"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Esiladattu"</string>
+</resources>

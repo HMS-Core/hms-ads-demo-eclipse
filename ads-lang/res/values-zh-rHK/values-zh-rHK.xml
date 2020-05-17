@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="other">"%1$s 秒後自動略過"</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="other">"%1$s 天內不再提示"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="other">"%1$d 秒"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"廣告"</string>
+    <string name="hiad_ad_label_new" priority="translator">"廣告"</string>
+    <string name="hiad_app_installed" priority="LT">"「%1$s」已安裝成功"</string>
+    <string name="hiad_app_open_notification" priority="translator">"安裝完成，輕觸開啟"</string>
+    <string name="hiad_app_permission" priority="LT">"權限"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"廣告已關閉"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"不感兴趣"</string>
+    <string name="hiad_choices_hide" priority="LT">"隱藏廣告"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"為何看到此廣告？"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"使用流動網絡將消耗 %1$s 流量"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"使用流動網絡將消耗數據流量。繼續？"</string>
+    <string name="hiad_continue_download" priority="LT">"繼續下載"</string>
+    <string name="hiad_continue_download_new" priority="LT">"繼續下載"</string>
+    <string name="hiad_continue_to_play" priority="LT">"繼續播放"</string>
+    <string name="hiad_copy_link" priority="LT">"複製連結"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"應用程式"</string>
+    <string name="hiad_default_skip_text" priority="LT">"略過"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"略過 %d"</string>
+    <string name="hiad_detail" priority="LT">"詳細資訊"</string>
+    <string name="hiad_detail_download_now" priority="LT">"立即下載"</string>
+    <string name="hiad_dialog_accept" priority="LT">"接受"</string>
+    <string name="hiad_dialog_allow" priority="LT">"允許"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"取消"</string>
+    <string name="hiad_dialog_close" priority="LT">"關閉"</string>
+    <string name="hiad_dialog_continue" priority="LT">"下載"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"略過"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"允許「%1$s」安裝「%2$s」？"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"安裝來源：%1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"同意"</string>
+    <string name="hiad_dialog_open" priority="LT">"開啟"</string>
+    <string name="hiad_dialog_reject" priority="LT">"拒絕"</string>
+    <string name="hiad_dialog_title" priority="LT">"注意"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"提示"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"繼續通過流動網絡下載？"</string>
+    <string name="hiad_download_download" priority="LT">"下載"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"下載（%1$s）"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"網絡原因導致「%1$s」安装程式套件下載失敗"</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"檔案已損毀，請重新下載"</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"檔案不存在，請重新下載"</string>
+    <string name="hiad_download_install" priority="LT">"安裝"</string>
+    <string name="hiad_download_installing" priority="LT">"安裝中"</string>
+    <string name="hiad_download_no_space" priority="LT">"儲存空間不足，請清理後再安裝"</string>
+    <string name="hiad_download_open" priority="LT">"開啟"</string>
+    <string name="hiad_download_resume" priority="LT">"繼續"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"網絡原因導致「%1$s」安装程式套件下載出現異常，即將重新下載"</string>
+    <string name="hiad_download_use_mobile_network" priority="translator">"目前未連線 Wi-Fi，下載將消耗數據流量 %1$s。確定下載？"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"目前未連線 WLAN，下載將消耗 %1$s 數據流量。確定下載？"</string>
+    <string name="hiad_install_completed" priority="LT">"完成"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"網頁將開啟%1$s。允許？"</string>
+    <string name="hiad_link_already_copied" priority="LT">"連結已複製"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"目前使用流動數據網絡，立即下載將消耗 %1$s 數據流量。立即下載？"</string>
+    <string name="hiad_network_error" priority="LT">"網絡連線失敗"</string>
+    <string name="hiad_network_no_available" priority="LT">"未連線網絡，請檢查網絡設定"</string>
+    <string name="hiad_no_more_remind" priority="LT">"不再提醒"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"目前未連線 Wi-Fi 網絡，下載將消耗數據流量。繼續下載？"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"目前未連線 WLAN 網絡，下載將消耗數據流量。繼續下載？"</string>
+    <string name="hiad_open_in_browser" priority="LT">"用瀏覽器開啟"</string>
+    <string name="hiad_page_load_failed" priority="LT">"頁面載入失敗，輕觸重試"</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"「%1$s」需以下權限："</string>
+    <string name="hiad_prepare_download" priority="LT">"預約 Wi-Fi 下載"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"數據網絡下載提示"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"預約 WLAN 下載"</string>
+    <string name="hiad_privacy_policy" priority="LT">"私隱政策"</string>
+    <string name="hiad_refresh" priority="LT">"重新整理"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"大於 %1$d MB 的應用程式"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"關閉廣告"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"繼續觀看"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"獲取獎勵需觀看完整影片"</string>
+    <string name="hiad_whether_download" priority="LT">"下載該軟件？"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"已通過 Wi-Fi 預先載入"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"已在連線 WLAN 時預先載入"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/hiad_36_dp"
+    android:layout_height="@dimen/hiad_36_dp"
+    android:paddingStart="@dimen/hiad_6_dp"
+    android:paddingTop="@dimen/hiad_6_dp"
+    android:paddingEnd="@dimen/hiad_6_dp"
+    android:paddingBottom="@dimen/hiad_6_dp">
+
+    <com.huawei.hms.ads.ChoicesView
+        android:id="@+id/hiad_choices_icon"
+        android:layout_width="@dimen/hiad_24_dp"
+        android:layout_height="@dimen/hiad_24_dp"></com.huawei.hms.ads.ChoicesView>
+</RelativeLayout>

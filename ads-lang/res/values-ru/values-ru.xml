@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"Окно закроется через %1$s с."</item>
+        <item priority="translator" quantity="few">"Окно закроется через %1$s с."</item>
+        <item priority="translator" quantity="many">"Окно закроется через %1$s с."</item>
+        <item priority="translator" quantity="other">"Окно закроется через %1$s с."</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="Reviewed" quantity="one">"Запомнить выбор на %1$s день"</item>
+        <item priority="Reviewed" quantity="few">"Запомнить выбор на %1$s дня"</item>
+        <item priority="translator" quantity="many">"Запомнить выбор на %1$s дней"</item>
+        <item priority="Reviewed" quantity="other">"Запомнить выбор на %1$s дня"</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"%1$d с"</item>
+        <item priority="LT" quantity="few">"%1$d с"</item>
+        <item priority="translator" quantity="many">"%1$d с"</item>
+        <item priority="translator" quantity="other">"%1$d с"</item>
+    </plurals>
+    <string name="hiad_ad_label" priority="translator">"РЕКЛАМА"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Реклама"</string>
+    <string name="hiad_app_installed" priority="LT">"Приложение %1$s установлено"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Установка завершена. Нажмите, чтобы открыть."</string>
+    <string name="hiad_app_permission" priority="LT">"Права"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Реклама скрыта"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Неинтересно"</string>
+    <string name="hiad_choices_hide" priority="LT">"Скрыть рекламу"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Почему я вижу эту рекламу?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"При использовании мобильной сети будет израсходовано %1$s трафика. Продолжить?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Для воспроизведения будет использован мобильный трафик. Продолжить?"</string>
+    <string name="hiad_continue_download" priority="LT">"Загрузить"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ЗАГРУЗИТЬ"</string>
+    <string name="hiad_continue_to_play" priority="LT">"ПРОДОЛЖИТЬ"</string>
+    <string name="hiad_copy_link" priority="LT">"Копировать ссылку"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s МБ"</string>
+    <string name="hiad_default_app_name" priority="LT">"Приложение"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Пропустить"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Пропустить через %d"</string>
+    <string name="hiad_detail" priority="LT">"Сведения"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Загрузить"</string>
+    <string name="hiad_dialog_accept" priority="LT">"РАЗРЕШИТЬ"</string>
+    <string name="hiad_dialog_allow" priority="LT">"РАЗРЕШИТЬ"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ОТМЕНА"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ЗАГРУЗИТЬ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"OK"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Разрешить приложению %1$s установить приложение %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Источник: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"РАЗРЕШИТЬ"</string>
+    <string name="hiad_dialog_open" priority="LT">"ОТКРЫТЬ"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ЗАПРЕТИТЬ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Загрузить по мобильной сети?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Внимание"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Загрузить по мобильной сети передачи данных?"</string>
+    <string name="hiad_download_download" priority="translator">"УСТАНОВИТЬ"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ЗАГРУЗИТЬ (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Ошибка при загрузке приложения %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Файл поврежден. Загрузите повторно."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Файл не существует. Повторите попытку."</string>
+    <string name="hiad_download_install" priority="LT">"УСТАНОВИТЬ"</string>
+    <string name="hiad_download_installing" priority="LT">"УСТАНОВКА"</string>
+    <string name="hiad_download_no_space" priority="LT">"Недостаточно памяти. Освободите место в памяти и повторите попытку."</string>
+    <string name="hiad_download_open" priority="LT">"ОТКРЫТЬ"</string>
+    <string name="hiad_download_resume" priority="LT">"ПРОДОЛЖИТЬ"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Ошибка при загрузке приложения %1$s. Загрузка будет начата повторно."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Вы не подключены к сети Wi-Fi. Загрузка использует %1$s мобильного трафика. Загрузить?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Вы не подключены к сети WLAN. Загрузка использует %1$s мобильного трафика. Загрузить?"</string>
+    <string name="hiad_install_completed" priority="LT">"Готово"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Эта страница пытается открыть %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Ссылка скопирована."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Для загрузки будет использовано %1$s мобильного трафика."</string>
+    <string name="hiad_network_error" priority="LT">"Сбой сетевого соединения."</string>
+    <string name="hiad_network_no_available" priority="LT">"Нет интернет-соединения. Проверьте настройки сети."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Больше не напоминать"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Нет Wi-Fi-соединения. Загрузка будет выполнена по мобильной сети передачи данных. Загрузить?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Нет WLAN-соединения. Загрузка будет выполнена по мобильной сети передачи данных. Загрузить?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Открыть в браузере"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Сбой загрузки страницы. Повторите попытку."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"Приложению %1$s требуются следующие права:"</string>
+    <string name="hiad_prepare_download" priority="translator">"По Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Загрузить по мобильной сети?"</string>
+    <string name="hiad_prepare_download_zh" priority="translator">"По WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Политика конфиденциальности"</string>
+    <string name="hiad_refresh" priority="LT">"Обновить"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Размер приложения больше %1$d МБ"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Пропустить"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Продолжить"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Чтобы получить награду, досмотрите эту рекламу до конца."</string>
+    <string name="hiad_whether_download" priority="LT">"Загрузить это приложение?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Предзагрузка по Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Предзагружено"</string>
+</resources>

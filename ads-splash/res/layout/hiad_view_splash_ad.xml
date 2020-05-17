@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl_splash_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </RelativeLayout>
+
+    <com.huawei.openalliance.ad.views.PPSLabelView
+        android:id="@+id/hiad_ad_label"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/hiad_bg_ad_label"
+        android:gravity="center"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingBottom="1dp"
+        android:singleLine="true"
+        android:text="@string/hiad_ad_label"
+        android:textColor="@color/hiad_emui_white"
+        android:textSize="@dimen/hiad_emui_master_caption_1"
+        />
+
+    <TextView
+        android:id="@+id/hiad_ad_source"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginStart="@dimen/hiad_margin_m"
+        android:layout_marginLeft="@dimen/hiad_margin_m"
+        android:layout_marginEnd="@dimen/hiad_margin_m"
+        android:layout_marginRight="@dimen/hiad_margin_m"
+        android:paddingBottom="1dp"
+        android:singleLine="true"
+        android:textColor="@color/hiad_emui_white"
+        android:textSize="@dimen/hiad_emui_master_caption_1"
+        android:shadowColor="@color/hiad_text_shadow_color"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="2"
+        />
+
+    <ViewStub
+        android:layout="@layout/hiad_view_stub_logo"
+        android:id="@+id/hiad_logo_stub"
+        android:layout_marginStart="@dimen/hiad_page_margin_side"
+        android:layout_marginEnd="@dimen/hiad_margin_m"
+        android:layout_marginTop="@dimen/hiad_margin_l"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+</merge>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"ვინდოუსი დაიხურება %1$s წამში."</item>
+    <item priority="translator" quantity="other">"ვინდოუსი დაიხურება %1$s წამში."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
+    <item priority="Reviewed" quantity="other">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d წმ"</item>
+    <item priority="LT" quantity="other">"%1$d წმ"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"რეკლამა"</string>
+    <string name="hiad_ad_label_new" priority="translator">"რეკლამა"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s დაინსტალირდა"</string>
+    <string name="hiad_app_open_notification" priority="translator">"ინსტალაცია დასრულებულია. შეეხეთ გასახსნელად."</string>
+    <string name="hiad_app_permission" priority="LT">"ნებართვები"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"რეკლამა დამალულია"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"არ მაინტერესებს"</string>
+    <string name="hiad_choices_hide" priority="LT">"რეკლამის დამალვა"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"რატომ ვნახე ეს რეკლამა?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"მობილური ქსელის გამოყენება მოიხმარს %1$s-ის რაოდენობის მონაცემებს. გავაგრძელოთ?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"დაკვრა გამოიყენებს მობილურ მონაცემებს. გავაგრძელოთ?"</string>
+    <string name="hiad_continue_download" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_continue_to_play" priority="LT">"გაგრძელება"</string>
+    <string name="hiad_copy_link" priority="LT">"ბმულის კოპირება"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"აპი"</string>
+    <string name="hiad_default_skip_text" priority="LT">"გამოტოვება"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"გამოტოვეთ %d-ში"</string>
+    <string name="hiad_detail" priority="LT">"დეტალები"</string>
+    <string name="hiad_detail_download_now" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_dialog_accept" priority="LT">"დაშვება"</string>
+    <string name="hiad_dialog_allow" priority="LT">"უფლების მიცემა"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"გაუქმება"</string>
+    <string name="hiad_dialog_close" priority="LT">"კარგი"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ჩამოტვირთვა"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"გასაგებია"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"მივცეთ %1$s-ს %2$s-ის დაინსტალირების ნება?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"წყარო: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"დაშვება"</string>
+    <string name="hiad_dialog_open" priority="LT">"გახსნა"</string>
+    <string name="hiad_dialog_reject" priority="LT">"უარყოფა"</string>
+    <string name="hiad_dialog_title" priority="LT">"ჩამოიტვირთოს მობილური მონაცემების გამოყენებით?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"შენიშვნა"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"ჩამოვტვირთოთ მობილური მონაცემების გამოყენებით?"</string>
+    <string name="hiad_download_download" priority="translator">"ინსტალაცია"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ჩამოტვირთვა (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"შეცდომა მოხდა %1$s-ის ჩამოტვირთვის დროს."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"ფაილი დაზიანებულია. გთხოვთ, თავიდან ჩამოტვირთოთ."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"ფაილი არ არსებობს. გთხოვთ, კიდევ სცადოთ."</string>
+    <string name="hiad_download_install" priority="LT">"ინსტალაცია"</string>
+    <string name="hiad_download_installing" priority="translator">"მიმდინარეობს ინსტალაცია"</string>
+    <string name="hiad_download_no_space" priority="LT">"არასაკმარისი მეხსიერება. გაათავისუფლეთ სივრცე და კიდევ სცადეთ."</string>
+    <string name="hiad_download_open" priority="LT">"გახსნა"</string>
+    <string name="hiad_download_resume" priority="LT">"გაგრძელება"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"შეცდომა მოხდა %1$s-ის ჩამოტვირთვის დროს. ჩამოტვირთვა გადაიტვირთება."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"ამჟამად Wi-Fi-სთან არ გაქვთ კავშირი. ჩამოსატვირთად გამოიყენებთ %1$s-ის მობილურ მონაცემებს. მაინც ჩამოვტვირთოთ?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"ამჟამად WLAN-თან არ ხართ დაკავშირებული. ჩამოტვირთვა გამოიყენებს მობილური მონაცემების %1$s-ს. მაინც ჩამოვტვირთოთ?"</string>
+    <string name="hiad_install_completed" priority="LT">"შესრულებულია"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"ამ გვერდს სურს %1$s-ის გახსნა."</string>
+    <string name="hiad_link_already_copied" priority="LT">"ბმული კოპირებულია."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"ეს ჩამოტვირთვა გამოიყენებს მობილური მონაცემების %1$s-ს."</string>
+    <string name="hiad_network_error" priority="LT">"ქსელის კავშირის შეცდომა."</string>
+    <string name="hiad_network_no_available" priority="LT">"არ არის ინტერნეტ კავშირი. გთხოვთ, შეამოწმეთ თქვენი ქსელის პარამეტრები."</string>
+    <string name="hiad_no_more_remind" priority="LT">"აღარ შემახსენო"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Wi-Fi კავშირი არ არის. ახლა ჩამოტვირთვა გამოიყენებს მობილურ მონაცემებს. ჩამოვტვირთოთ?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"WLAN კავშირი არ არის. ახლა ჩამოტვირთვა გამოიყენებს მობილურ მონაცემებს. ჩამოვტვირთოთ?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"ბრაუზერში გახსნა"</string>
+    <string name="hiad_page_load_failed" priority="LT">"გვერდის ჩატვირთვა შეუძლებელია. გთხოვთ, კიდევ სცადოთ."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s მოითხოვს შემდეგ ნებართვებს:"</string>
+    <string name="hiad_prepare_download" priority="LT">"დაველოდოთ Wi-Fi-ს"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"ჩამოვტვირთოთ მობილური ქსელის მეშვეობით?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"დაველოდოთ WLAN-ს"</string>
+    <string name="hiad_privacy_policy" priority="LT">"კონფიდენციალურობის პოლიტიკა"</string>
+    <string name="hiad_refresh" priority="LT">"განახლება"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"%1$d მბ-ზე დიდი აპი"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"გამოტოვება"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"ყურების გაგრძელება"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"დაასრულეთ ამ რეკლამის ყურება ჯილდოს მისაღებად."</string>
+    <string name="hiad_whether_download" priority="LT">"ჩამოიტვირთოს ეს აპი?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"წინასწარ დატვირთული Wi-Fi-ის მეშვეობით"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"წინასწარ ჩატვირთული"</string>
+</resources>

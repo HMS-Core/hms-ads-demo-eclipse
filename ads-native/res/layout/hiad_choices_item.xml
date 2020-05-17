@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingStart="@dimen/hiad_4_dp"
+    android:paddingTop="@dimen/hiad_4_dp"
+    android:paddingEnd="@dimen/hiad_4_dp"
+    android:paddingBottom="@dimen/hiad_4_dp">
+
+    <TextView
+        android:id="@+id/scroll_view_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoSizeTextType="uniform"
+        android:background="@color/hiad_emui_color_2"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxEms="50"
+        android:singleLine="true"
+        android:textColor="@color/hiad_whythisad_btn_why_text_color" />
+</RelativeLayout>

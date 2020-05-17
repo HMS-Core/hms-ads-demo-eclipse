@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BannerView">
+        <attr format="string" name="bannerSize"/>
+        <attr format="string" name="adId"/>
+    </declare-styleable>
+    <item name="hiad_choice_view" type="id"/>
+</resources>

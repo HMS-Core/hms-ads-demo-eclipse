@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hiad_btn_skip" type="id"/>
+    <item name="hiad_full_logo_region" type="id"/>
+</resources>

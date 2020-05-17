@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Venster sluit over %1$s seconde."</item>
+    <item priority="translator" quantity="other">"Venster sluit over %1$s seconden."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="translator" quantity="one">"Keuze opslaan voor %1$s dag"</item>
+    <item priority="translator" quantity="other">"Keuze opslaan voor %1$s dagen"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d sec"</item>
+    <item priority="LT" quantity="other">"%1$d sec"</item>
+</plurals>
+    <string name="hiad_ad_label" priority="translator">"ADVERTENTIE"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Advertentie"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s is geïnstalleerd"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Installatie is voltooid. Tik om te openen."</string>
+    <string name="hiad_app_permission" priority="LT">"Toestemmingen"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Advertentie verborgen"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Niet geïnteresseerd"</string>
+    <string name="hiad_choices_hide" priority="translator">"Advertentie verbergen"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Waarom zie ik deze advertentie?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Het gebruik van een mobiel netwerk zal %1$s aan data verbruiken. Doorgaan?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Afspelen zal mobiele data verbruiken. Doorgaan?"</string>
+    <string name="hiad_continue_download" priority="LT">"Downloaden"</string>
+    <string name="hiad_continue_download_new" priority="LT">"DOWNLOADEN"</string>
+    <string name="hiad_continue_to_play" priority="LT">"DOORGAAN"</string>
+    <string name="hiad_copy_link" priority="LT">"Link kopiëren"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"App"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Overslaan"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Overslaan binnen %d"</string>
+    <string name="hiad_detail" priority="LT">"Details"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Downloaden"</string>
+    <string name="hiad_dialog_accept" priority="LT">"TOESTAAN"</string>
+    <string name="hiad_dialog_allow" priority="LT">"TOESTAAN"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ANNULEREN"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"DOWNLOADEN"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"OK"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s toestaan om %2$s te installeren?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Bron: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"TOESTAAN"</string>
+    <string name="hiad_dialog_open" priority="LT">"OPENEN"</string>
+    <string name="hiad_dialog_reject" priority="LT">"WEIGEREN"</string>
+    <string name="hiad_dialog_title" priority="LT">"Downloaden via mobiele data?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Opmerking"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Downloaden met mobiele data?"</string>
+    <string name="hiad_download_download" priority="translator">"INSTALLEREN"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"DOWNLOADEN (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Er is een fout opgetreden tijdens het downloaden van %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Bestand beschadigd. Download opnieuw."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Het bestand bestaat niet. Probeer het opnieuw."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALLEREN"</string>
+    <string name="hiad_download_installing" priority="LT">"INSTALLEREN"</string>
+    <string name="hiad_download_no_space" priority="LT">"Onvoldoende opslag. Maak wat ruimte vrij en probeer het opnieuw."</string>
+    <string name="hiad_download_open" priority="LT">"OPENEN"</string>
+    <string name="hiad_download_resume" priority="LT">"DOORGAAN"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Er is een fout opgetreden tijdens het downloaden van %1$s. Download zal opnieuw worden opgestart."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"U bent momenteel niet verbonden met wifi. Nu downloaden zal %1$s aan mobiele data kosten. Toch downloaden?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"U bent momenteel niet verbonden met WLAN. Nu downloaden zal %1$s aan mobiele data verbruiken. Toch downloaden?"</string>
+    <string name="hiad_install_completed" priority="LT">"Gereed"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Deze pagina wil %1$s openen."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Link gekopieerd."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Deze download gebruikt %1$s aan mobiele data."</string>
+    <string name="hiad_network_error" priority="LT">"Netwerkverbindingsfout."</string>
+    <string name="hiad_network_no_available" priority="LT">"Geen internetverbinding. Controleer uw netwerkinstellingen."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Niet opnieuw herinneren"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Geen wifiverbinding. Nu downloaden zal gebruik maken van uw mobiele data. Downloaden?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Geen WLAN-verbinding. Nu downloaden zal gebruik maken van uw mobiele data. Downloaden?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Openen in browser"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Kan pagina niet laden. Probeer het opnieuw."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s vereist de volgende toestemmingen:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wachten op wifi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Downloaden via mobiel netwerk?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Wachten op WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Privacybeleid"</string>
+    <string name="hiad_refresh" priority="LT">"Vernieuwen"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"App groter dan %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Overslaan"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Blijf kijken"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Bekijk deze advertentie helemaal om een beloning te winnen."</string>
+    <string name="hiad_whether_download" priority="LT">"Deze app downloaden?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Vooraf geladen via wifi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Vooraf geladen"</string>
+</resources>
