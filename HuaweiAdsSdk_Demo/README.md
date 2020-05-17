@@ -16,12 +16,12 @@
 
 ## Installation
     Install the program on Huawei Android mobile phones.
+
+## Configuration 
+    N/A
     
 ## Supported Environments
     HMS Core (APK) 4.0.0 or later has been installed on Huawei Android phones.
-	
-## Configuration 
-    N/A
 	
 ## Sample Code
     The HuaweiAdsSdk_Demo_Eclipse program integrates the HMS Core Ads SDK and provides the pages for displaying banner, native, rewarded, interstitial, and splash ads, respectively.
