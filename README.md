@@ -1,16 +1,19 @@
-# hms-ads-demo-eclipse
+# HMS Ads Demo for Eclipse
 
 ## Table of Contents
 
  * [Introduction](#introduction)
  * [License](#license)
- * [Feedback](#feedback)
+ * [Question or issues](#question-or-issues)
  
 ## Introduction
 The hms-ads-demo-eclipse project demonstrates how to integrate the HUAWEI Ads SDK into Your App Project in the Eclipse IDE.
 Please refer to https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/ads-sdk-guide#h2-1579659740546
 
 ## Question or issues
+If you want to evaluate more about HMS Core,
+[r/HMSCore on Reddit](https://www.reddit.com/r/HMSCore/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
+
 If you have questions about how to use HMS samples, try the following options:
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services) is the best place for any programming questions. Be sure to tag your question with 
 **huawei-mobile-services**.
