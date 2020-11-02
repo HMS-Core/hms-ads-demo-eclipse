@@ -1,0 +1,30 @@
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2020-2020. All rights reserved.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+  <path
+      android:pathData="M48,48m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0"
+      android:strokeAlpha="0.6"
+      android:strokeWidth="4"
+      android:fillColor="#9B9B9B"
+      android:fillAlpha="0.3"
+      android:strokeColor="#FFFFFF"
+      android:fillType="evenOdd"/>
+  <path
+      android:pathData="M48,24C45.2388,24 43,26.2388 43,29C43,31.7612 45.2388,34 48,34C50.7612,34 53,31.7612 53,29C53,26.2388 50.7612,24 48,24"
+      android:strokeWidth="1"
+      android:fillColor="#FFFFFF"
+      android:fillType="nonZero"
+      android:strokeColor="#00000000"/>
+  <path
+      android:pathData="M51,69C51,70.6569 49.6569,72 48,72C46.3431,72 45,70.6569 45,69L45,42C45,40.3431 46.3431,39 48,39C49.6569,39 51,40.3431 51,42L51,69Z"
+      android:strokeWidth="1"
+      android:fillColor="#FFFFFF"
+      android:fillType="nonZero"
+      android:strokeColor="#00000000"/>
+</vector>

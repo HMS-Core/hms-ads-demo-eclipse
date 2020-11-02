@@ -2,4 +2,5 @@
 <resources>
     <item name="hiad_btn_skip" type="id"/>
     <item name="hiad_full_logo_region" type="id"/>
+    <item name="hiad_mute_icon" type="id"/>
 </resources>

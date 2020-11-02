@@ -1,3 +1,19 @@
+/*
+ * Copyright 2020. Huawei Technologies Co., Ltd. All rights reserved.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+ */
+
 package com.huawei.hms.ads.sdk;
 
 import java.util.Locale;
@@ -51,7 +67,7 @@ public class BannerActivity extends Activity {
             // Set an ad slot ID.
             bannerView.setAdId(getString(R.string.banner_ad_id));
 
-            // Set a background color and size based on user selection.
+            // Set the background color and size based on user selection.
             BannerAdSize adSize = getBannerAdSize(sizeRadioGroup.getCheckedRadioButtonId());
             bannerView.setBannerAdSize(adSize);
 
@@ -131,7 +147,7 @@ public class BannerActivity extends Activity {
      * Load the default banner ad.
      */
     private void loadDefaultBannerAd() {
-        // Obtain BannerView from layout/activity_main.xml.
+        // Obtain BannerView based on the configuration in layout/activity_main.xml.
         defaultBannerView = findViewById(R.id.hw_banner_view);
         defaultBannerView.setAdListener(adListener);
 
@@ -164,6 +180,8 @@ public class BannerActivity extends Activity {
             case R.id.size_360_144:
                 adSize = BannerAdSize.BANNER_SIZE_360_144;
                 break;
+            default:
+                break;
         }
         return adSize;
     }
@@ -182,6 +200,8 @@ public class BannerActivity extends Activity {
                 break;
             case R.id.color_transparent:
                 color = Color.TRANSPARENT;
+                break;
+            default:
                 break;
         }
         return color;

@@ -22,7 +22,7 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
+import com.huawei.hms.ads.AdListener;
 import com.huawei.hms.ads.AdParam;
 import com.huawei.hms.ads.BannerAdSize;
 import com.huawei.hms.ads.HwAds;
@@ -153,10 +153,25 @@ public class ConsentActivity extends Activity implements ConsentDialog.ConsentDi
         AdParam adParam = new AdParam.Builder().build();
         adView.setAdId(getString(R.string.banner_ad_id));
         adView.setBannerAdSize(BannerAdSize.BANNER_SIZE_SMART);
+        adView.setAdListener(adListener);
         adView.loadAd(adParam);
 
         updateTextViewTips(consentStatus);
     }
+
+    private AdListener adListener = new AdListener() {
+        @Override
+        public void onAdLoaded() {
+            // Called when an ad is loaded successfully.
+            Toast.makeText(ConsentActivity.this, "Ad loaded successfully", Toast.LENGTH_SHORT).show();
+        }
+
+        @Override
+        public void onAdFailed(int errorCode) {
+            // Called when an ad fails to be loaded.
+            Toast.makeText(ConsentActivity.this, "Ad failed to load", Toast.LENGTH_SHORT).show();
+        }
+    };
 
     private void removeBannerAd() {
         if (adView != null) {

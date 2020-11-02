@@ -18,13 +18,12 @@
             android:layout_centerInParent="true"
             android:visibility="gone">
 
-
             <ImageView
                 android:id="@+id/hiad_banner_image_1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_centerInParent="true"
-                android:scaleType="fitCenter"></ImageView>
+                android:scaleType="fitCenter" />
         </com.huawei.openalliance.ad.views.PPSNativeView>
 
         <com.huawei.openalliance.ad.views.PPSNativeView
@@ -39,7 +38,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_centerInParent="true"
-                android:scaleType="fitCenter"></ImageView>
+                android:scaleType="fitCenter" />
         </com.huawei.openalliance.ad.views.PPSNativeView>
 
         <ImageView
@@ -51,7 +50,7 @@
             android:layout_marginTop="@dimen/hiad_4_dp"
             android:layout_marginEnd="@dimen/hiad_4_dp"
             android:src="@drawable/hiad_banner_close_btn"
-            android:visibility="gone"></ImageView>
+            android:visibility="gone" />
 
         <TextView
             android:id="@+id/hiad_ad_label"
@@ -69,7 +68,7 @@
             android:paddingBottom="@dimen/hiad_1_dp"
             android:singleLine="true"
             android:text="@string/hiad_ad_label_new"
-            android:textColor="@color/hiad_emui_white"
+            android:textColor="@color/hiad_font"
             android:textSize="@dimen/hiad_7_dp"
             android:visibility="gone" />
 
@@ -88,7 +87,7 @@
             android:paddingRight="@dimen/hiad_6_dp"
             android:paddingBottom="@dimen/hiad_1_dp"
             android:singleLine="true"
-            android:textColor="@color/hiad_emui_white"
+            android:textColor="@color/hiad_font"
             android:textSize="@dimen/hiad_7_dp"
             android:visibility="gone" />
 

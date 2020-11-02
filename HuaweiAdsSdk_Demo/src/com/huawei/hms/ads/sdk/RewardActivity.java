@@ -200,11 +200,11 @@ public class RewardActivity extends Activity {
         int random = new Random().nextInt(RANGE);
         if (random == 1) {
             score += PLUS_SCORE;
-            Toast.makeText(RewardActivity.this, "You win£¡", Toast.LENGTH_SHORT).show();
+            Toast.makeText(RewardActivity.this, "You win!", Toast.LENGTH_SHORT).show();
         } else {
             score -= MINUS_SCORE;
             score = score < 0 ? 0 : score;
-            Toast.makeText(RewardActivity.this, "You lose£¡", Toast.LENGTH_SHORT).show();
+            Toast.makeText(RewardActivity.this, "You lose!", Toast.LENGTH_SHORT).show();
         }
         setScore(score);
     }

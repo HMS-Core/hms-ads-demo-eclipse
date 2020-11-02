@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2020-2020. All rights reserved.
+  -->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
-    <RelativeLayout
-        android:id="@+id/rl_splash_container"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    </RelativeLayout>
-
-    <com.huawei.openalliance.ad.views.PPSWLSView
-        android:id="@+id/splash_wls_view"
-        android:layout_width="wrap_content"
-        android:layout_height="@dimen/hiad_24_dp"
-        android:visibility="gone">
-    </com.huawei.openalliance.ad.views.PPSWLSView>
+    <com.huawei.hms.ads.splash.ChoicesView
+        android:id="@+id/splash_why_this_ad"
+        android:layout_width="@dimen/hiad_24_dp"
+        android:layout_height="@dimen/hiad_24_dp">
+    </com.huawei.hms.ads.splash.ChoicesView>
 
     <com.huawei.openalliance.ad.views.PPSLabelView
-        android:id="@+id/hiad_ad_label"
+        android:id="@+id/hiad_ad_label_wls"
         android:visibility="gone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,13 +24,13 @@
         android:paddingRight="4dp"
         android:paddingBottom="1dp"
         android:singleLine="true"
-        android:text="@string/hiad_ad_label"
+        android:text="@string/hiad_ad_label_new"
         android:textColor="@color/hiad_font"
         android:textSize="@dimen/hiad_emui_master_caption_1"
         />
 
     <TextView
-        android:id="@+id/hiad_ad_source"
+        android:id="@+id/hiad_ad_source_wls"
         android:visibility="gone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -53,17 +49,5 @@
         android:shadowDx="2"
         android:shadowDy="2"
         android:shadowRadius="2"
-        />
-
-    <ViewStub
-        android:layout="@layout/hiad_view_stub_logo"
-        android:id="@+id/hiad_logo_stub"
-        android:layout_marginStart="@dimen/hiad_page_margin_side"
-        android:layout_marginLeft="@dimen/hiad_page_margin_side"
-        android:layout_marginEnd="@dimen/hiad_margin_m"
-        android:layout_marginRight="@dimen/hiad_margin_m"
-        android:layout_marginTop="@dimen/hiad_margin_l"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         />
 </merge>

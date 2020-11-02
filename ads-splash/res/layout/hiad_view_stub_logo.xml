@@ -15,11 +15,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/hiad_emui_master_subtitle"
-        android:textColor="@color/hiad_emui_white"
+        android:textColor="@color/hiad_font"
         android:maxEms="6"
         android:singleLine="true"
         android:ellipsize="end"
-        android:shadowColor="@color/hiad_text_shadow_color"
+        android:shadowColor="@color/hiad_source_shadow_color"
         android:shadowDx="2"
         android:shadowDy="2"
         android:shadowRadius="2"/>

@@ -4,7 +4,7 @@
     android:layout_height="wrap_content">
     <TextView
         android:id="@+id/hiad_skip_text"
-        android:textColor="@color/hiad_emui_white"
+        android:textColor="@color/hiad_font"
         android:textSize="@dimen/hiad_emui_master_body_1"
         android:gravity="center"
         android:singleLine="true"

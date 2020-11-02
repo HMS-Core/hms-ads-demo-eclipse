@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2020-2020. All rights reserved.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/window_image_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ProgressBar
+        android:id="@+id/window_image_progress"
+        style="@style/HIAD_Video_Buffer_ProgressBar"
+        android:layout_width="@dimen/hiad_video_buffering_w"
+        android:layout_height="@dimen/hiad_video_buffering_w"
+        android:layout_centerInParent="true" />
+</RelativeLayout>

@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="hiad_progress_button">
-        <attr format="boolean" name="hiad_fixedWidth"/>
-        <attr format="dimension" name="hiad_minWidth"/>
-        <attr format="dimension" name="hiad_maxWidth"/>
-        <attr format="dimension" name="hiad_textSize"/>
-        <attr format="color" name="hiad_textColor"/>
-        <attr format="string" name="hiad_fontFamily"/>
-        <attr format="integer" name="hiad_typefaceIndex"/>
-        <attr format="integer" name="hiad_styleIndex"/>
-    </declare-styleable>
     <style name="HIAD_App_desc_text">
         <item name="android:textSize">@dimen/hiad_text_13_sp</item>
         <item name="android:textColor">@color/hiad_app_text_color</item>
@@ -39,4 +29,14 @@
     </style>
     <style name="HiAdThemeNoActionBar" parent="HiAdBaseThemeNoActionBar">
     </style>
+    <declare-styleable name="hiad_progress_button">
+        <attr format="boolean" name="hiad_fixedWidth"/>
+        <attr format="dimension" name="hiad_minWidth"/>
+        <attr format="dimension" name="hiad_maxWidth"/>
+        <attr format="dimension" name="hiad_textSize"/>
+        <attr format="color" name="hiad_textColor"/>
+        <attr format="string" name="hiad_fontFamily"/>
+        <attr format="integer" name="hiad_typefaceIndex"/>
+        <attr format="integer" name="hiad_styleIndex"/>
+    </declare-styleable>
 </resources>

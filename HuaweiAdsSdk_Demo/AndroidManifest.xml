@@ -51,6 +51,11 @@
             android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".InstreamActivity"
+            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|touchscreen"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
             android:name=".ProtocolActivity"
             android:exported="false"
             android:parentActivityName=".MainActivity"

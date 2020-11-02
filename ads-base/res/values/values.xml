@@ -25,6 +25,8 @@
     <color name="hiad_app_down_processing_progress">#33007dff</color>
     <color name="hiad_app_down_processing_text">#000000</color>
     <color name="hiad_app_text_color">#1A1A1A</color>
+    <color name="hiad_button_bg">#4c9b9b9b</color>
+    <color name="hiad_button_stroke">#99ffffff</color>
     <color name="hiad_continue_play_btn_text">@color/hiad_emui_white</color>
     <color name="hiad_dialog_gray_10">#191919</color>
     <color name="hiad_down_normal_bg">#0D000000</color>
@@ -61,11 +63,13 @@
     <color name="hiad_emui_functional_red">#FA2A2D</color>
     <color name="hiad_emui_primary">#191919</color>
     <color name="hiad_emui_white">#FFFFFF</color>
+    <color name="hiad_font">#ffffff</color>
     <color name="hiad_landing_app_down_normal_bg">#007dff</color>
     <color name="hiad_landing_app_down_normal_bg_pressed">#005BBA</color>
     <color name="hiad_open_btn_normal_bg">#0D000000</color>
     <color name="hiad_open_btn_pressed_bg">#E5E5E5</color>
     <color name="hiad_seekbar_thumb_edge_color">#08000000</color>
+    <color name="hiad_source_shadow_color">#4c000000</color>
     <color name="hiad_text_color_ad_hiden">#4c000000</color>
     <color name="hiad_text_shadow_color">#4c000000</color>
     <color name="hiad_transparent">#00ffffff</color>
@@ -83,13 +87,6 @@
     <color name="hiad_whythisad_normal_bg">#007DFF</color>
     <color name="hiad_whythisad_normal_bg_pressed">#005BBA</color>
     <color name="hiad_whythisad_root_bg">#00ffffff</color>
-    <declare-styleable name="PPSBannerView">
-        <attr format="string" name="hiad_bannerSize"/>
-        <attr format="string" name="hiad_adId"/>
-    </declare-styleable>
-    <declare-styleable name="PPSRoundCornerLayout">
-        <attr format="dimension" name="hiad_roundCorner"/>
-    </declare-styleable>
     <dimen name="hiad_10_dp">10dp</dimen>
     <dimen name="hiad_12_dp">12dp</dimen>
     <dimen name="hiad_14_dp">14dp</dimen>
@@ -246,7 +243,9 @@
     <string name="hiad_install_completed" priority="LT">Done</string>
     <string name="hiad_landing_page_open_app" priority="LT">This page wants to open %1$s.</string>
     <string name="hiad_link_already_copied" priority="LT">Link copied.</string>
+    <string name="hiad_loading_tips">Loading…</string>
     <string name="hiad_mobile_download_prompt" priority="translator">This download will use %1$s of mobile data.</string>
+    <string name="hiad_net_error">Network connection error. Please try again.</string>
     <string name="hiad_network_error" priority="LT">Network connection error.</string>
     <string name="hiad_network_no_available" priority="LT">No Internet connection. Please check your network settings.</string>
     <string name="hiad_no_more_remind" priority="LT">Don\'t remind me again</string>
@@ -280,4 +279,11 @@
         <item name="android:textColor">@color/hiad_dialog_gray_10</item>
         <item name="android:fontFamily">HwChinese-medium</item>
     </style>
+    <declare-styleable name="PPSBannerView">
+        <attr format="string" name="hiad_bannerSize"/>
+        <attr format="string" name="hiad_adId"/>
+    </declare-styleable>
+    <declare-styleable name="PPSRoundCornerLayout">
+        <attr format="dimension" name="hiad_roundCorner"/>
+    </declare-styleable>
 </resources>

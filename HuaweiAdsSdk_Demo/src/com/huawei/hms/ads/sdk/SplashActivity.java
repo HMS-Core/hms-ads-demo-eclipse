@@ -35,7 +35,7 @@ public class SplashActivity extends Activity {
     private static final String TAG = SplashActivity.class.getSimpleName();
 
     // Ad display timeout interval, in milliseconds.
-    private static final int AD_TIMEOUT = 10000;
+    private static final int AD_TIMEOUT = 5000;
 
     // Ad display timeout message flag.
     private static final int MSG_AD_TIMEOUT = 1001;
@@ -117,6 +117,8 @@ public class SplashActivity extends Activity {
 
         // Set a default app launch image.
         splashView.setSloganResId(R.drawable.default_slogan);
+
+        splashView.setLogo(findViewById(R.id.logo));
 
         // Set a logo image.
         splashView.setLogoResId(R.drawable.ic_launcher);

@@ -120,14 +120,6 @@ public class NativeActivity extends Activity {
 
                 // Display native ad.
                 showNativeAd(nativeAd);
-
-                nativeAd.setDislikeAdListener(new DislikeAdListener() {
-                    @Override
-                    public void onAdDisliked() {
-                        // Call this method when an ad is closed.
-                        updateStatus(getString(R.string.ad_is_closed), true);
-                    }
-                });
             }
         }).setAdListener(new AdListener() {
             @Override
@@ -161,10 +153,18 @@ public class NativeActivity extends Activity {
         globalNativeAd = nativeAd;
 
         // Obtain NativeView.
-        NativeView nativeView = (NativeView) getLayoutInflater().inflate(layoutId, null);
+        final NativeView nativeView = (NativeView) getLayoutInflater().inflate(layoutId, null);
 
         // Register and populate a native ad material view.
         initNativeAdView(globalNativeAd, nativeView);
+        globalNativeAd.setDislikeAdListener(new DislikeAdListener() {
+            @Override
+            public void onAdDisliked() {
+                // Call this method when an ad is closed.
+                updateStatus(getString(R.string.ad_is_closed), true);
+                adScrollView.removeView(nativeView);
+            }
+        });
 
         // Add NativeView to the app UI.
         adScrollView.removeAllViews();
