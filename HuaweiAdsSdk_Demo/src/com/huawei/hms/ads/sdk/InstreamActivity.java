@@ -116,6 +116,7 @@ public class InstreamActivity extends Activity {
         @Override
         public void onMediaCompletion(int playTime) {
             updateCountDown(playTime);
+            removeInstream();
             playVideo();
         }
 
@@ -141,16 +142,14 @@ public class InstreamActivity extends Activity {
 
     private void initInstreamAdView() {
         instreamContainer = findViewById(R.id.instream_ad_container);
+        instreamView = new InstreamView(getApplicationContext());
+        instreamContainer.addView(instreamView, 0);
         videoContent = findViewById(R.id.instream_video_content);
         skipAd = findViewById(R.id.instream_skip);
         skipAd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (null != instreamView) {
-                    instreamView.onClose();
-                    instreamView.destroy();
-                    instreamContainer.setVisibility(View.GONE);
-                }
+                removeInstream();
             }
         });
 
@@ -158,7 +157,6 @@ public class InstreamActivity extends Activity {
         callToAction = findViewById(R.id.instream_call_to_action);
         whyThisAd = findViewById(R.id.instream_why_this_ad);
 
-        instreamView = findViewById(R.id.instream_view);
         instreamView.setInstreamMediaChangeListener(mediaChangeListener);
         instreamView.setInstreamMediaStateListener(mediaStateListener);
         instreamView.setMediaMuteListener(mediaMuteListener);
@@ -170,12 +168,25 @@ public class InstreamActivity extends Activity {
         });
     }
 
+    private void removeInstream() {
+        if (null != instreamView) {
+            instreamView.onClose();
+            instreamView.destroy();
+            instreamContainer.removeView(instreamView);
+            instreamContainer.setVisibility(View.GONE);
+            instreamAds.clear();
+        }
+    }
+
     private View.OnClickListener clickListener = new View.OnClickListener() {
         @Override
         public void onClick(View view) {
             switch (view.getId()) {
                 case R.id.instream_load:
-                    if (null != adLoader) {
+                    if (instreamView.isPlaying()) {
+                        Toast.makeText(context, getString(R.string.instream_ads_playing), Toast.LENGTH_SHORT).show();
+                    } else if (null != adLoader) {
+                        initInstreamAdView();
                         loadButton.setText(getString(R.string.instream_loading));
                         adLoader.loadAd(new AdParam.Builder().build());
                     }
@@ -183,6 +194,8 @@ public class InstreamActivity extends Activity {
                 case R.id.instream_register:
                     if (null == instreamAds || instreamAds.size() == 0) {
                         playVideo();
+                    } else if (instreamView.isPlaying()) {
+                        Toast.makeText(context, getString(R.string.instream_ads_playing), Toast.LENGTH_SHORT).show();
                     } else {
                         playInstreamAds(instreamAds);
                     }
