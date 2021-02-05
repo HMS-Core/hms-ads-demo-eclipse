@@ -8,7 +8,7 @@
  
 ## Introduction
 The hms-ads-demo-eclipse project demonstrates how to integrate the HUAWEI Ads SDK into Your App Project in the Eclipse IDE.
-Please refer to https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/ads-sdk-guide#h2-1579659740546
+Please refer to https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/eclipse-integrating-sdk-0000001055373923
 
 ## Question or issues
 If you want to evaluate more about HMS Core,
