@@ -1,5 +1,5 @@
-# HMS Ads Demo for Eclipse
-中文 | [English](https://github.com/HMS-Core/hms-ads-demo-eclipse/edit/master/README.md)
+# 华为广告服务Eclipse示例代码
+中文 | [English](https://github.com/HMS-Core/hms-ads-demo-eclipse)
 ## 目录
 
  * [简介](#简介)
