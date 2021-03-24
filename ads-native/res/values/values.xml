@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="HIAD_App_desc_text">
-        <item name="android:textSize">@dimen/hiad_text_13_sp</item>
-        <item name="android:textColor">@color/hiad_app_text_color</item>
-        <item name="android:alpha">0.5</item>
-        <item name="android:fontFamily">HwChinese-medium</item>
-    </style>
-    <style name="HIAD_App_download_text">
-        <item name="android:textSize">@dimen/hiad_text_16_sp</item>
-        <item name="android:textColor">@color/hiad_emui_white</item>
-        <item name="android:fontFamily">HwChinese-medium</item>
-    </style>
-    <style name="HIAD_App_permission_text">
-        <item name="android:textSize">@dimen/hiad_text_13_sp</item>
-        <item name="android:textColor">@color/hiad_landing_app_down_normal_bg</item>
-        <item name="android:fontFamily">HwChinese-medium</item>
-    </style>
-    <style name="HIAD_App_title_text">
-        <item name="android:textSize">@dimen/hiad_text_18_sp</item>
-        <item name="android:textColor">@color/hiad_app_text_color</item>
-        <item name="android:fontFamily">HwChinese-medium</item>
-    </style>
     <style name="HIAD_Video_Buffer_ProgressBar">
         <item name="android:indeterminateOnly">true</item>
         <item name="android:indeterminateDrawable">@drawable/hiad_video_buffer_progress</item>

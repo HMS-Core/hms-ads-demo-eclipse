@@ -72,7 +72,6 @@
     <string name="hiad_prepare_download" priority="LT">"Chờ Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Tải xuống qua mạng di động?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Chờ WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Chính sách Quyền riêng tư"</string>
     <string name="hiad_refresh" priority="LT">"Làm mới"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Ứng dụng có kích thước trên %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Bỏ qua"</string>

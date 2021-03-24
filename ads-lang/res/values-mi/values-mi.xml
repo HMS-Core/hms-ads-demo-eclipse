@@ -87,7 +87,6 @@
     <string name="hiad_prepare_download" priority="LT">"Tatari mō te Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Tikiake mā te whatunga pūkoro?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Tatari mō te WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Kaupapahere tūmataitinga"</string>
     <string name="hiad_refresh" priority="LT">"Tāmata"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Neke atu i te %1$d MB te taupānga"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Tīpoka"</string>

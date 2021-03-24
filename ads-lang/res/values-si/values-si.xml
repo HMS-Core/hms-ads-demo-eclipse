@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi සඳහා රැඳී සිටින්න"</string>
     <string name="hiad_prepare_download_title" priority="LT">"ජංගම ජාලය ඔස්සේ බාගන්න ද?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN සඳහා රැඳී සිටින්න"</string>
-    <string name="hiad_privacy_policy" priority="LT">"රහස්‍යතා ප්‍ර‍තිපත්තිය"</string>
     <string name="hiad_refresh" priority="LT">"නැවුම් කරන්න"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"යෙදුම %1$d MB ට වඩා විශාලය"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"මග හරින්න"</string>

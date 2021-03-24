@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved.
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="@dimen/hiad_download_button_radius" />
+            <solid android:color="@color/hiad_app_down_installing_bg_hm" />
+            <stroke
+                android:width="@dimen/hiad_download_button_stroke_width"
+                android:color="@color/hiad_app_down_installing_stroke" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip android:gravity="start">
+            <shape>
+                <corners android:radius="@dimen/hiad_download_button_radius" />
+                <solid android:color="@color/hiad_app_down_installing_bg" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

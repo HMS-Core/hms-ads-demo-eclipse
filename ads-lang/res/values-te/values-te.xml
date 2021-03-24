@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi కోసం వేచి ఉండు"</string>
     <string name="hiad_prepare_download_title" priority="LT">"మొబైల్ నెట్‌వర్క్ ద్వారా డౌన్‌లోడ్ చేయాలా?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN కోసం వేచి ఉండు"</string>
-    <string name="hiad_privacy_policy" priority="LT">"గోప్యతా విధానం"</string>
     <string name="hiad_refresh" priority="LT">"రీఫ్రెష్ చేయి"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"అప్లికేషన్ %1$d MB కంటే పెద్దగా ఉంది"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"దాటవేయి"</string>

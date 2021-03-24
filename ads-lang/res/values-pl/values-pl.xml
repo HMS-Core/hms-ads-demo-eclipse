@@ -81,7 +81,6 @@
     <string name="hiad_prepare_download" priority="LT">"Zaczekaj na Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Pobrać przez komórkową transmisję danych?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Zaczekaj na WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Zasady ochrony prywatności"</string>
     <string name="hiad_refresh" priority="LT">"Odśwież"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Rozmiar aplikacji przekracza %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Pomiń"</string>

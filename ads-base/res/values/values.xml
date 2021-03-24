@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="emui_color_bg">#FFFFFFFF</color>
     <color name="hiad_0_percent_black">#00000000</color>
     <color name="hiad_10_percent_black">#19000000</color>
     <color name="hiad_10_percent_white">#19ffffff</color>
@@ -19,6 +18,7 @@
     <color name="hiad_80_percent_white">#ccffffff</color>
     <color name="hiad_activie_app_desc_color">#99000000</color>
     <color name="hiad_app_down_installing_bg">#0D000000</color>
+    <color name="hiad_app_down_installing_bg_hm">#330A59F7</color>
     <color name="hiad_app_down_installing_stroke">#0D000000</color>
     <color name="hiad_app_down_installing_text">#005BBA</color>
     <color name="hiad_app_down_processing_backgroud">#00000000</color>
@@ -30,7 +30,9 @@
     <color name="hiad_continue_play_btn_text">@color/hiad_emui_white</color>
     <color name="hiad_dialog_gray_10">#191919</color>
     <color name="hiad_down_normal_bg">#0D000000</color>
+    <color name="hiad_down_normal_bg_hm">#0A59F7</color>
     <color name="hiad_down_normal_bg_press">#1A000000</color>
+    <color name="hiad_down_normal_bg_press_hm">#005BBA</color>
     <color name="hiad_down_normal_stroke">#0D000000</color>
     <color name="hiad_down_normal_text">#005BBA</color>
     <color name="hiad_emui_8_btn_color">#007DFF</color>
@@ -76,15 +78,15 @@
     <color name="hiad_video_buffer_progress_end">#0d9ffb</color>
     <color name="hiad_video_buffer_progress_start">#000d9ffb</color>
     <color name="hiad_video_progress_bg">#26ffffff</color>
-    <color name="hiad_video_progress_blue">#0d9ffb</color>
+    <color name="hiad_video_progress_blue">#0A59F7</color>
     <color name="hiad_video_progress_buffer">#330d9ffb</color>
     <color name="hiad_video_time_txt">#b2ffffff</color>
     <color name="hiad_whythisad_btn_fb_bg_normal_color">#0d000000</color>
     <color name="hiad_whythisad_btn_fb_bg_special_color">#33007DFF</color>
     <color name="hiad_whythisad_btn_fb_text_color">#E5000000</color>
     <color name="hiad_whythisad_btn_hide_text_color">#ccffffff</color>
-    <color name="hiad_whythisad_btn_why_text_color">#007DFF</color>
-    <color name="hiad_whythisad_normal_bg">#007DFF</color>
+    <color name="hiad_whythisad_btn_why_text_color">#0A59F7</color>
+    <color name="hiad_whythisad_normal_bg">#0A59F7</color>
     <color name="hiad_whythisad_normal_bg_pressed">#005BBA</color>
     <color name="hiad_whythisad_root_bg">#00ffffff</color>
     <dimen name="hiad_10_dp">10dp</dimen>
@@ -110,37 +112,26 @@
     <dimen name="hiad_72_dp">72dp</dimen>
     <dimen name="hiad_7_dp">7dp</dimen>
     <dimen name="hiad_8_dp">8dp</dimen>
-    <dimen name="hiad_ad_label_margin_bottom">8dp</dimen>
-    <dimen name="hiad_ad_label_margin_start">8dp</dimen>
-    <dimen name="hiad_ad_label_text_size">8dp</dimen>
     <dimen name="hiad_alert_msg_margin_b">8dp</dimen>
-    <dimen name="hiad_app_detail_height">92dp</dimen>
-    <dimen name="hiad_app_detail_padding">16dp</dimen>
-    <dimen name="hiad_app_download_height">36dp</dimen>
-    <dimen name="hiad_app_download_padding">8dp</dimen>
-    <dimen name="hiad_app_download_width">120dp</dimen>
-    <dimen name="hiad_app_icon_size">72dp</dimen>
-    <dimen name="hiad_app_permission_width">50dp</dimen>
     <dimen name="hiad_download_bar_height">48dp</dimen>
     <dimen name="hiad_download_bar_item_icon_size">24dp</dimen>
     <dimen name="hiad_download_bar_item_min_text">9dp</dimen>
     <dimen name="hiad_download_bar_item_text">10dp</dimen>
-    <dimen name="hiad_download_button_radius">6dp</dimen>
+    <dimen name="hiad_download_button_radius">18dp</dimen>
     <dimen name="hiad_download_button_stroke_processing_width">1dp</dimen>
     <dimen name="hiad_download_button_stroke_width">0dp</dimen>
-    <dimen name="hiad_emui_master_body_1">12sp</dimen>
+    <dimen name="hiad_emui_master_body_1">12dp</dimen>
     <dimen name="hiad_emui_master_body_2">13sp</dimen>
-    <dimen name="hiad_emui_master_caption_1">9sp</dimen>
+    <dimen name="hiad_emui_master_caption_1">9dp</dimen>
     <dimen name="hiad_emui_master_caption_2">10sp</dimen>
     <dimen name="hiad_emui_master_display_1">30sp</dimen>
     <dimen name="hiad_emui_master_display_2">36sp</dimen>
     <dimen name="hiad_emui_master_display_3">45dp</dimen>
     <dimen name="hiad_emui_master_display_4">80dp</dimen>
     <dimen name="hiad_emui_master_display_5">100dp</dimen>
-    <dimen name="hiad_emui_master_subtitle">15sp</dimen>
+    <dimen name="hiad_emui_master_subtitle">15dp</dimen>
     <dimen name="hiad_emui_master_title_1">18sp</dimen>
     <dimen name="hiad_emui_master_title_2">24sp</dimen>
-    <dimen name="hiad_extand_download_button_radius">16dp</dimen>
     <item format="float" name="hiad_linespacing_l" type="dimen">1.4</item>
     <item format="float" name="hiad_linespacing_m" type="dimen">1.1</item>
     <item format="float" name="hiad_linespacing_s" type="dimen">1.0</item>
@@ -164,7 +155,6 @@
     <dimen name="hiad_radius_l">8dp</dimen>
     <dimen name="hiad_radius_m">4dp</dimen>
     <dimen name="hiad_radius_s">2dp</dimen>
-    <dimen name="hiad_reward_button_height">24dp</dimen>
     <dimen name="hiad_text_12_sp">12sp</dimen>
     <dimen name="hiad_text_13_sp">13sp</dimen>
     <dimen name="hiad_text_14_sp">14sp</dimen>
@@ -174,12 +164,9 @@
     <dimen name="hiad_text_9_sp">9sp</dimen>
     <dimen name="hiad_video_buffering_w">52dp</dimen>
     <dimen name="hiad_video_play_time_marge_l">48dp</dimen>
-    <dimen name="hiad_video_progressbar_h">3dp</dimen>
     <dimen name="hiad_video_sound_toggle_h">24dp</dimen>
     <dimen name="hiad_video_sound_toggle_w">24dp</dimen>
     <dimen name="hiad_video_time_margin_b">7dp</dimen>
-    <dimen name="hiad_video_total_time_marge_r">12dp</dimen>
-    <dimen name="hiad_wifi_preload_label_v_m">19dp</dimen>
     <plurals name="hiad_dismiss_dilaog">
         <item priority="translator" quantity="one">Window will close in %1$s second.</item>
         <item priority="translator" quantity="other">Window will close in %1$s seconds.</item>
@@ -257,7 +244,6 @@
     <string name="hiad_prepare_download" priority="translator">Wait for Wi-Fi</string>
     <string name="hiad_prepare_download_title" priority="translator">Download over mobile network?</string>
     <string name="hiad_prepare_download_zh" priority="translator">Wait for WLAN</string>
-    <string name="hiad_privacy_policy" priority="translator">Privacy policy</string>
     <string name="hiad_refresh" priority="LT">Refresh</string>
     <string name="hiad_reminder_app_over_size" priority="LT">App larger than %1$d MB</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">Skip</string>
@@ -266,6 +252,26 @@
     <string name="hiad_whether_download" priority="LT">Download this app?</string>
     <string name="hiad_wifi_loaded_already" priority="LT">Pre-loaded over Wi-Fi</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">Preloaded</string>
+    <style name="AlertDialogLight">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowTitleStyle">@style/AlertDialogLight.Title</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:buttonBarButtonStyle">@style/AlertDialogLight.buttonBar</item>
+    </style>
+    <style name="AlertDialogLight.Title">
+        <item name="android:maxLines">0</item>
+        <item name="android:lines">0</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="AlertDialogLight.buttonBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textSize">10sp</item>
+    </style>
     <style name="HIAD_Permissions_child_text">
         <item name="android:textSize">@dimen/hiad_text_13_sp</item>
         <item name="android:textColor">@color/hiad_dialog_gray_10</item>
@@ -285,5 +291,8 @@
     </declare-styleable>
     <declare-styleable name="PPSRoundCornerLayout">
         <attr format="dimension" name="hiad_roundCorner"/>
+    </declare-styleable>
+    <declare-styleable name="hiad_clicktracker">
+        <attr format="boolean" name="trackEnable"/>
     </declare-styleable>
 </resources>

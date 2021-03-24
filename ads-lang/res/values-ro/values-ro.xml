@@ -78,7 +78,6 @@
     <string name="hiad_prepare_download" priority="LT">"Așteptați pentru Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Descărcați prin rețeaua mobilă?"</string>
     <string name="hiad_prepare_download_zh" priority="translator">"Așteptați pentru WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Politică de confidențialitate"</string>
     <string name="hiad_refresh" priority="LT">"Reîmprospătare"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Aplicația depășește %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Omitere"</string>

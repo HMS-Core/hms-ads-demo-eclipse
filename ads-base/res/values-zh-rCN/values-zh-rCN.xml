@@ -74,7 +74,6 @@
     <string name="hiad_prepare_download" priority="translator">"预约 Wi-Fi 下载"</string>
     <string name="hiad_prepare_download_title" priority="translator">"数据网络下载提示"</string>
     <string name="hiad_prepare_download_zh" priority="translator">"预约 WLAN 下载"</string>
-    <string name="hiad_privacy_policy" priority="translator">"隐私政策"</string>
     <string name="hiad_refresh" priority="LT">"刷新"</string>
     <string name="hiad_reminder_app_over_size" priority="translator">"超过%1$d MB 的应用"</string>
     <string name="hiad_reward_close_dialog_close" priority="translator">"关闭广告"</string>

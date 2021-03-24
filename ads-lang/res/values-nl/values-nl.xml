@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wachten op wifi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Downloaden via mobiel netwerk?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Wachten op WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Privacybeleid"</string>
     <string name="hiad_refresh" priority="LT">"Vernieuwen"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"App groter dan %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Overslaan"</string>

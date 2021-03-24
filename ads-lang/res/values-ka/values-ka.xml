@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"დაველოდოთ Wi-Fi-ს"</string>
     <string name="hiad_prepare_download_title" priority="LT">"ჩამოვტვირთოთ მობილური ქსელის მეშვეობით?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"დაველოდოთ WLAN-ს"</string>
-    <string name="hiad_privacy_policy" priority="LT">"კონფიდენციალურობის პოლიტიკა"</string>
     <string name="hiad_refresh" priority="LT">"განახლება"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$d მბ-ზე დიდი აპი"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"გამოტოვება"</string>

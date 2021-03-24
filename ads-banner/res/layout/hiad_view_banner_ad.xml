@@ -18,12 +18,14 @@
             android:layout_centerInParent="true"
             android:visibility="gone">
 
-            <ImageView
+            <com.huawei.openalliance.ad.views.AdvancedImageView
+                xmlns:clickTracker="http://schemas.android.com/apk/res-auto"
                 android:id="@+id/hiad_banner_image_1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_centerInParent="true"
-                android:scaleType="fitCenter" />
+                android:scaleType="fitCenter"
+                clickTracker:trackEnable="true" />
         </com.huawei.openalliance.ad.views.PPSNativeView>
 
         <com.huawei.openalliance.ad.views.PPSNativeView
@@ -33,12 +35,14 @@
             android:layout_centerInParent="true"
             android:visibility="gone">
 
-            <ImageView
+            <com.huawei.openalliance.ad.views.AdvancedImageView
+                xmlns:clickTracker="http://schemas.android.com/apk/res-auto"
                 android:id="@+id/hiad_banner_image_2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_centerInParent="true"
-                android:scaleType="fitCenter" />
+                android:scaleType="fitCenter"
+                clickTracker:trackEnable="true" />
         </com.huawei.openalliance.ad.views.PPSNativeView>
 
         <ImageView

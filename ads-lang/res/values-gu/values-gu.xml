@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi ની રાહ જુઓ"</string>
     <string name="hiad_prepare_download_title" priority="LT">"મોબાઇલ નેટવર્ક પર ડાઉનલોડ કરીએ?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN ની રાહ જુઓ"</string>
-    <string name="hiad_privacy_policy" priority="LT">"ગોપનીયતા નીતિ"</string>
     <string name="hiad_refresh" priority="LT">"ફરી તાજુ કરો"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB થી વધુ મોટી એપ્લિકેશન"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"છોડી દો"</string>

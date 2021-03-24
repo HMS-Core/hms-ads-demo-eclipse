@@ -78,7 +78,6 @@
     <string name="hiad_prepare_download" priority="LT">"Gaidīt Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Vai lejupielādēt, izmantojot mobilo tīklu?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Gaidīt WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Konfidencialitātes politika"</string>
     <string name="hiad_refresh" priority="LT">"Atsvaidzināt"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Lietotne, lielāka par %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Izlaist"</string>

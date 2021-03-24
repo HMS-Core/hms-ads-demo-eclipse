@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi ପାଇଁ ଅପେକ୍ଷା କରନ୍ତୁ"</string>
     <string name="hiad_prepare_download_title" priority="LT">"ମୋବାଇଲ୍ ନେଟୱା‌ର୍କ୍‌ରେ ଡାଉନଲୋଡ୍ କରିବେ?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN ପାଇଁ ଅପେକ୍ଷା କରନ୍ତୁ"</string>
-    <string name="hiad_privacy_policy" priority="LT">"ଗୋପନୀୟତା ନୀତି"</string>
     <string name="hiad_refresh" priority="LT">"ସତେଜ"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MBରୁ ଲମ୍ୱା ଆପ୍"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"ଅତିକ୍ରମ କରନ୍ତୁ"</string>

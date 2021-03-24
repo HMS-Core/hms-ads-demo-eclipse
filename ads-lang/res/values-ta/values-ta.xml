@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi-க்காகக் காத்திரு"</string>
     <string name="hiad_prepare_download_title" priority="LT">"மொபைல் பிணையம் வழியாகப் பதிவிறக்கவா?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN-க்காகக் காத்திரு"</string>
-    <string name="hiad_privacy_policy" priority="LT">"தனியுரிமைக் கொள்கை"</string>
     <string name="hiad_refresh" priority="LT">"புதுப்பி"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB-க்கும் பெரிய செயலி"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"தவிர்"</string>

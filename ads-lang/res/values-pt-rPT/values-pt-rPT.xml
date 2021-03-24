@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Aguardar pelo Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Transferir via rede móvel?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Aguardar pelo WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Política de privacidade"</string>
     <string name="hiad_refresh" priority="LT">"Atualizar"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Aplicação com mais de %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Ignorar"</string>

@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Hintayin ang Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"I-download sa pamamagitan ng mobile network?"</string>
     <string name="hiad_prepare_download_zh" priority="translator">"Hintayin ang WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Patakaran sa privacy"</string>
     <string name="hiad_refresh" priority="LT">"I-refresh"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Mas malaki sa %1$d MB ang app"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Laktawan"</string>

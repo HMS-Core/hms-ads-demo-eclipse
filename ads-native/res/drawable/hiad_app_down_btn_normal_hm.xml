@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved.
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background" android:state_pressed="true" android:state_enabled="true">
+        <shape>
+            <corners android:radius="@dimen/hiad_download_button_radius"/>
+            <solid android:color="@color/hiad_down_normal_bg_press_hm"/>
+            <stroke android:width="@dimen/hiad_download_button_stroke_width" android:color="@color/hiad_down_normal_bg_press_hm"/>
+        </shape>
+    </item>
+    <item android:id="@android:id/background" android:state_enabled="true" android:state_pressed="false">
+        <shape>
+            <corners android:radius="@dimen/hiad_download_button_radius"/>
+            <solid android:color="@color/hiad_down_normal_bg_hm"/>
+            <stroke android:width="@dimen/hiad_download_button_stroke_width" android:color="@color/hiad_down_normal_bg_hm"/>
+        </shape>
+    </item>
+    <item android:id="@android:id/background" android:state_enabled="false">
+        <shape>
+            <corners android:radius="@dimen/hiad_download_button_radius"/>
+            <solid android:color="@color/hiad_down_normal_bg_hm"/>
+            <stroke android:width="@dimen/hiad_download_button_stroke_width" android:color="@color/hiad_down_normal_bg_hm"/>
+        </shape>
+    </item>
+</selector>

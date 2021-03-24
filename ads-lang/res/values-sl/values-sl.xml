@@ -81,7 +81,6 @@
     <string name="hiad_prepare_download" priority="LT">"Počakaj na povezavo z omrežjem Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Ali želite prenesti prek mobilnega omrežja?"</string>
     <string name="hiad_prepare_download_zh" priority="translator">"Počakaj na povezavo z omrežjem WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Pravilnik o zasebnosti"</string>
     <string name="hiad_refresh" priority="LT">"Osveži"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Aplikacija je večja od %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Preskoči"</string>

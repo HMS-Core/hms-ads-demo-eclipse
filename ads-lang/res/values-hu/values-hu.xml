@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Várakozás a Wi-Fi-re"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Letöltés mobilhálózaton keresztül?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Várakozás a WLAN-ra"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Adatvédelmi irányelvek"</string>
     <string name="hiad_refresh" priority="LT">"Frissítés"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB-nál nagyobb alkalmazás"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Kihagyás"</string>

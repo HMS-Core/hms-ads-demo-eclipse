@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi aloqasini kutish"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Mobil internet orqali yuklab olinsinmi?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN aloqasini kutish"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Maxfiylik siyosati"</string>
     <string name="hiad_refresh" priority="LT">"Yangilash"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Ilova hajmi %1$d MB dan katta"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Tashlab ketish"</string>

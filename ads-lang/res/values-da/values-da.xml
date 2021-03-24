@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Vent på Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Hent via mobilnetværk?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Vent på WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Politik for beskyttelse af personlige oplysninger"</string>
     <string name="hiad_refresh" priority="LT">"Opdater"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"App større end %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Spring over"</string>

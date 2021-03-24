@@ -81,7 +81,6 @@
     <string name="hiad_prepare_download" priority="LT">"Počkať na Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Stiahnuť cez mobilné dáta?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"Počkať na WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Zásady ochrany osobných údajov"</string>
     <string name="hiad_refresh" priority="LT">"Aktualizovať"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Aplikácia je väčšia ako %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Preskočiť"</string>

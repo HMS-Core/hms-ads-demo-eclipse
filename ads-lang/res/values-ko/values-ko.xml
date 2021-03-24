@@ -72,7 +72,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi 연결 대기"</string>
     <string name="hiad_prepare_download_title" priority="LT">"모바일 네트워크로 다운로드하시겠습니까?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN 연결 대기"</string>
-    <string name="hiad_privacy_policy" priority="LT">"개인정보 보호정책"</string>
     <string name="hiad_refresh" priority="LT">"새로 고침"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$dMB를 초과하는 앱"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"건너뛰기"</string>

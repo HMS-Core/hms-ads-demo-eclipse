@@ -81,7 +81,6 @@
     <string name="hiad_prepare_download" priority="LT">"Laukti „Wi-Fi“"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Ar atsisiųsti mobiliojo ryšio tinklu?"</string>
     <string name="hiad_prepare_download_zh" priority="translator">"Laukti WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Privatumo politika"</string>
     <string name="hiad_refresh" priority="LT">"Atnaujinti"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Programėlės dydis viršija %1$d MB"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Praleisti"</string>

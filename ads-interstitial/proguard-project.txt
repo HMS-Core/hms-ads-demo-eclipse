@@ -59,3 +59,4 @@
 
 -dontwarn com.huawei.openalliance.ad.**
 -dontwarn com.huawei.hms.ads.**
+-dontwarn com.huawei.secure.android.common.**

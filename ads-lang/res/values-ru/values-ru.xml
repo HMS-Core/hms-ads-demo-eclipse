@@ -81,7 +81,6 @@
     <string name="hiad_prepare_download" priority="translator">"По Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Загрузить по мобильной сети?"</string>
     <string name="hiad_prepare_download_zh" priority="translator">"По WLAN"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Политика конфиденциальности"</string>
     <string name="hiad_refresh" priority="LT">"Обновить"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"Размер приложения больше %1$d МБ"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Пропустить"</string>

@@ -72,7 +72,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi ཁ་ཆད་བྱས་ནས་ཕབ་ལེན་བྱེད།"</string>
     <string name="hiad_prepare_download_title" priority="LT">"གཞི་གྲངས་དྲ་རྒྱ་ཕབ་ལེན་གྱི་དྲན་སྐུལ།"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN ཁ་ཆས་བྱས་ནས་ཕབ་ལེན་བྱེད།"</string>
-    <string name="hiad_privacy_policy" priority="LT">"སྒེར་གསང་གི་སྲིད་ཇུས།"</string>
     <string name="hiad_refresh" priority="LT">"གསར་འདོན།"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB ལས་བརྒལ་བའི་ཉེར་སྤྱོད།"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"བརྡ་ཁྱབ་ཁ་རྒྱག"</string>

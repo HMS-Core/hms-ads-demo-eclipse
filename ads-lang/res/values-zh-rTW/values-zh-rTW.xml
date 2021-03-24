@@ -72,7 +72,6 @@
     <string name="hiad_prepare_download" priority="LT">"預約 Wi-Fi 下載"</string>
     <string name="hiad_prepare_download_title" priority="LT">"數據網路下載提示"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"預約 WLAN 下載"</string>
-    <string name="hiad_privacy_policy" priority="LT">"隱私權政策"</string>
     <string name="hiad_refresh" priority="LT">"重新整理"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"超過 %1$d MB 的應用程式"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"關閉廣告"</string>

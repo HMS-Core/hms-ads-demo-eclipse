@@ -75,7 +75,6 @@
     <string name="hiad_prepare_download" priority="LT">"Wi-Fi-г хүлээнэ үү"</string>
     <string name="hiad_prepare_download_title" priority="LT">"Гар утасны сүлжээгээр татах уу?"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"WLAN-г хүлээх"</string>
-    <string name="hiad_privacy_policy" priority="LT">"Нууцлалын бодлого"</string>
     <string name="hiad_refresh" priority="LT">"Сэргээх"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"%1$d МB-с том аппликэйшн"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"Алгасах"</string>

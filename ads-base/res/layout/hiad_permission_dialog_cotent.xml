@@ -11,6 +11,7 @@
         style="@style/HIAD_Permissions_title_text"
         android:layout_width="match_parent"
         android:layout_height="@dimen/hiad_56_dp"
+        android:layout_marginTop="@dimen/hiad_24_dp"
         android:maxLines="2"
         android:ellipsize="end"
         android:gravity="left|center_vertical"

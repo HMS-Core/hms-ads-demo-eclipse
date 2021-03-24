@@ -52,8 +52,7 @@
         android:shadowColor="@color/hiad_source_shadow_color"
         android:shadowDx="2"
         android:shadowDy="2"
-        android:shadowRadius="2"
-        />
+        android:shadowRadius="2"/>
 
     <ViewStub
         android:layout="@layout/hiad_view_stub_logo"

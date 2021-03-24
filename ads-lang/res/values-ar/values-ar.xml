@@ -87,7 +87,6 @@
     <string name="hiad_prepare_download" priority="LT">"استخدام شبكة لاسلكية"</string>
     <string name="hiad_prepare_download_title" priority="LT">"هل تريد التنزيل باستخدام بيانات الجوال؟"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"استخدام شبكة لاسلكية"</string>
-    <string name="hiad_privacy_policy" priority="translator">"سياسة الخصوصية"</string>
     <string name="hiad_refresh" priority="LT">"تحديث المحتوى"</string>
     <string name="hiad_reminder_app_over_size" priority="LT">"حجم التطبيق أكبر من %1$d ميغابايت"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"تخطي"</string>
