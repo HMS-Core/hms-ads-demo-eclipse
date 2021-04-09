@@ -54,6 +54,19 @@
         android:shadowDy="2"
         android:shadowRadius="2"/>
 
+    <com.huawei.openalliance.ad.views.PPSSplashProView
+        android:id="@+id/hiad_splash_pro_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/hiad_24_dp"
+        android:layout_marginLeft="@dimen/hiad_24_dp"
+        android:layout_marginEnd="@dimen/hiad_24_dp"
+        android:layout_marginRight="@dimen/hiad_24_dp"
+        android:layout_marginBottom="@dimen/hiad_48_dp"
+        android:visibility="gone" />
+
     <ViewStub
         android:layout="@layout/hiad_view_stub_logo"
         android:id="@+id/hiad_logo_stub"

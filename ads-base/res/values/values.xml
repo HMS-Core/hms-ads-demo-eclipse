@@ -16,6 +16,7 @@
     <color name="hiad_70_percent_black">#b2000000</color>
     <color name="hiad_80_percent_black">#cc000000</color>
     <color name="hiad_80_percent_white">#ccffffff</color>
+    <color name="hiad_90_percent_white">#e5ffffff</color>
     <color name="hiad_activie_app_desc_color">#99000000</color>
     <color name="hiad_app_down_installing_bg">#0D000000</color>
     <color name="hiad_app_down_installing_bg_hm">#330A59F7</color>
@@ -249,6 +250,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">Skip</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">Keep watching</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">Finish watching this ad to earn a reward.</string>
+    <string name="hiad_splash_pro_desc">Touch to open the website/app</string>
     <string name="hiad_whether_download" priority="LT">Download this app?</string>
     <string name="hiad_wifi_loaded_already" priority="LT">Pre-loaded over Wi-Fi</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">Preloaded</string>
