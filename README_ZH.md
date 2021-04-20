@@ -7,6 +7,7 @@
  
 ## 简介
 华为广告服务（HUAWEI Ads Kit）Eclipse示例代码向您介绍如何将HMS Core Ads SDK集成到应用中，实现广告展示。详情请参见[在Eclipse项目中集成HUAWEI Ads SDK](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/eclipse-integrating-sdk-0000001055373923)。 
+<br>该示例也可以通过HMS Toolkit快速启动运行，且支持各Kit一站式集成，并提供远程真机免费调测等功能。了解更多信息，请参见[HMS Toolkit官方链接](https://developer.huawei.com/consumer/cn/doc/development/Tools-Guides/getting-started-0000001077381096)。</br>
 
 ## 技术支持
 如果您对HMS Core还处于评估阶段，可在[Reddit社区](https://www.reddit.com/r/HuaweiDevelopers/)获取关于HMS Core的最新讯息，并与其他开发者交流见解。
