@@ -189,6 +189,7 @@
     <string name="hiad_choices_ad_no_interest" priority="translator">Not interested</string>
     <string name="hiad_choices_hide" priority="translator">Hide ad</string>
     <string name="hiad_choices_whythisad" priority="translator">Why did I see this ad?</string>
+    <string name="hiad_confirm_download_app" priority="translator">Install this app?</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">Using a mobile network will consume %1$s of data. Continue?</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">Playback will use mobile data. Continue?</string>
     <string name="hiad_continue_download" priority="LT">Download</string>

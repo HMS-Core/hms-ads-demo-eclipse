@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"Magsasara ang window sa loob ng %1$s segundo."</item>
-    <item priority="translator" quantity="other">"Magsasara ang window sa loob ng %1$s (na) segundo."</item>
-</plurals>
+        <item priority="translator" quantity="one">"Magsasara ang window sa loob ng %1$s segundo."</item>
+        <item priority="translator" quantity="other">"Magsasara ang window sa loob ng %1$s (na) segundo."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="translator" quantity="one">"Tandaan ang pinili sa loob ng %1$s araw"</item>
-    <item priority="translator" quantity="other">"Tandaan ang pinili sa loob ng %1$s (na) araw"</item>
-</plurals>
+        <item priority="translator" quantity="one">"Tandaan ang pinili sa loob ng %1$s araw"</item>
+        <item priority="translator" quantity="other">"Tandaan ang pinili sa loob ng %1$s (na) araw"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d segundo"</item>
-    <item priority="LT" quantity="other">"%1$d segundo"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d segundo"</item>
+        <item priority="LT" quantity="other">"%1$d segundo"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Ad"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Ad"</string>
     <string name="hiad_app_installed" priority="LT">"Na-install na ang %1$s"</string>
     <string name="hiad_app_open_notification" priority="translator">"Kumpleto na ang pag-install. Pindutin para buksan."</string>
     <string name="hiad_app_permission" priority="translator">"Mga Pahintulot"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Nakatago ang ad"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Hindi interesado"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Hindi interesado"</string>
     <string name="hiad_choices_hide" priority="translator">"Itago ang ad"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Bakit ko nakita ang ad na ito?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"I-install ang app na ito?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Kokonsumo ng %1$s na data ang paggamit ng mobile network. Magpatuloy?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Gagamit ng mobile data ang playback. Magpatuloy?"</string>
     <string name="hiad_continue_download" priority="LT">"I-download"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"I-download gamit ang mobile data?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Tandaan"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"I-download gamit ang mobile data?"</string>
-    <string name="hiad_download_download" priority="translator">"I-INSTALL"</string>
+    <string name="hiad_download_download" priority="LT">"I-INSTALL"</string>
     <string name="hiad_download_download_with_size" priority="LT">"I-DOWNLOAD (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Nagkaroon ng error habang dina-download ang %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Sira ang file. Paki-download muli."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Walang ganitong file. Pakisubukang muli."</string>
     <string name="hiad_download_install" priority="LT">"I-INSTALL"</string>
-    <string name="hiad_download_installing" priority="LT">"NAG-I-INSTALL"</string>
+    <string name="hiad_download_installing" priority="LT">"Nag-i-install"</string>
     <string name="hiad_download_no_space" priority="LT">"Hindi sapat ang storage. Mangyaring magbakante ng ilang espasyo at subukang muli."</string>
     <string name="hiad_download_open" priority="LT">"BUKSAN"</string>
     <string name="hiad_download_resume" priority="LT">"MAGPATULOY"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Tapos na"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Gustong buksan ng page na ito ang %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Nakopya ang link."</string>
+    <string name="hiad_loading_tips" priority="LT">"Naglo-load…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Gagamit ang download na ito ng %1$s na mobile data."</string>
+    <string name="hiad_net_error" priority="LT">"Error sa koneksyon ng network. Pakisubukang muli."</string>
     <string name="hiad_network_error" priority="LT">"Error sa koneksyon sa network."</string>
     <string name="hiad_network_no_available" priority="LT">"Walang koneksyon sa Internet. Pakitingnan ang mga setting ng iyong network."</string>
     <string name="hiad_no_more_remind" priority="LT">"Huwag nang muling ipaalala sa akin"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Laktawan"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Magpatuloy sa panonood"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Panoorin ang ad na ito hanggang matapos para makakuha ng reward."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Pindutin para buksan ang website/app"</string>
     <string name="hiad_whether_download" priority="LT">"I-download ang app na ito?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Paunang na-load sa pamamagitan ng Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Naka-preload"</string>

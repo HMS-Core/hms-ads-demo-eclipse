@@ -19,14 +19,15 @@
         <item priority="translator" quantity="other">"%1$d s"</item>
     </plurals>
     <string name="hiad_ad_label" priority="translator">"PRIDAŤ"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Reklama"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklama"</string>
     <string name="hiad_app_installed" priority="LT">"Aplikácia %1$s sa nainštalovala"</string>
     <string name="hiad_app_open_notification" priority="translator">"Inštalácia dokončená. Ťuknutím otvorte."</string>
     <string name="hiad_app_permission" priority="LT">"Povolenia"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Skrytá reklama"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Nezaujíma ma"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Nezaujíma ma"</string>
     <string name="hiad_choices_hide" priority="translator">"Skryť reklamu"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Prečo sa mi zobrazuje táto reklama?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Nainštalovať túto aplikáciu?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Používaním mobilnej siete sa minie %1$s dát. Pokračovať?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Prehrávanie bude spotrebúvať mobilné dáta. Pokračovať?"</string>
     <string name="hiad_continue_download" priority="LT">"Stiahnuť"</string>
@@ -53,13 +54,13 @@
     <string name="hiad_dialog_title" priority="LT">"Stiahnuť cez mobilné dáta?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Poznámka"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Stiahnuť cez mobilné dáta?"</string>
-    <string name="hiad_download_download" priority="translator">"INŠTALOVAŤ"</string>
+    <string name="hiad_download_download" priority="LT">"INŠTALOVAŤ"</string>
     <string name="hiad_download_download_with_size" priority="LT">"STIAHNUŤ (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Pri preberaní %1$s došlo k chybe."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Súbor je poškodený. Stiahnite si ho znovu."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Súbor neexistuje. Skúste to znovu."</string>
     <string name="hiad_download_install" priority="LT">"INŠTALOVAŤ"</string>
-    <string name="hiad_download_installing" priority="LT">"INŠTALUJE SA"</string>
+    <string name="hiad_download_installing" priority="LT">"Inštaluje sa"</string>
     <string name="hiad_download_no_space" priority="LT">"Nedostatok miesta na úložisku. Uvoľnite miesto a skúste to znovu."</string>
     <string name="hiad_download_open" priority="LT">"OTVORIŤ"</string>
     <string name="hiad_download_resume" priority="LT">"POKRAČOVAŤ"</string>
@@ -69,7 +70,9 @@
     <string name="hiad_install_completed" priority="LT">"Hotovo"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Táto stránka chce otvoriť %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Odkaz je skopírovaný."</string>
+    <string name="hiad_loading_tips" priority="LT">"Načítava sa…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Toto sťahovanie použije %1$s mobilných dát."</string>
+    <string name="hiad_net_error" priority="LT">"Chyba sieťového pripojenia. Skúste to znova."</string>
     <string name="hiad_network_error" priority="LT">"Chyba pripojenia k sieti."</string>
     <string name="hiad_network_no_available" priority="LT">"Bez internetového pripojenia. Skontrolujte nastavenie siete."</string>
     <string name="hiad_no_more_remind" priority="LT">"Viac nepripomínať"</string>
@@ -86,6 +89,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Preskočiť"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Pokračovať v sledovaní"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Na získanie odmeny dokončite sledovanie tejto reklamy."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Ťuknutím otvorte webovú stránku/aplikáciu"</string>
     <string name="hiad_whether_download" priority="LT">"Stiahnuť túto aplikáciu?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Predstiahnuté cez Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Už načítané"</string>

@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"%1$s 秒後自動略過"</item>
-</plurals>
+        <item priority="translator" quantity="other">"%1$s 秒後自動略過"</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="other">"%1$s 天內不再提示"</item>
-</plurals>
+        <item priority="Reviewed" quantity="other">"%1$s 天內不再提示"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d 秒"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d 秒"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"廣告"</string>
-    <string name="hiad_ad_label_new" priority="translator">"廣告"</string>
+    <string name="hiad_ad_label_new" priority="LT">"廣告"</string>
     <string name="hiad_app_installed" priority="LT">"「%1$s」已安裝成功"</string>
     <string name="hiad_app_open_notification" priority="translator">"安裝完成，輕觸開啟"</string>
     <string name="hiad_app_permission" priority="LT">"權限"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"廣告已關閉"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"不感兴趣"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"不感興趣"</string>
     <string name="hiad_choices_hide" priority="LT">"隱藏廣告"</string>
     <string name="hiad_choices_whythisad" priority="LT">"為何看到此廣告？"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"下載安裝應用程式？"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"使用流動網絡將消耗 %1$s 流量"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"使用流動網絡將消耗數據流量。繼續？"</string>
     <string name="hiad_continue_download" priority="LT">"繼續下載"</string>
@@ -46,7 +47,7 @@
     <string name="hiad_download_app_via_mobile_data" priority="LT">"繼續通過流動網絡下載？"</string>
     <string name="hiad_download_download" priority="LT">"下載"</string>
     <string name="hiad_download_download_with_size" priority="LT">"下載（%1$s）"</string>
-    <string name="hiad_download_failed_toast_content" priority="LT">"網絡原因導致「%1$s」安装程式套件下載失敗"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"網絡原因導致「%1$s」安裝程式套件下載失敗"</string>
     <string name="hiad_download_file_corrupted" priority="translator">"檔案已損毀，請重新下載"</string>
     <string name="hiad_download_file_not_exist" priority="LT">"檔案不存在，請重新下載"</string>
     <string name="hiad_download_install" priority="LT">"安裝"</string>
@@ -54,13 +55,15 @@
     <string name="hiad_download_no_space" priority="LT">"儲存空間不足，請清理後再安裝"</string>
     <string name="hiad_download_open" priority="LT">"開啟"</string>
     <string name="hiad_download_resume" priority="LT">"繼續"</string>
-    <string name="hiad_download_retry_toast_content" priority="LT">"網絡原因導致「%1$s」安装程式套件下載出現異常，即將重新下載"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"網絡原因導致「%1$s」安裝程式套件下載出現異常，即將重新下載"</string>
     <string name="hiad_download_use_mobile_network" priority="translator">"目前未連線 Wi-Fi，下載將消耗數據流量 %1$s。確定下載？"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"目前未連線 WLAN，下載將消耗 %1$s 數據流量。確定下載？"</string>
     <string name="hiad_install_completed" priority="LT">"完成"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"網頁將開啟%1$s。允許？"</string>
     <string name="hiad_link_already_copied" priority="LT">"連結已複製"</string>
+    <string name="hiad_loading_tips" priority="LT">"載入中…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"目前使用流動數據網絡，立即下載將消耗 %1$s 數據流量。立即下載？"</string>
+    <string name="hiad_net_error" priority="LT">"網絡連線出現異常，請稍後重試"</string>
     <string name="hiad_network_error" priority="LT">"網絡連線失敗"</string>
     <string name="hiad_network_no_available" priority="LT">"未連線網絡，請檢查網絡設定"</string>
     <string name="hiad_no_more_remind" priority="LT">"不再提醒"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"關閉廣告"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"繼續觀看"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"獲取獎勵需觀看完整影片"</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"輕觸重新導向詳細資訊頁面或第三方應用程式"</string>
     <string name="hiad_whether_download" priority="LT">"下載該軟件？"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"已通過 Wi-Fi 預先載入"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"已在連線 WLAN 時預先載入"</string>

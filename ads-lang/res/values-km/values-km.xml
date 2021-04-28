@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"វិនដូនឹង​បិទ​ក្នុងរយៈពេល %1$s វិនាទីទៀត។"</item>
-</plurals>
+        <item priority="translator" quantity="other">"វិនដូនឹង​បិទ​ក្នុងរយៈពេល %1$s វិនាទីទៀត។"</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="other">"ចងចាំជម្រើសរយៈពេល %1$s ថ្ងៃ"</item>
-</plurals>
+        <item priority="Reviewed" quantity="other">"ចងចាំជម្រើសរយៈពេល %1$s ថ្ងៃ"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d វិនាទី"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d វិនាទី"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"ការផ្សាយពាណិជ្ជកម្ម"</string>
+    <string name="hiad_ad_label_new" priority="LT">"ការផ្សាយពាណិជ្ជកម្ម"</string>
     <string name="hiad_app_installed" priority="LT">"បានដំឡើង %1$s រួចហើយ"</string>
     <string name="hiad_app_open_notification" priority="translator">"ការដំឡើងបានបញ្ចប់។ ប៉ះដើម្បីបើក។"</string>
     <string name="hiad_app_permission" priority="LT">"ការអនុញ្ញាត"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"ការផ្សាយពាណិជ្ជកម្ម​ត្រូវបានលាក់"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"មិនចាប់អារម្មណ៍"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"មិនចាប់អារម្មណ៍"</string>
     <string name="hiad_choices_hide" priority="LT">"លាក់ការផ្សាយពាណិជ្ជកម្ម​"</string>
     <string name="hiad_choices_whythisad" priority="LT">"ហេតុអ្វីបានជាខ្ញុំមើលឃើញការផ្សាយពាណិជ្ជកម្ម​នេះ?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"ដំឡើងកម្មវិធីនេះឬ?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"ការប្រើបណ្ដាញទូរស័ព្ទចល័ត​នឹង​ប្រើប្រាស់​ទិន្នន័យចំនួន %1$s។ បន្តឬ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ការចាក់​នឹង​ប្រើ​ទិន្នន័យចល័ត។ បន្ត?"</string>
     <string name="hiad_continue_download" priority="LT">"ទាញយក"</string>
@@ -44,13 +45,13 @@
     <string name="hiad_dialog_title" priority="LT">"ទាញយកដោយ​ប្រើ​ទិន្នន័យចល័តឬ?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"កំណត់សម្គាល់"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"ទាញយកដោយប្រើទិន្នន័យចល័តឬ?"</string>
-    <string name="hiad_download_download" priority="translator">"ដំឡើង"</string>
+    <string name="hiad_download_download" priority="LT">"ដំឡើង"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ទាញយក (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"កំហុសមួយបានកើតឡើង​ នៅខណៈពេលកំពុង​ទាញុយក %1$s។"</string>
     <string name="hiad_download_file_corrupted" priority="translator">"ឯកសារខូច។ សូមទាញយកម្ដងទៀត។"</string>
     <string name="hiad_download_file_not_exist" priority="LT">"មិនមានឯកសារ។ សូមព្យាយាមម្ដងទៀត។"</string>
     <string name="hiad_download_install" priority="LT">"ដំឡើង"</string>
-    <string name="hiad_download_installing" priority="LT">"កំពុង​ដំឡើង"</string>
+    <string name="hiad_download_installing" priority="LT">"កំពុងដំឡើង"</string>
     <string name="hiad_download_no_space" priority="LT">"កន្លែងផ្ទុកទិន្នន័យមិនគ្រប់គ្រាន់។ សូមសម្អាតឱ្យនៅសល់កន្លែងផ្ទុកទំនេរ​ខ្លះ រួចព្យាយាមម្ដងទៀត។"</string>
     <string name="hiad_download_open" priority="LT">"បើក"</string>
     <string name="hiad_download_resume" priority="LT">"បន្ត"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"រួចរាល់"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ទំព័រ​នេះ​ចង់​បើក %1$s។"</string>
     <string name="hiad_link_already_copied" priority="LT">"តំណ​ត្រូវបានចម្លង។"</string>
+    <string name="hiad_loading_tips" priority="LT">"កំពុងផ្ទុក…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"ការទាញយកនេះ​នឹង​ប្រើ​ទិន្នន័យចល័តចំនួន %1$s។"</string>
+    <string name="hiad_net_error" priority="LT">"កំហុសក្នុងការតភ្ជាប់បណ្តាញ។ សូមព្យាយាមម្ដងទៀត។"</string>
     <string name="hiad_network_error" priority="LT">"កំហុស​នៃ​ការតភ្ជាប់បណ្ដាញ។"</string>
     <string name="hiad_network_no_available" priority="LT">"គ្មាន​ការតភ្ជាប់អ៊ិនធើណិត​។ សូមពិនិត្យ​មើល​ការ​កំណត់បណ្ដាញ​​របស់អ្នក។"</string>
     <string name="hiad_no_more_remind" priority="LT">"កុំរំលឹកខ្ញុំ​ម្ដងទៀត"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"រំលង"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"បន្តមើល"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"បញ្ចប់ការមើល​ការផ្សាយពាណិជ្ជកម្មនេះ ដើម្បី​ទទួលបានរង្វាន់។"</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"ប៉ះដើម្បីបើក​គេហទំព័រ/កម្មវិធី"</string>
     <string name="hiad_whether_download" priority="LT">"ទាញយក​កម្មវិធីនេះឬ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"បានផ្ទុក​ជាមុន​នៅលើ​ Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"បានផ្ទុកជាមុន"</string>

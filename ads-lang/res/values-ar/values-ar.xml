@@ -25,14 +25,15 @@
         <item priority="translator" quantity="other">"%1$d ثانية"</item>
     </plurals>
     <string name="hiad_ad_label" priority="translator">"إعلان"</string>
-    <string name="hiad_ad_label_new" priority="translator">"إعلان"</string>
+    <string name="hiad_ad_label_new" priority="LT">"إعلان"</string>
     <string name="hiad_app_installed" priority="LT">"تم تثبيت تطبيق \"%1$s\""</string>
     <string name="hiad_app_open_notification" priority="translator">"اكتمل التثبيت. انقر هنا لفتحه."</string>
     <string name="hiad_app_permission" priority="LT">"الأذونات"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"الإعلان مخفي"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"غير مهتم"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"غير مهتم"</string>
     <string name="hiad_choices_hide" priority="LT">"إخفاء الإعلان"</string>
     <string name="hiad_choices_whythisad" priority="LT">"ما سبب ظهور هذا الإعلان؟"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"هل تريد تثبيت هذا التطبيق؟"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"استخدام بيانات الجوال سيؤدي إلى استهلاك %1$s من البيانات. هل تريد المتابعة؟"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"سيتم استخدام بيانات الجوال لتشغيل هذا الفيديو. هل ترغب في المتابعة؟"</string>
     <string name="hiad_continue_download" priority="LT">"تنزيل"</string>
@@ -59,7 +60,7 @@
     <string name="hiad_dialog_title" priority="LT">"تنبيه"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"تنويه"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"هل حقًا تريد استخدام بيانات الجوال للتنزيل؟"</string>
-    <string name="hiad_download_download" priority="translator">"تثبيت"</string>
+    <string name="hiad_download_download" priority="LT">"تثبيت"</string>
     <string name="hiad_download_download_with_size" priority="translator">"تنزيل (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"حدثت مشكلة أثناء تنزيل \"%1$s\""</string>
     <string name="hiad_download_file_corrupted" priority="translator">"الملف معطوب، يُرجى إعادة تنزيله"</string>
@@ -75,9 +76,11 @@
     <string name="hiad_install_completed" priority="LT">"تم"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ترغب هذه الصفحة في فتح \"%1$s\"."</string>
     <string name="hiad_link_already_copied" priority="LT">"تم نسخ الرابط"</string>
+    <string name="hiad_loading_tips" priority="LT">"جارِ التحميل..."</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"سيستهلك هذا التنزيل حوالي %1$s من بيانات الجوال."</string>
+    <string name="hiad_net_error" priority="LT">"مشكلة في الشبكة، يُرجى إعادة المحاولة"</string>
     <string name="hiad_network_error" priority="LT">"مشكلة في اتصال الشبكة"</string>
-    <string name="hiad_network_no_available" priority="LT">"لا يوجد اتصال إنترنت لديك، يُرجى التحقق من إعدادات الشبكة"</string>
+    <string name="hiad_network_no_available" priority="LT">"غير متصل بالإنترنت، يُرجى التحقق من إعدادات الشبكة لديك"</string>
     <string name="hiad_no_more_remind" priority="LT">"عدم التذكير مرةً أخرى"</string>
     <string name="hiad_non_wifi_download_prompt" priority="LT">"الجهاز غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى الآن سيؤدي إلى استخدام بيانات الجوال. هل حقًا تريد تنزيله؟"</string>
     <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"الجهاز غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى الآن سيؤدي إلى استخدام بيانات الجوال. هل حقًا تريد تنزيله؟"</string>
@@ -91,7 +94,8 @@
     <string name="hiad_reminder_app_over_size" priority="LT">"حجم التطبيق أكبر من %1$d ميغابايت"</string>
     <string name="hiad_reward_close_dialog_close" priority="LT">"تخطي"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"استكمال المشاهدة"</string>
-    <string name="hiad_reward_close_dialog_message" priority="LT">"شاهد هذا الإعلان إلى نهايته لتحصل على جائزة."</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"شاهد هذا الإعلان إلى نهايته لتحصل على مكافأة."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"انقر هنا لفتح موقع الويب/التطبيق"</string>
     <string name="hiad_whether_download" priority="LT">"هل تريد تنزيل هذا التطبيق؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"تم تحميله مُسبقًا عبر الشبكة اللاسلكية"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"تم التحميل مُسبقًا"</string>

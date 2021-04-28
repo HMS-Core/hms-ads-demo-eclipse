@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"La finestra es tancarà d\'aquí a %1$s segon."</item>
-    <item priority="translator" quantity="other">"La finestra es tancarà d\'aquí a %1$s segons."</item>
-</plurals>
+        <item priority="translator" quantity="one">"La finestra es tancarà d\'aquí a %1$s segon."</item>
+        <item priority="translator" quantity="other">"La finestra es tancarà d\'aquí a %1$s segons."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"Recordar l\'opció durant %1$s dia"</item>
-    <item priority="Reviewed" quantity="other">"Recordar l\'opció durant %1$s dies"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"Recordar l\'opció durant %1$s dia"</item>
+        <item priority="Reviewed" quantity="other">"Recordar l\'opció durant %1$s dies"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d s"</item>
-    <item priority="LT" quantity="other">"%1$d s"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="LT" quantity="other">"%1$d s"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Anunci"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Anunci"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s s\'ha instal·lat"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instal·lació completa. Premeu per obrir-la."</string>
     <string name="hiad_app_permission" priority="LT">"Permisos"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Anunci amagat"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"No m\'interessa"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"No m\'interessa"</string>
     <string name="hiad_choices_hide" priority="translator">"Amaga l\'anunci"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Per què he vist aquest anunci?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Voleu instal·lar aquesta aplicació?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"L\'ús de la xarxa mòbil consumirà %1$s de dades. Voleu continuar?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"La reproducció utilitzarà dades mòbils. Voleu continuar?"</string>
     <string name="hiad_continue_download" priority="LT">"Baixar"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"Voleu baixar-ho utilitzant dades mòbils?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Nota"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Voleu baixar l\'aplicació utilitzant dades mòbils?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTAL·LA"</string>
+    <string name="hiad_download_download" priority="LT">"INSTAL·LAR"</string>
     <string name="hiad_download_download_with_size" priority="LT">"BAIXAR (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"S’ha produït un error en baixar %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Fitxer malmès. Baixeu-lo de nou."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"El fitxer no existeix. Torneu-ho a provar."</string>
     <string name="hiad_download_install" priority="LT">"INSTAL·LA"</string>
-    <string name="hiad_download_installing" priority="LT">"INSTAL·LANT"</string>
+    <string name="hiad_download_installing" priority="LT">"S\'està instal·lant"</string>
     <string name="hiad_download_no_space" priority="LT">"Emmagatzematge insuficient. Allibereu espai i torneu-ho a provar."</string>
     <string name="hiad_download_open" priority="LT">"OBRE"</string>
     <string name="hiad_download_resume" priority="LT">"CONTINUA"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Fet"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Aquesta pàgina vol obrir %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Enllaç copiat."</string>
+    <string name="hiad_loading_tips" priority="LT">"S\'està carregant…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Aquesta baixada consumirà %1$s de dades mòbils."</string>
+    <string name="hiad_net_error" priority="LT">"Error de connexió a la xarxa. Proveu-ho de nou."</string>
     <string name="hiad_network_error" priority="LT">"Error de connexió a la xarxa."</string>
     <string name="hiad_network_no_available" priority="LT">"No hi ha connexió a Internet. Comproveu la configuració de xarxa."</string>
     <string name="hiad_no_more_remind" priority="LT">"No m\'ho tornis a recordar"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Ometre"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar mirant"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Acabeu de veure aquest anunci per obtenir una recompensa."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Toqueu per obrir el lloc web/aplicació"</string>
     <string name="hiad_whether_download" priority="LT">"Voleu baixar aquesta aplicació?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Precarregat per Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Carregat prèviament"</string>

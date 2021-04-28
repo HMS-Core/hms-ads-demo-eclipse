@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"Aken suletakse %1$s sekundi pärast."</item>
-    <item priority="translator" quantity="other">"Aken suletakse %1$s sekundi pärast."</item>
-</plurals>
+        <item priority="translator" quantity="one">"Aken suletakse %1$s sekundi pärast."</item>
+        <item priority="translator" quantity="other">"Aken suletakse %1$s sekundi pärast."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="translator" quantity="one">"Jäta valik meelde %1$s päevaks"</item>
-    <item priority="translator" quantity="other">"Jäta valik meelde %1$s päevaks"</item>
-</plurals>
+        <item priority="translator" quantity="one">"Jäta valik meelde %1$s päevaks"</item>
+        <item priority="translator" quantity="other">"Jäta valik meelde %1$s päevaks"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d s"</item>
-    <item priority="LT" quantity="other">"%1$d s"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="LT" quantity="other">"%1$d s"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"REKLAAM"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Reklaam"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklaam"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s on installitud"</string>
     <string name="hiad_app_open_notification" priority="translator">"Installimine on lõpule viidud. Avamiseks puudutage."</string>
     <string name="hiad_app_permission" priority="LT">"Õigused"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Reklaam on peidetud"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Ei ole huvitatud"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Ei ole huvitatud"</string>
     <string name="hiad_choices_hide" priority="translator">"Peida reklaam"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Miks ma seda reklaami nägin?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Kas installida see rakendus?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Mobiilsidevõrgu kasutamine tarbib %1$s andmemahtu. Jätkan?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Taasesitus kasutab mobiilandmesidet. Jätkata?"</string>
     <string name="hiad_continue_download" priority="LT">"Laadi alla"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"Laadida alla mobiilandmeside kaudu?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Märkus"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Kas saate alla laadida mobiilandmete abil?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTALLI"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALLI"</string>
     <string name="hiad_download_download_with_size" priority="LT">"LAADI ALLA (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Üksuse %1$s allalaadimisel tekkis tõrge."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Fail on rikutud. Laadige see uuesti alla."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Fail puudub. Proovige uuesti."</string>
     <string name="hiad_download_install" priority="LT">"INSTALLI"</string>
-    <string name="hiad_download_installing" priority="LT">"INSTALLIMINE"</string>
+    <string name="hiad_download_installing" priority="LT">"Installimine"</string>
     <string name="hiad_download_no_space" priority="LT">"Mäluruumi on liiga vähe. Vabastage mäluruumi ja proovige uuesti."</string>
     <string name="hiad_download_open" priority="LT">"AVA"</string>
     <string name="hiad_download_resume" priority="LT">"JÄTKA"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Valmis"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Leht soovib avada rakenduse %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link on kopeeritud."</string>
+    <string name="hiad_loading_tips" priority="LT">"Laadimine…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Selle allalaadimise jaoks kulub %1$s mobiilandmeside mahtu."</string>
+    <string name="hiad_net_error" priority="LT">"Võrguühenduse viga. Proovi uuesti."</string>
     <string name="hiad_network_error" priority="LT">"Võrguühenduse viga."</string>
     <string name="hiad_network_no_available" priority="LT">"Interneti-ühendus puudub. Kontrollige võrgusätteid."</string>
     <string name="hiad_no_more_remind" priority="LT">"Ära tuleta enam meelde"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Jäta vahele"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jätka vaatamist"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Preemia saamiseks vaadake see reklaam lõpuni."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Puudutage veebisaidi/rakenduse avamiseks"</string>
     <string name="hiad_whether_download" priority="LT">"Laadida see rakendus alla?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Eellaaditud Wi-Fi kaudu"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Eellaetud"</string>

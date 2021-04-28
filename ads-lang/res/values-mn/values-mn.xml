@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"Цонх %1$s секундын дараа хаагдана."</item>
-    <item priority="translator" quantity="other">"Цонх %1$s секундын дараа хаагдана."</item>
-</plurals>
+        <item priority="translator" quantity="one">"Цонх %1$s секундын дараа хаагдана."</item>
+        <item priority="translator" quantity="other">"Цонх %1$s секундын дараа хаагдана."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"Сонголтыг %1$s хоног хадгалах"</item>
-    <item priority="Reviewed" quantity="other">"Сонголтыг %1$s хоног хадгалах"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"Сонголтыг %1$s хоног хадгалах"</item>
+        <item priority="Reviewed" quantity="other">"Сонголтыг %1$s хоног хадгалах"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d секунд"</item>
-    <item priority="LT" quantity="other">"%1$d секунд"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d секунд"</item>
+        <item priority="LT" quantity="other">"%1$d секунд"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
     <string name="hiad_ad_label_new" priority="translator">"Зар"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s суулгагдлаа"</string>
     <string name="hiad_app_open_notification" priority="translator">"Суулгаж дууслаа. Дараад нээнэ үү."</string>
     <string name="hiad_app_permission" priority="LT">"Зөвшөөрөл"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Зар нуугдсан"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Сонирхолгүй"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Сонирхолгүй"</string>
     <string name="hiad_choices_hide" priority="LT">"Зар нуух"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Би яагаад энэ зарыг харж байна вэ?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Энэ апликэйшнийг суулгах уу?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"Гар утасны сүлжээ ашиглавал датаны %1$s-г хэрэглэнэ. Үргэлжлүүлэх үү?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Дахин тоглуулахад гар утасны дата ашиглах болно. Үргэлжлүүлэх үү?"</string>
     <string name="hiad_continue_download" priority="LT">"Татах"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"гар утасны дата ашиглан татах уу?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Нэмэлт мэдээлэл"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Гар утасны датаг ашиглан татаж авах уу?"</string>
-    <string name="hiad_download_download" priority="translator">"СУУЛГАХ"</string>
+    <string name="hiad_download_download" priority="LT">"СУУЛГАХ"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ТАТАХ (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$s-г татах явцад алдаа гарлаа."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Файл эвдэрсэн. Дахин татна уу."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Файл байхгүй. Дахин оролдоно уу."</string>
     <string name="hiad_download_install" priority="LT">"СУУЛГАХ"</string>
-    <string name="hiad_download_installing" priority="LT">"СУУЛГАЖ БАЙНА"</string>
+    <string name="hiad_download_installing" priority="LT">"Суулгаж байна"</string>
     <string name="hiad_download_no_space" priority="LT">"Багтаамж хангалтгүй. Зай суллаад дахин оролдоно уу."</string>
     <string name="hiad_download_open" priority="LT">"НЭЭХ"</string>
     <string name="hiad_download_resume" priority="LT">"ҮРГЭЛЖЛҮҮЛЭХ"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Боллоо"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Энэ хуудас %1$s-г нээхийг хүсэж байна."</string>
     <string name="hiad_link_already_copied" priority="LT">"Холбоос хуулагдлаа."</string>
+    <string name="hiad_loading_tips" priority="LT">"Ачаалж байна…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Энэ татан авалт %1$s гар утасны дата ашиглах болно."</string>
+    <string name="hiad_net_error" priority="LT">"Сүлжээний холболтын алдаа. Дахин оролдоно уу."</string>
     <string name="hiad_network_error" priority="translator">"Сүлжээний холболтын алдаа."</string>
     <string name="hiad_network_no_available" priority="LT">"Интернет холболт байхгүй байна. Сүлжээнийхээ тохиргоог шалгана уу."</string>
     <string name="hiad_no_more_remind" priority="LT">"Надад дахин бүү сануул"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Алгасах"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Үзсээр байх"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Энэ зарыг үзэж дуусгаад шагнал аваарай."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Вэбсайт/апликэйшнийг нээхийн тулд дарна уу"</string>
     <string name="hiad_whether_download" priority="LT">"Энэ аппликэйшнийг татах уу?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi-аар урьдчилан ачаалсан"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Урьдчилан ачаалсан"</string>

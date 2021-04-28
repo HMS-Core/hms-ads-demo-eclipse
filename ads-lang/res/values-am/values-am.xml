@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"መስኮት በ%1$s ሰከንድ ውስጥ ይዘጋል።"</item>
-    <item priority="translator" quantity="other">"መስኮት በ%1$s ሰከንዶች ውስጥ ይዘጋል።"</item>
-</plurals>
+        <item priority="translator" quantity="one">"መስኮት በ%1$s ሰከንድ ውስጥ ይዘጋል።"</item>
+        <item priority="translator" quantity="other">"መስኮት በ%1$s ሰከንዶች ውስጥ ይዘጋል።"</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"ለ%1$s ቀን ምርጫን አስታውስ"</item>
-    <item priority="Reviewed" quantity="other">"ለ%1$s ቀናት ምርጫን አስታውስ"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"ለ%1$s ቀን ምርጫን አስታውስ"</item>
+        <item priority="Reviewed" quantity="other">"ለ%1$s ቀናት ምርጫን አስታውስ"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d ሰከ"</item>
-    <item priority="LT" quantity="other">"%1$d ሰከ"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d ሰከ"</item>
+        <item priority="LT" quantity="other">"%1$d ሰከ"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"ማስታወቂያ"</string>
+    <string name="hiad_ad_label_new" priority="LT">"ማስታወቂያ"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s ተጭኗል"</string>
     <string name="hiad_app_open_notification" priority="translator">"መጫን ተጠናቅቋል። ለመክፈት ይንኩ።"</string>
     <string name="hiad_app_permission" priority="LT">"ፈቃዶች"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"ማስታወቂያ ተደብቋል"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"ፍላጎት የለኝም"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"ፍላጎት የለኝም"</string>
     <string name="hiad_choices_hide" priority="LT">"ማስታወቂያን ደብቅ"</string>
     <string name="hiad_choices_whythisad" priority="LT">"ይህን ማስታወቂያ ያየሁት ለምንድነው?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"ይህ መተግበሪያ ይጫን?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"የስልክ አውታረ መረብን መጠቀም ከውሂብ %1$s ያክሉን ይጠቀማል። ይቀጥል?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"መልሶ ማጫወት የሞባይል ውሂብ ይጠቀማል። ቀጥል?"</string>
     <string name="hiad_continue_download" priority="LT">"አውርድ"</string>
@@ -47,7 +48,7 @@
     <string name="hiad_dialog_title" priority="LT">"የሞባይል ውሂብ በመጠቀም አውርድ?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"ማስታወሻ"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"የሞባይል ውሂብን በመጠቀም ይውረድ?"</string>
-    <string name="hiad_download_download" priority="translator">"ጫን"</string>
+    <string name="hiad_download_download" priority="LT">"ጫን"</string>
     <string name="hiad_download_download_with_size" priority="LT">"አውርድ (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$s ን በማውረድ ላይ ብልሽት ተፈጥረዋል።"</string>
     <string name="hiad_download_file_corrupted" priority="translator">"ፋይሉ ተበላሽተዋል። እባክዎን እንደገና ያውርዱ።"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"ተከናውኗል"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ይህ ገጽ %1$sን መክፈት ይፈልጋል።"</string>
     <string name="hiad_link_already_copied" priority="LT">"ሊንኩ ተቀድቷል።"</string>
+    <string name="hiad_loading_tips" priority="LT">"በመጫን ላይ…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"ይህ ውርድ %1$s የሞባይል ውሂብ ይጠቀማል።"</string>
+    <string name="hiad_net_error" priority="LT">"የአውታረ መረብ ግንኙነት ስህተት። እባክዎ እንደገና ይሞክሩ።"</string>
     <string name="hiad_network_error" priority="translator">"የአውታረ መረብ ግንኙነት ስህተት።"</string>
     <string name="hiad_network_no_available" priority="LT">"የበይነ መረብ ግኑኙነት የለም። እባክዎን የአውታረ መረብ ቅንብሮችን ይፈትሹ።"</string>
     <string name="hiad_no_more_remind" priority="LT">"ከአሁን በኋላ አታስታውሰኝ"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"እለፍ"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"መመልከቱን ይቀጥሉ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ሽልማት ለማግኘት ይህን ማስታወቂያ አይተው ይጨርሱ።"</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"ድር ጣቢያውን/መተግበሪያውን ለመክፈት ይንኩ"</string>
     <string name="hiad_whether_download" priority="LT">"ይህ መተግበሪያ ይውረድ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"በ Wi-Fi ቀድሞ ተጭነዋል"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ቅድሚያ ተጭኗል"</string>

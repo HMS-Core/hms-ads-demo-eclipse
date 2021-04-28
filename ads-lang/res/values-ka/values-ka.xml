@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"ვინდოუსი დაიხურება %1$s წამში."</item>
-    <item priority="translator" quantity="other">"ვინდოუსი დაიხურება %1$s წამში."</item>
-</plurals>
+        <item priority="translator" quantity="one">"ვინდოუსი დაიხურება %1$s წამში."</item>
+        <item priority="translator" quantity="other">"ვინდოუსი დაიხურება %1$s წამში."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
-    <item priority="Reviewed" quantity="other">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
+        <item priority="Reviewed" quantity="other">"დაიმახსოვრეთ არჩევანი %1$s დღისთვის"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d წმ"</item>
-    <item priority="LT" quantity="other">"%1$d წმ"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d წმ"</item>
+        <item priority="LT" quantity="other">"%1$d წმ"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"რეკლამა"</string>
-    <string name="hiad_ad_label_new" priority="translator">"რეკლამა"</string>
+    <string name="hiad_ad_label_new" priority="LT">"რეკლამა"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s დაინსტალირდა"</string>
     <string name="hiad_app_open_notification" priority="translator">"ინსტალაცია დასრულებულია. შეეხეთ გასახსნელად."</string>
     <string name="hiad_app_permission" priority="LT">"ნებართვები"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"რეკლამა დამალულია"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"არ მაინტერესებს"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"არ მაინტერესებს"</string>
     <string name="hiad_choices_hide" priority="LT">"რეკლამის დამალვა"</string>
     <string name="hiad_choices_whythisad" priority="LT">"რატომ ვნახე ეს რეკლამა?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"დავაინსტალიროთ ეს აპი?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"მობილური ქსელის გამოყენება მოიხმარს %1$s-ის რაოდენობის მონაცემებს. გავაგრძელოთ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"დაკვრა გამოიყენებს მობილურ მონაცემებს. გავაგრძელოთ?"</string>
     <string name="hiad_continue_download" priority="LT">"ჩამოტვირთვა"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"ჩამოიტვირთოს მობილური მონაცემების გამოყენებით?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"შენიშვნა"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"ჩამოვტვირთოთ მობილური მონაცემების გამოყენებით?"</string>
-    <string name="hiad_download_download" priority="translator">"ინსტალაცია"</string>
+    <string name="hiad_download_download" priority="LT">"ინსტალირება"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ჩამოტვირთვა (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"შეცდომა მოხდა %1$s-ის ჩამოტვირთვის დროს."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"ფაილი დაზიანებულია. გთხოვთ, თავიდან ჩამოტვირთოთ."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"ფაილი არ არსებობს. გთხოვთ, კიდევ სცადოთ."</string>
     <string name="hiad_download_install" priority="LT">"ინსტალაცია"</string>
-    <string name="hiad_download_installing" priority="translator">"მიმდინარეობს ინსტალაცია"</string>
+    <string name="hiad_download_installing" priority="LT">"ინსტალირება"</string>
     <string name="hiad_download_no_space" priority="LT">"არასაკმარისი მეხსიერება. გაათავისუფლეთ სივრცე და კიდევ სცადეთ."</string>
     <string name="hiad_download_open" priority="LT">"გახსნა"</string>
     <string name="hiad_download_resume" priority="LT">"გაგრძელება"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"შესრულებულია"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ამ გვერდს სურს %1$s-ის გახსნა."</string>
     <string name="hiad_link_already_copied" priority="LT">"ბმული კოპირებულია."</string>
+    <string name="hiad_loading_tips" priority="LT">"იტვირთება…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"ეს ჩამოტვირთვა გამოიყენებს მობილური მონაცემების %1$s-ს."</string>
+    <string name="hiad_net_error" priority="LT">"ქსელის კავშირის შეცდომა. სცადეთ ხელახლა."</string>
     <string name="hiad_network_error" priority="LT">"ქსელის კავშირის შეცდომა."</string>
     <string name="hiad_network_no_available" priority="LT">"არ არის ინტერნეტ კავშირი. გთხოვთ, შეამოწმეთ თქვენი ქსელის პარამეტრები."</string>
     <string name="hiad_no_more_remind" priority="LT">"აღარ შემახსენო"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"გამოტოვება"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ყურების გაგრძელება"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"დაასრულეთ ამ რეკლამის ყურება ჯილდოს მისაღებად."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"შეეხეთ, რომ გახსნათ ვებსაიტი/აპი"</string>
     <string name="hiad_whether_download" priority="LT">"ჩამოიტვირთოს ეს აპი?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"წინასწარ დატვირთული Wi-Fi-ის მეშვეობით"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"წინასწარ ჩატვირთული"</string>

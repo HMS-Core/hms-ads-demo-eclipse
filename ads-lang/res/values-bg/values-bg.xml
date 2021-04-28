@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"Прозорецът ще се затвори след %1$s секунда."</item>
-    <item priority="translator" quantity="other">"Прозорецът ще се затвори след %1$s секунди."</item>
-</plurals>
+        <item priority="translator" quantity="one">"Прозорецът ще се затвори след %1$s секунда."</item>
+        <item priority="translator" quantity="other">"Прозорецът ще се затвори след %1$s секунди."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"Запомни избора за %1$s ден"</item>
-    <item priority="Reviewed" quantity="other">"Запомни избора за %1$s дни"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"Запомни избора за %1$s ден"</item>
+        <item priority="Reviewed" quantity="other">"Запомни избора за %1$s дни"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d сек."</item>
-    <item priority="LT" quantity="other">"%1$d сек."</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d сек."</item>
+        <item priority="LT" quantity="other">"%1$d сек."</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Реклама"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Реклама"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s е инсталирано"</string>
     <string name="hiad_app_open_notification" priority="translator">"Инсталацията е завършена Докоснете, за да отворите."</string>
     <string name="hiad_app_permission" priority="LT">"Разрешения"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Рекламата е скрита"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Не ме интересува"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Не ме интересува"</string>
     <string name="hiad_choices_hide" priority="translator">"Скриване на реклама"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Защо видях тази реклама?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Инсталиране на това приложение?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Използването на мобилна мрежа ще консумира %1$s данни. Продължаване?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Възпроизвеждането ще използва мобилни данни. Продължавате ли?"</string>
     <string name="hiad_continue_download" priority="LT">"Изтегляне"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"Изтегляне при използване на мобилни данни?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Бележка"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Изтегляне при използване на мобилни данни?"</string>
-    <string name="hiad_download_download" priority="translator">"ИНСТАЛИРАНЕ"</string>
+    <string name="hiad_download_download" priority="LT">"ИНСТАЛИРАНЕ"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ИЗТЕГЛЯНЕ (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Възникна грешка при изтегляне на %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Файлът е повреден. Изтеглете отново."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Файлът не съществува. Опитайте отново."</string>
     <string name="hiad_download_install" priority="LT">"ИНСТАЛИРАНЕ"</string>
-    <string name="hiad_download_installing" priority="LT">"ИНСТАЛИРАНЕ"</string>
+    <string name="hiad_download_installing" priority="LT">"Инсталира се"</string>
     <string name="hiad_download_no_space" priority="LT">"Недостатъчна памет. Освободете място и опитайте отново."</string>
     <string name="hiad_download_open" priority="LT">"ОТВАРЯНЕ"</string>
     <string name="hiad_download_resume" priority="LT">"ПРОДЪЛЖИ"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Готово"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Тази страница иска да отвори %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Връзката е копирана."</string>
+    <string name="hiad_loading_tips" priority="LT">"Зареждане…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Това изтегляне ще използва %1$s мобилни данни."</string>
+    <string name="hiad_net_error" priority="LT">"Грешка при свързване с мрежата. Моля, опитайте отново."</string>
     <string name="hiad_network_error" priority="LT">"Грешка в мрежовата връзка."</string>
     <string name="hiad_network_no_available" priority="LT">"Няма Интернет връзка. Проверете мрежовите настройки."</string>
     <string name="hiad_no_more_remind" priority="LT">"Не напомняй повече"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Пропускане"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Продължете да гледате"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Изгледайте рекламата до края, за да спечелите награда."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Докоснете, за да отворите уебсайта/приложението"</string>
     <string name="hiad_whether_download" priority="LT">"Изтегляне на това приложение?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Предварително зареден през Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Предварително заредено"</string>

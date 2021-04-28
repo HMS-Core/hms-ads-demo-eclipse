@@ -19,14 +19,15 @@
         <item priority="LT" quantity="other">"%1$d שניות"</item>
     </plurals>
     <string name="hiad_ad_label" priority="translator">"פרסומת"</string>
-    <string name="hiad_ad_label_new" priority="translator">"מודעה"</string>
+    <string name="hiad_ad_label_new" priority="LT">"מודעה"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s הותקן"</string>
     <string name="hiad_app_open_notification" priority="translator">"ההתקנה הושלמה. גע כדי לפתוח."</string>
     <string name="hiad_app_permission" priority="LT">"הרשאות"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"מודעה מוסתרת"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"לא מעוניין"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"לא מעוניין"</string>
     <string name="hiad_choices_hide" priority="LT">"הסתר מודעה"</string>
     <string name="hiad_choices_whythisad" priority="LT">"מדוע ראיתי מודעה זו?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"להתקין יישום זה?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"שימוש ברשת סלולרית יצרוך %1$s נתונים. להמשיך?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ההפעלה תשתמש בנתונים סלולריים. להמשיך?"</string>
     <string name="hiad_continue_download" priority="LT">"הורד"</string>
@@ -53,7 +54,7 @@
     <string name="hiad_dialog_title" priority="LT">"להוריד באמצעות נתונים סלולריים?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"הערה"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"להוריד באמצעות נתונים סלולריים?"</string>
-    <string name="hiad_download_download" priority="translator">"התקן"</string>
+    <string name="hiad_download_download" priority="LT">"התקן"</string>
     <string name="hiad_download_download_with_size" priority="LT">"הורד (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"אירעה שגיאה בעת הורדת %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"הקובץ פגום. הורד שוב."</string>
@@ -69,7 +70,9 @@
     <string name="hiad_install_completed" priority="LT">"בוצע"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"דף זה רוצה לפתוח את %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"הקישור הועתק."</string>
+    <string name="hiad_loading_tips" priority="translator">"טוען…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"הורדה זו תצרוך %1$s של נתונים סלולריים."</string>
+    <string name="hiad_net_error" priority="LT">"שגיאת חיבור רשת. נסה שוב."</string>
     <string name="hiad_network_error" priority="LT">"שגיאת חיבור רשת."</string>
     <string name="hiad_network_no_available" priority="LT">"אין חיבור לאינטרנט. בדוק את הגדרות הרשת."</string>
     <string name="hiad_no_more_remind" priority="LT">"אל תזכיר לי שוב"</string>
@@ -86,6 +89,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"דלג"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"המשך בצפייה"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"סיים לצפות במודעה זו כדי לזכות בפרס."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"גע כדי לפתוח את אתר האינטרנט/היישום"</string>
     <string name="hiad_whether_download" priority="LT">"להוריד יישום זה?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"נטען מראש על גבי Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"טעון מראש"</string>

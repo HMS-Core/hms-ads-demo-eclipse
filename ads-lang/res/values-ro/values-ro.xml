@@ -16,14 +16,15 @@
         <item priority="translator" quantity="other">"%1$d s"</item>
     </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Anunț"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Anunț"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s a fost instalat"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalare finalizată. Atingeți pentru a deschide."</string>
     <string name="hiad_app_permission" priority="LT">"Permisiuni"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Anunț ascuns"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Nu mă interesează"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Nu mă interesează"</string>
     <string name="hiad_choices_hide" priority="translator">"Ascundeți anunțul"</string>
     <string name="hiad_choices_whythisad" priority="translator">"De ce am văzut acest anunț?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Instalați această aplicație?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Utilizarea unei rețele mobile va determina consumarea a %1$s din traficul de date. Continuați?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Redarea va utiliza date mobile. Continuați?"</string>
     <string name="hiad_continue_download" priority="LT">"Descărcare"</string>
@@ -50,13 +51,13 @@
     <string name="hiad_dialog_title" priority="LT">"Descărcați prin conexiunea de date mobile?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Notă"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Descărcați utilizând conexiunea de date mobile?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTALARE"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALARE"</string>
     <string name="hiad_download_download_with_size" priority="LT">"DESCĂRCARE (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"A apărut o eroare în timpul descărcării %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Fișier corupt. Descărcați-l din nou."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Fișierul nu există. Încercați din nou."</string>
     <string name="hiad_download_install" priority="LT">"INSTALARE"</string>
-    <string name="hiad_download_installing" priority="LT">"INSTALARE"</string>
+    <string name="hiad_download_installing" priority="LT">"Se instalează"</string>
     <string name="hiad_download_no_space" priority="LT">"Spațiu de stocare insuficient. Eliberați spațiu și încercați din nou."</string>
     <string name="hiad_download_open" priority="LT">"DESCHIDERE"</string>
     <string name="hiad_download_resume" priority="LT">"CONTINUARE"</string>
@@ -66,7 +67,9 @@
     <string name="hiad_install_completed" priority="LT">"Terminat"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Această pagină dorește să deschidă %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link copiat."</string>
+    <string name="hiad_loading_tips" priority="LT">"Se încarcă…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Această descărcare va utiliza %1$s de date mobile."</string>
+    <string name="hiad_net_error" priority="LT">"Eroare de conexiune la rețea. Încercați din nou."</string>
     <string name="hiad_network_error" priority="LT">"Eroare de conectare la rețea."</string>
     <string name="hiad_network_no_available" priority="LT">"Nu există conexiune la Internet. Verificați setările de rețea."</string>
     <string name="hiad_no_more_remind" priority="LT">"Nu îmi mai aminti"</string>
@@ -83,6 +86,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Omitere"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuați să urmăriți"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Vizionați această reclamă până la capăt pentru a câștiga o recompensă."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Atingeți pentru a deschide site-ul web/aplicația"</string>
     <string name="hiad_whether_download" priority="LT">"Descărcați această aplicație?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Preîncărcat prin Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Preîncărcat"</string>

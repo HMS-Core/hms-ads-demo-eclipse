@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"Cửa sổ sẽ đóng trong %1$s giây."</item>
-</plurals>
+        <item priority="translator" quantity="other">"Cửa sổ sẽ đóng trong %1$s giây."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="other">"Ghi nhớ lựa chọn cho %1$s ngày"</item>
-</plurals>
+        <item priority="Reviewed" quantity="other">"Ghi nhớ lựa chọn cho %1$s ngày"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d giây"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d giây"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Quảng cáo"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Quảng cáo"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s đã được cài đặt"</string>
     <string name="hiad_app_open_notification" priority="translator">"Cài đặt hoàn tất. Chạm để mở."</string>
     <string name="hiad_app_permission" priority="LT">"Quyền"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Đã ẩn quảng cáo"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Không quan tâm"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Không quan tâm"</string>
     <string name="hiad_choices_hide" priority="translator">"Ẩn quảng cáo"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Tại sao tôi lại thấy quảng cáo này?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Cài đặt ứng dụng này?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Việc sử dụng mạng di động sẽ tiêu tốn %1$s dữ liệu. Tiếp tục?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Quá trình phát lại sẽ sử dụng dữ liệu di động. Tiếp tục?"</string>
     <string name="hiad_continue_download" priority="LT">"Tải xuống"</string>
@@ -44,13 +45,13 @@
     <string name="hiad_dialog_title" priority="LT">"Tải xuống bằng dữ liệu di động?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Lưu ý"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Tải xuống bằng dữ liệu di động?"</string>
-    <string name="hiad_download_download" priority="translator">"CÀI ĐẶT"</string>
+    <string name="hiad_download_download" priority="LT">"CÀI ĐẶT"</string>
     <string name="hiad_download_download_with_size" priority="LT">"TẢI XUỐNG (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Đã xảy ra lỗi khi đang tải xuống %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Tệp tin bị hỏng. Vui lòng tải xuống lại."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Tệp tin không tồn tại. Vui lòng thử lại."</string>
     <string name="hiad_download_install" priority="LT">"CÀI ĐẶT"</string>
-    <string name="hiad_download_installing" priority="LT">"ĐANG CÀI ĐẶT"</string>
+    <string name="hiad_download_installing" priority="LT">"Đang cài đặt"</string>
     <string name="hiad_download_no_space" priority="LT">"Không đủ bộ nhớ. Vui lòng giải phóng thêm dung lượng và thử lại."</string>
     <string name="hiad_download_open" priority="LT">"MỞ"</string>
     <string name="hiad_download_resume" priority="LT">"TIẾP TỤC"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"Xong"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Trang này muốn mở %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Liên kết đã được sao chép."</string>
+    <string name="hiad_loading_tips" priority="LT">"Đang tải…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Quá trình tải xuống này sẽ sử dụng %1$s dữ liệu di động."</string>
+    <string name="hiad_net_error" priority="LT">"Lỗi kết nối mạng. Vui lòng thử lại."</string>
     <string name="hiad_network_error" priority="LT">"Lỗi kết nối mạng."</string>
     <string name="hiad_network_no_available" priority="LT">"Không có kết nối Internet. Vui lòng kiểm tra cài đặt mạng của bạn."</string>
     <string name="hiad_no_more_remind" priority="LT">"Không nhắc lại"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Bỏ qua"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Tiếp tục xem"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Xem hết quảng cáo này để nhận phần thưởng."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Chạm để mở trang web/ứng dụng"</string>
     <string name="hiad_whether_download" priority="LT">"Tải xuống ứng dụng này?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Được tải trước qua Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Đã tải trước"</string>

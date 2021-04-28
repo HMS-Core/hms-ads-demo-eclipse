@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"پنجره ظرف %1$s ثانیه بسته خواهد شد."</item>
-    <item priority="translator" quantity="other">"پنجره ظرف %1$s ثانیه بسته خواهد شد."</item>
-</plurals>
+        <item priority="translator" quantity="one">"پنجره ظرف %1$s ثانیه بسته خواهد شد."</item>
+        <item priority="translator" quantity="other">"پنجره ظرف %1$s ثانیه بسته خواهد شد."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"این انتخاب تا %1$s روز به خاطر سپرده شود"</item>
-    <item priority="Reviewed" quantity="other">"این انتخاب تا %1$s روز به خاطر سپرده شود"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"این انتخاب تا %1$s روز به خاطر سپرده شود"</item>
+        <item priority="Reviewed" quantity="other">"این انتخاب تا %1$s روز به خاطر سپرده شود"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d ثانیه"</item>
-    <item priority="LT" quantity="other">"%1$d ثانیه"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d ثانیه"</item>
+        <item priority="LT" quantity="other">"%1$d ثانیه"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"تبلیغ"</string>
+    <string name="hiad_ad_label_new" priority="LT">"تبلیغ"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s نصب شده است"</string>
     <string name="hiad_app_open_notification" priority="translator">"نصب کامل شد. برای باز کردن، لمس کنید."</string>
     <string name="hiad_app_permission" priority="LT">"مجوزها"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"تبلیغ پنهان شده است"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"علاقه‌ای ندارم"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"علاقه‌ای ندارم"</string>
     <string name="hiad_choices_hide" priority="LT">"پنهان کردن تبلیغ"</string>
     <string name="hiad_choices_whythisad" priority="LT">"چرا این تبلیغ را دیدم؟"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"این برنامه نصب شود؟"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"استفاده از شبکۀ تلفن همراه منجر به مصرف %1$s داده خواهد شد. ادامه می‌دهید؟"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"پخش، دادۀ تلفن همراه را مصرف خواهد کرد. ادامه می‌دهید؟"</string>
     <string name="hiad_continue_download" priority="LT">"دانلود"</string>
@@ -47,7 +48,7 @@
     <string name="hiad_dialog_title" priority="LT">"با استفاده از دادۀ تلفن همراه دانلود شود؟"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"توجه"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"با استفاده از دادۀ تلفن همراه دانلود شود؟"</string>
-    <string name="hiad_download_download" priority="translator">"نصب"</string>
+    <string name="hiad_download_download" priority="LT">"نصب"</string>
     <string name="hiad_download_download_with_size" priority="translator">"دانلود (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"در حین دانلود %1$s، خطایی رخ داد."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"فایل خراب است. لطفاً دوباره دانلود کنید."</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"انجام شد"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"این صفحه می‌خواهد %1$s را باز کند."</string>
     <string name="hiad_link_already_copied" priority="LT">"پیوند کپی شد."</string>
+    <string name="hiad_loading_tips" priority="LT">"در حال بارگیری…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"این دانلود %1$s از دادۀ تلفن همراه را مصرف خواهد کرد."</string>
+    <string name="hiad_net_error" priority="LT">"خطای اتصال شبکه. لطفاً دوباره امتحان کنید."</string>
     <string name="hiad_network_error" priority="LT">"خطای اتصال شبکه."</string>
     <string name="hiad_network_no_available" priority="LT">"اتصال اينترنت وجود ندارد. لطفاً تنظیمات شبکۀ خود را بررسی کنید."</string>
     <string name="hiad_no_more_remind" priority="LT">"دوباره یادآوری نشود"</string>
@@ -72,7 +75,7 @@
     <string name="hiad_open_in_browser" priority="LT">"باز کردن در مرورگر"</string>
     <string name="hiad_page_load_failed" priority="LT">"بارگیری صفحه مقدور نیست. لطفاً دوباره امتحان کنید."</string>
     <string name="hiad_permission_dialog_title" priority="LT">"%1$s به مجوزهای زیر نیاز دارد:"</string>
-    <string name="hiad_prepare_download" priority="LT">"انتظار برای WI-FI"</string>
+    <string name="hiad_prepare_download" priority="LT">"انتظار برای Wi-Fi"</string>
     <string name="hiad_prepare_download_title" priority="LT">"از طریق شبکۀ تلفن همراه دانلود شود؟"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"انتظار برای WLAN"</string>
     <string name="hiad_refresh" priority="LT">"تازه‌سازی"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"رد شدن"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ادامۀ تماشا"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"این تبلیغ را تا آخر تماشا کنید و پاداش بگیرید."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"برای باز کردن وب‌سایت/برنامه، لمس کنید"</string>
     <string name="hiad_whether_download" priority="LT">"این برنامه دانلود شود؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"از طریق Wi-Fi بارگیری اولیه شده"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"از پیش بارگیری‌شده"</string>

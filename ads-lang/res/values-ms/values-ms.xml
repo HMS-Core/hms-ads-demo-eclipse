@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"Tetingkap akan ditutup selepas %1$s saat."</item>
-</plurals>
+        <item priority="translator" quantity="other">"Tetingkap akan ditutup selepas %1$s saat."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="other">"Ingat pilihan selama %1$s hari"</item>
-</plurals>
+        <item priority="Reviewed" quantity="other">"Ingat pilihan selama %1$s hari"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d saat"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d saat"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"IKLAN"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Iklan"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Iklan"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s telah dipasang"</string>
     <string name="hiad_app_open_notification" priority="translator">"Pemasangan selesai. Sentuh untuk membuka."</string>
     <string name="hiad_app_permission" priority="LT">"Kebenaran"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Iklan tersembunyi"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Tidak minat"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Tidak minat"</string>
     <string name="hiad_choices_hide" priority="LT">"Sembunyikan iklan"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Mengapakah saya melihat iklan ini?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Pasang aplikasi ini?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Menggunakan rangkaian mudah alih akan menggunakan %1$s data. Teruskan?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Main balik akan menggunakan data mudah alih. Teruskan?"</string>
     <string name="hiad_continue_download" priority="LT">"Muat turun"</string>
@@ -44,13 +45,13 @@
     <string name="hiad_dialog_title" priority="LT">"Muat turun dengan data mudah alih?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Nota"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Muat turun dengan data mudah alih?"</string>
-    <string name="hiad_download_download" priority="translator">"PASANG"</string>
+    <string name="hiad_download_download" priority="LT">"PASANG"</string>
     <string name="hiad_download_download_with_size" priority="LT">"MUAT TURUN (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Ralat berlaku apabila memuat turun %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Fail rosak. Sila muat turun lagi."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Fail tidak wujud. Sila cuba lagi."</string>
     <string name="hiad_download_install" priority="LT">"PASANG"</string>
-    <string name="hiad_download_installing" priority="LT">"MEMASANG"</string>
+    <string name="hiad_download_installing" priority="LT">"Memasang"</string>
     <string name="hiad_download_no_space" priority="LT">"Storan tidak cukup. Kosongkan sebahagian ruang dan cuba lagi."</string>
     <string name="hiad_download_open" priority="LT">"BUKA"</string>
     <string name="hiad_download_resume" priority="LT">"TERUSKAN"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"Selesai"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Laman ini ingin membuka %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Pautan disalin."</string>
+    <string name="hiad_loading_tips" priority="LT">"Memuat..."</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Muat turun ini akan menggunakan %1$s data mudah alih."</string>
+    <string name="hiad_net_error" priority="LT">"Ralat sambungan rangkaian. Sila cuba lagi."</string>
     <string name="hiad_network_error" priority="LT">"Ralat sambungan rangkaian."</string>
     <string name="hiad_network_no_available" priority="LT">"Tiada sambungan Internet. Sila periksa tetapan rangkaian anda."</string>
     <string name="hiad_no_more_remind" priority="LT">"Jangan ingatkan saya lagi"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Langkau"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Teruskan tontonan"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Habiskan tontonan iklan ini untuk mendapat ganjaran."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Sentuh untuk membuka tapak web/aplikasi"</string>
     <string name="hiad_whether_download" priority="LT">"Muat turun aplikasi ini?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Dipramuat melalui Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Dipramuat"</string>

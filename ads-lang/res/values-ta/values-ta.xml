@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"%1$s வினாடியில் சாளரம் மூடப்படும்."</item>
-    <item priority="translator" quantity="other">"%1$s வினாடிகளில் சாளரம் மூடப்படும்."</item>
-</plurals>
+        <item priority="translator" quantity="one">"%1$s வினாடியில் சாளரம் மூடப்படும்."</item>
+        <item priority="translator" quantity="other">"%1$s வினாடிகளில் சாளரம் மூடப்படும்."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"%1$s நாளுக்குத் தெரிவை நினைவில்கொள்"</item>
-    <item priority="Reviewed" quantity="other">"%1$s நாட்களுக்குத் தெரிவை நினைவில்கொள்"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"%1$s நாளுக்குத் தெரிவை நினைவில்கொள்"</item>
+        <item priority="Reviewed" quantity="other">"%1$s நாட்களுக்குத் தெரிவை நினைவில்கொள்"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d வினாடி"</item>
-    <item priority="LT" quantity="other">"%1$d வினாடி"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d வினாடி"</item>
+        <item priority="LT" quantity="other">"%1$d வினாடி"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"விளம்பரம்"</string>
+    <string name="hiad_ad_label_new" priority="LT">"விளம்பரம்"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s நிறுவப்பட்டுள்ளது"</string>
     <string name="hiad_app_open_notification" priority="translator">"நிறுவல் முடிந்தது. திறப்பதற்குத் தொடவும்."</string>
     <string name="hiad_app_permission" priority="LT">"அனுமதிகள்"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"விளம்பரம் மறைக்கப்பட்டது"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"ஆர்வமில்லை"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"ஆர்வமில்லை"</string>
     <string name="hiad_choices_hide" priority="LT">"விளம்பரத்தை மறை"</string>
     <string name="hiad_choices_whythisad" priority="LT">"இந்த விளம்பரத்தை ஏன் பார்க்கிறேன்?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"இந்தச் செயலியை நிறுவவா?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"மொபைல் நெட்வொர்க்கை பயன்படுத்துவது தரவின் %1$s-ஐ பயன்படுத்தும். தொடரவா?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"மறுஇயக்கம், மொபைல் தரவைப் பயன்படுத்தும். தொடரவா?"</string>
     <string name="hiad_continue_download" priority="LT">"பதிவிறக்கு"</string>
@@ -47,7 +48,7 @@
     <string name="hiad_dialog_title" priority="LT">"மொபைல் தரவைப் பயன்படுத்திப் பதிவிறக்கவா?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"குறிப்பு"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"மொபைல் தரவைப் பயன்படுத்திப் பதிவிறக்கவா?"</string>
-    <string name="hiad_download_download" priority="translator">"நிறுவு"</string>
+    <string name="hiad_download_download" priority="LT">"நிறுவு"</string>
     <string name="hiad_download_download_with_size" priority="LT">"பதிவிறக்கு (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$s-ஐப் பதிவிறக்குகையில் ஒரு பிழை ஏற்பட்டது."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"கோப்பு சேதமடைந்தது. மீண்டும் பதிவிறக்கவும்."</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"முடிந்தது"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"இந்தப் பக்கம், %1$s-ஐத் திறக்க விரும்புகிறது."</string>
     <string name="hiad_link_already_copied" priority="LT">"இணைப்பு நகலெடுக்கப்பட்டது."</string>
+    <string name="hiad_loading_tips" priority="LT">"ஏற்றுகிறது…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"இந்தப் பதிவிறக்கம், %1$s மொபைல் தரவைப் பயன்படுத்தும்."</string>
+    <string name="hiad_net_error" priority="LT">"பிணைய இணைப்புப் பிழை. மீண்டும் முயலவும்."</string>
     <string name="hiad_network_error" priority="translator">"பிணைய இணைப்புப் பிழை."</string>
     <string name="hiad_network_no_available" priority="LT">"இணைய இணைப்பு இல்லை. உங்கள் பிணைய அமைப்புகளைச் சரிபார்க்கவும்."</string>
     <string name="hiad_no_more_remind" priority="LT">"மீண்டும் நினைவூட்ட வேண்டாம்"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"தவிர்"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"தொடர்ந்து பார்க்கவும்"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"வெகுமதியைப் பெற, இந்த விளம்பரத்தைப் பார்த்து முடிக்கவும்."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"வலைத்தளம்/செயலியைத் திறக்க, தொடவும்"</string>
     <string name="hiad_whether_download" priority="LT">"இந்தச் செயலியைப் பதிவிறக்கவா?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi வழியாக முன்-ஏற்றப்பட்டது"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"முன்ஏற்றியது"</string>

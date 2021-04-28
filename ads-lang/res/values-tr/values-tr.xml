@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"Pencere %1$s saniye sonra kapanacaktır."</item>
-    <item priority="translator" quantity="other">"Pencere %1$s saniye sonra kapanacaktır."</item>
-</plurals>
+        <item priority="translator" quantity="one">"Pencere %1$s saniye sonra kapanacaktır."</item>
+        <item priority="translator" quantity="other">"Pencere %1$s saniye sonra kapanacaktır."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"Seçimi %1$s gün boyunca hatırla"</item>
-    <item priority="Reviewed" quantity="other">"Seçimi %1$s gün boyunca hatırla"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"Seçimi %1$s gün boyunca hatırla"</item>
+        <item priority="Reviewed" quantity="other">"Seçimi %1$s gün boyunca hatırla"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d sn."</item>
-    <item priority="LT" quantity="other">"%1$d sn."</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d sn."</item>
+        <item priority="LT" quantity="other">"%1$d sn."</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"REKLAM"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Reklam"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklam"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s yüklendi"</string>
     <string name="hiad_app_open_notification" priority="translator">"Yükleme işlemi tamamlandı. Açmak için dokunun."</string>
     <string name="hiad_app_permission" priority="LT">"İzinler"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Reklam gizlendi"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"İlgilenmiyorum"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"İlgilenmiyorum"</string>
     <string name="hiad_choices_hide" priority="LT">"Reklamı gizle"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Neden bu reklamı görüyorum?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Bu uygulama yüklensin mi?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Mobil ağ kullanmak %1$s boyutunda veri tüketecektir. Devam edilsin mi?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Oynatılması mobil veri tüketecektir. Devam edilsin mi?"</string>
     <string name="hiad_continue_download" priority="LT">"İndir"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"Mobil veri kullanarak indirilsin mi?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Not"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Mobil veri kullanarak indirilsin mi?"</string>
-    <string name="hiad_download_download" priority="translator">"YÜKLE"</string>
+    <string name="hiad_download_download" priority="LT">"YÜKLE"</string>
     <string name="hiad_download_download_with_size" priority="LT">"İNDİR (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$s indirilirken bir hata oluştu."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Dosya bozulmuş. Lütfen tekrar indirin."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Dosya mevcut değil. Lütfen tekrar deneyin."</string>
     <string name="hiad_download_install" priority="LT">"YÜKLE"</string>
-    <string name="hiad_download_installing" priority="LT">"YÜKLENİYOR"</string>
+    <string name="hiad_download_installing" priority="LT">"Yükleniyor"</string>
     <string name="hiad_download_no_space" priority="LT">"Yetersiz depolama. Alan boşaltın ve tekrar deneyin."</string>
     <string name="hiad_download_open" priority="LT">"AÇ"</string>
     <string name="hiad_download_resume" priority="LT">"DEVAM"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Bitti"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Bu sayfa %1$s uygulamasını açmak istiyor."</string>
     <string name="hiad_link_already_copied" priority="LT">"Bağlantı kopyalandı."</string>
+    <string name="hiad_loading_tips" priority="LT">"Yükleniyor…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Bu indirme işlemi %1$s mobil veri kullanacaktır."</string>
+    <string name="hiad_net_error" priority="LT">"Ağ bağlantısı hatası. Lütfen tekrar deneyin."</string>
     <string name="hiad_network_error" priority="LT">"Ağ bağlantısı hatası."</string>
     <string name="hiad_network_no_available" priority="LT">"İnternet bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin."</string>
     <string name="hiad_no_more_remind" priority="LT">"Tekrar hatırlatma"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Atla"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"İzlemeye devam et"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Ödül kazanmak için bu reklamı sonuna kadar izleyin."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Web sitesini/uygulamayı açmak için dokunun"</string>
     <string name="hiad_whether_download" priority="LT">"Bu uygulama indirilsin mi?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi üzerinden önceden yüklendi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Önceden yüklenmiş"</string>

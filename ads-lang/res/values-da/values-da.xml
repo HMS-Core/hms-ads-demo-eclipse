@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"Vinduet lukkes om %1$s sekund."</item>
-    <item priority="translator" quantity="other">"Vinduet lukkes om %1$s sekunder."</item>
-</plurals>
+        <item priority="translator" quantity="one">"Vinduet lukkes om %1$s sekund."</item>
+        <item priority="translator" quantity="other">"Vinduet lukkes om %1$s sekunder."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"Husk valget i %1$s dag"</item>
-    <item priority="Reviewed" quantity="other">"Husk valget i %1$s dage"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"Husk valget i %1$s dag"</item>
+        <item priority="Reviewed" quantity="other">"Husk valget i %1$s dage"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d sek."</item>
-    <item priority="LT" quantity="other">"%1$d sek."</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d sek."</item>
+        <item priority="LT" quantity="other">"%1$d sek."</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Reklame"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklame"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s er blevet installeret"</string>
     <string name="hiad_app_open_notification" priority="translator">"Installation gennemført. Tryk for at åbne."</string>
     <string name="hiad_app_permission" priority="LT">"Tilladelser"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Reklame skjult"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Ikke interesseret"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Ikke interesseret"</string>
     <string name="hiad_choices_hide" priority="translator">"Skjul reklame"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Hvorfor ser jeg denne reklame?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Installer denne app?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Brug af et mobilnetværk vil bruge %1$s data. Fortsæt?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Afspilning vil bruge mobildata. Fortsæt?"</string>
     <string name="hiad_continue_download" priority="LT">"Hent"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"Hent ved brug af mobildata?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Bemærk"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Hent ved hjælp af mobildata?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTALLER"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALLER"</string>
     <string name="hiad_download_download_with_size" priority="LT">"HENT (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Der opstod en fejl under hentning af %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Fil beskadiget. Hent igen."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Fil eksisterer ikke. Prøv igen."</string>
     <string name="hiad_download_install" priority="LT">"INSTALLER"</string>
-    <string name="hiad_download_installing" priority="LT">"INSTALLERER"</string>
+    <string name="hiad_download_installing" priority="LT">"Installerer"</string>
     <string name="hiad_download_no_space" priority="LT">"Utilstrækkeligt lager. Frigør noget plads og prøv igen."</string>
     <string name="hiad_download_open" priority="LT">"ÅBN"</string>
     <string name="hiad_download_resume" priority="LT">"FORTSÆT"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Udfør"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Denne side vil åbne %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link kopieret."</string>
+    <string name="hiad_loading_tips" priority="LT">"Indlæser…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Dette download vil bruge %1$s mobildata."</string>
+    <string name="hiad_net_error" priority="LT">"Netværksforbindelsesfejl. Prøv igen."</string>
     <string name="hiad_network_error" priority="LT">"Fejl under netværkstilslutning."</string>
     <string name="hiad_network_no_available" priority="LT">"Ingen internetforbindelse. Kontroller dine netværksindstillinger."</string>
     <string name="hiad_no_more_remind" priority="LT">"Påmind mig ikke igen"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Spring over"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Se videre"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Se denne reklame færdig for at få en belønning."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Tryk for at åbne webstedet/appen"</string>
     <string name="hiad_whether_download" priority="LT">"Hent denne app?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Forudindlæst via Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Forudindlæst"</string>

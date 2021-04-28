@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"%1$s ছেকেণ্ডত উইণ্ড\' বন্ধ হ\'ব।"</item>
-    <item priority="translator" quantity="other">"%1$s ছেকেণ্ডত উইণ্ড\' বন্ধ হ\'ব।"</item>
-</plurals>
+        <item priority="translator" quantity="one">"%1$s ছেকেণ্ডত উইণ্ড\' বন্ধ হ\'ব।"</item>
+        <item priority="translator" quantity="other">"%1$s ছেকেণ্ডত উইণ্ড\' বন্ধ হ\'ব।"</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"%1$s দিনৰ বাবে পছন্দ মনত ৰাখক"</item>
-    <item priority="Reviewed" quantity="other">"%1$s দিনৰ বাবে পছন্দ মনত ৰাখক"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"%1$s দিনৰ বাবে পছন্দ মনত ৰাখক"</item>
+        <item priority="Reviewed" quantity="other">"%1$s দিনৰ বাবে পছন্দ মনত ৰাখক"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d ছেকেণ্ড"</item>
-    <item priority="LT" quantity="other">"%1$d ছেকেণ্ড"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d ছেকেণ্ড"</item>
+        <item priority="LT" quantity="other">"%1$d ছেকেণ্ড"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"বিজ্ঞাপন"</string>
+    <string name="hiad_ad_label_new" priority="LT">"বিজ্ঞাপন"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s ইনষ্টল কৰা হৈছে"</string>
     <string name="hiad_app_open_notification" priority="translator">"ইনষ্টলেশ্বন সম্পূৰ্ণ হ\'ল। খুলিবলৈ স্পৰ্শ কৰক।"</string>
     <string name="hiad_app_permission" priority="LT">"অনুমতিসমূহ"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"বিজ্ঞাপন লুকুওৱা হৈছে"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"আগ্ৰহী নহয়"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"আগ্ৰহী নহয়"</string>
     <string name="hiad_choices_hide" priority="LT">"বিজ্ঞাপন লুকুৱাওক"</string>
     <string name="hiad_choices_whythisad" priority="LT">"মই এই বিজ্ঞাপনটো কিয় দেখা পাই আছো?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"এই এপ্প্‌টো ইনষ্টল কৰিবনে?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"ম\'বাইল নেটৱৰ্ক ব্যৱহাৰ কৰাৰ ফলত %1$s ডাটা খৰচ হ\'ব। অব্যাহত ৰাখিবনে?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"প্লেবেকে ম\'বাইল ডাটা ব্যৱহাৰ কৰিব। অব্যাহত ৰাখিবনে?"</string>
     <string name="hiad_continue_download" priority="LT">"ডাউনলোড কৰক"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"ম\'বাইল ডাটা ব্যৱহাৰ কৰি ডাউনলোড কৰিবনে?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"টোকা"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"ম\'বাইল ডাটা ব্যৱহাৰ কৰি ডাউনলোড কৰিবনে?"</string>
-    <string name="hiad_download_download" priority="translator">"ইনষ্টল কৰক"</string>
+    <string name="hiad_download_download" priority="LT">"ইনষ্টল কৰক"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ডাউনলোড কৰক (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$s ডাউনলোড কৰাৰ সময়ত এটা ত্ৰুটি ঘটিছে।"</string>
     <string name="hiad_download_file_corrupted" priority="translator">"ফাইল দূষিত হৈছে। অনুগ্ৰহ কৰি পুনৰ ডাউনলোড কৰক।"</string>
     <string name="hiad_download_file_not_exist" priority="LT">"ফাইল মজুত নাই। অনুগ্ৰহ কৰি পুনঃচেষ্টা কৰক।"</string>
     <string name="hiad_download_install" priority="LT">"ইনষ্টল কৰক"</string>
-    <string name="hiad_download_installing" priority="LT">"ইনষ্টল হৈ আছে"</string>
+    <string name="hiad_download_installing" priority="LT">"ইনষ্টল কৰি আছে"</string>
     <string name="hiad_download_no_space" priority="LT">"সংগ্ৰহস্থান পৰ্যাপ্ত নহয়। কিছু স্থান মুক্ত কৰক আৰু পুনঃচেষ্টা কৰক।"</string>
     <string name="hiad_download_open" priority="LT">"খোলক"</string>
     <string name="hiad_download_resume" priority="LT">"অব্যাহত ৰাখক"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"সম্পন্ন হ\'ল"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"এই পৃষ্ঠাই %1$s খুলিবলৈ বিচাৰিছে।"</string>
     <string name="hiad_link_already_copied" priority="LT">"লিংক প্ৰতিলিপি কৰা হ\'ল।"</string>
+    <string name="hiad_loading_tips" priority="LT">"লোড হৈ আছে…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"এই ডাউনলোডে %1$s ম\'বাইল ডাটা ব্যৱহাৰ কৰিব।"</string>
+    <string name="hiad_net_error" priority="LT">"নেটৱৰ্ক সংযোগৰ ত্ৰুটি। অনুগ্ৰহ কৰি পুনঃচেষ্টা কৰক।"</string>
     <string name="hiad_network_error" priority="translator">"নেটৱৰ্ক সংযোগ ত্ৰুটি।"</string>
     <string name="hiad_network_no_available" priority="LT">"কোনো ইণ্টাৰনেট সংযোগ নাই। অনুগ্ৰহ কৰি আপোনাৰ নেটৱৰ্ক ছেটিংচ পৰীক্ষা কৰক।"</string>
     <string name="hiad_no_more_remind" priority="LT">"মোক পুনৰ সোঁৱৰাই নিদিব"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"এৰি যাওক"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"চাই থাকক"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"এটা পুৰষ্কাৰ পাবলৈ এই বিজ্ঞাপনটো চোৱাটো সমাপ্ত কৰক।"</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"ৱেবছাইট/এপ্প্‌ খুলিবলৈ স্পৰ্শ কৰক"</string>
     <string name="hiad_whether_download" priority="LT">"এই এপ্প্‌টো ডাউনলোড কৰিবনে?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi-ৰ যোগেদি পূৰ্বে-লোড হৈছে"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"পূৰ্বেলোড কৰা"</string>

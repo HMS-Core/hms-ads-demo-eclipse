@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"Jendela akan ditutup dalam %1$s detik."</item>
-</plurals>
+        <item priority="translator" quantity="other">"Jendela akan ditutup dalam %1$s detik."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="other">"Ingat pilihan ini selama %1$s hari"</item>
-</plurals>
+        <item priority="Reviewed" quantity="other">"Ingat pilihan ini selama %1$s hari"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d detik"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d detik"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"IKLAN"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Iklan"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Iklan"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s telah dipasang"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalasi selesai. Sentuh untuk membuka."</string>
     <string name="hiad_app_permission" priority="LT">"Izin"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Iklan disembunyikan"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Tidak tertarik"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Tidak tertarik"</string>
     <string name="hiad_choices_hide" priority="translator">"Sembunyikan iklan"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Mengapa saya melihat iklan ini?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Pasang aplikasi ini?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Menggunakan jaringan seluler akan mengonsumsi %1$s data. Lanjutkan?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Pemutaran akan menggunakan data seluler. Tetap lakukan?"</string>
     <string name="hiad_continue_download" priority="LT">"Unduh"</string>
@@ -44,13 +45,13 @@
     <string name="hiad_dialog_title" priority="LT">"Unduh menggunakan data seluler?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Catatan"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Unduh menggunakan data seluler?"</string>
-    <string name="hiad_download_download" priority="translator">"PASANG"</string>
+    <string name="hiad_download_download" priority="LT">"PASANG"</string>
     <string name="hiad_download_download_with_size" priority="LT">"UNDUH (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Kesalahan terjadi saat mengunduh %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"File rusak. Harap unduh lagi."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"File tidak ada. Harap coba lagi."</string>
     <string name="hiad_download_install" priority="LT">"PASANG"</string>
-    <string name="hiad_download_installing" priority="LT">"MEMASANG"</string>
+    <string name="hiad_download_installing" priority="LT">"Memasang"</string>
     <string name="hiad_download_no_space" priority="LT">"Penyimpanan tidak cukup. Bebaskan sebagian ruang penyimpanan dan coba lagi."</string>
     <string name="hiad_download_open" priority="LT">"BUKA"</string>
     <string name="hiad_download_resume" priority="LT">"LANJUT"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"Selesai"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Halaman ini ingin membuka %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Tautan disalin."</string>
+    <string name="hiad_loading_tips" priority="LT">"Memuat…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Pengunduhan ini akan menggunakan %1$s data seluler."</string>
+    <string name="hiad_net_error" priority="LT">"Kesalahan koneksi jaringan. Coba lagi."</string>
     <string name="hiad_network_error" priority="LT">"Kesalahan pada koneksi jaringan."</string>
     <string name="hiad_network_no_available" priority="LT">"Tidak ada koneksi Internet. Harap periksa pengaturan jaringan Anda."</string>
     <string name="hiad_no_more_remind" priority="LT">"Jangan ingatkan saya lagi"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Lewati"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Tetap tonton"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Tonton iklan ini hingga selesai untuk mendapatkan hadiah."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Sentuh untuk membuka situs web/aplikasi"</string>
     <string name="hiad_whether_download" priority="LT">"Unduh aplikasi ini?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Dipramuat melalui Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Dipramuat"</string>

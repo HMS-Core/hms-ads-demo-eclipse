@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"කවුළුව %1$s තත්පරයකින් වැසෙනු ඇත."</item>
-    <item priority="translator" quantity="other">"කවුළුව තත්පර %1$s කින් වැසෙනු ඇත."</item>
-</plurals>
+        <item priority="translator" quantity="one">"කවුළුව %1$s තත්පරයකින් වැසෙනු ඇත."</item>
+        <item priority="translator" quantity="other">"කවුළුව තත්පර %1$s කින් වැසෙනු ඇත."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"තේරීම %1$s දිනකට මතක තබාගන්න"</item>
-    <item priority="Reviewed" quantity="other">"තේරීම දින %1$s කට මතක තබාගන්න"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"තේරීම %1$s දිනකට මතක තබාගන්න"</item>
+        <item priority="Reviewed" quantity="other">"තේරීම දින %1$s කට මතක තබාගන්න"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"තත් %1$d"</item>
-    <item priority="LT" quantity="other">"තත් %1$d"</item>
-</plurals>
+        <item priority="LT" quantity="one">"තත් %1$d"</item>
+        <item priority="LT" quantity="other">"තත් %1$d"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"වෙළඳ දැන්වීම"</string>
+    <string name="hiad_ad_label_new" priority="LT">"වෙළඳ දැන්වීම"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s ස්ථාපනය කර ඇත"</string>
     <string name="hiad_app_open_notification" priority="translator">"ස්ථාපනය සම්පූර්ණයි. විවෘත කිරීමට ස්පර්ශ කරන්න."</string>
     <string name="hiad_app_permission" priority="LT">"අවසර"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"දැන්වීම සඟවන ලදී"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"කැමැත්තක් නැත"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"කැමැත්තක් නැත"</string>
     <string name="hiad_choices_hide" priority="LT">"දැන්වීම සඟවන්න"</string>
     <string name="hiad_choices_whythisad" priority="LT">"මම මෙම වෙළඳ දැන්වීම දුටුවේ ඇයි?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"මෙම යෙදුම ස්ථාපනය කරන්න ද?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"ජංගම ජාලයක් භාවිතා කිරීමෙන් දත්ත %1$sක් පරිභෝජනය වේ. ඉදිරියට යන්න ද?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ප්‍රතිවාදනය ජංගම දත්ත භාවිතා කරනු ඇත. ඉදිරියට යන්නද?"</string>
     <string name="hiad_continue_download" priority="LT">"බාගන්න"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"ජංගම දත්ත භාවිතයෙන් බාගන්නද?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"සටහන"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"ජංගම දත්ත භාවිතයෙන් බාගන්නද?"</string>
-    <string name="hiad_download_download" priority="translator">"ස්ථාපනය කරන්න"</string>
+    <string name="hiad_download_download" priority="LT">"ස්ථාපනය කරන්න"</string>
     <string name="hiad_download_download_with_size" priority="LT">"බාගන්න (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$s බාගැනීමේදී දෝෂයක් සිදු විය."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"ගොනුව දූෂිතයි. කරුණාකර නැවත බාගන්න."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"ගොනුව නොපවතී. කරුණාකර නැවත උත්සාහ කරන්න."</string>
     <string name="hiad_download_install" priority="LT">"ස්ථාපනය කරන්න"</string>
-    <string name="hiad_download_installing" priority="LT">"ස්ථාපනය වෙමින්"</string>
+    <string name="hiad_download_installing" priority="LT">"ස්ථාපනය කිරීම"</string>
     <string name="hiad_download_no_space" priority="LT">"ප්‍රමාණවත් නොවන ගබඩාව. මදක් ඉඩ නිදහස් කරගෙන නැවත උත්සාහ කරන්න."</string>
     <string name="hiad_download_open" priority="LT">"විවෘත කරන්න"</string>
     <string name="hiad_download_resume" priority="LT">"ඉදිරියට යන්න"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"නිමයි"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"මෙම පිටුවට %1$s විවෘත කිරීමට අවශ්‍යයි."</string>
     <string name="hiad_link_already_copied" priority="LT">"සබැඳිය පිටපත් කළා."</string>
+    <string name="hiad_loading_tips" priority="LT">"පටවමින්…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"මෙම බාගැනීම ජංගම දත්ත %1$s ක් භාවිතා කරනු ඇත."</string>
+    <string name="hiad_net_error" priority="LT">"ජාල සම්බන්ධතා දෝෂයකි. කරුණාකර නැවත උත්සාහ කරන්න."</string>
     <string name="hiad_network_error" priority="LT">"ජාල සම්බන්ධතා දෝෂයකි."</string>
     <string name="hiad_network_no_available" priority="LT">"අන්තර්ජාල සම්බන්ධතාවයක් නැත. කරුණාකර ඔබගේ ජාල සැකසුම් පරීක්ෂා කරන්න."</string>
     <string name="hiad_no_more_remind" priority="LT">"මට නැවත සිහිපත් නොකරන්න"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"මග හරින්න"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"දිගටම නරඹන්න"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"තිළිණයක් ඉපයීමට මෙම වෙළඳ දැන්වීම බලා අවසන් කරන්න."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"වෙබ් අඩවිය/යෙදුම විවෘත කිරීමට ස්පර්ශ කරන්න"</string>
     <string name="hiad_whether_download" priority="LT">"මෙම යෙදුම බාගන්න ද?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi ඔස්සේ පෙර-පැටවූ"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"පෙර පැටවූ"</string>

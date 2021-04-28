@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"このウィンドウは%1$s秒後に閉じられます"</item>
-</plurals>
+        <item priority="translator" quantity="other">"このウィンドウは%1$s秒後に閉じられます"</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="other">"%1$s日間選択を記憶"</item>
-</plurals>
+        <item priority="Reviewed" quantity="other">"%1$s日間選択を記憶"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d秒"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d秒"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"広告"</string>
-    <string name="hiad_ad_label_new" priority="translator">"広告"</string>
+    <string name="hiad_ad_label_new" priority="LT">"広告"</string>
     <string name="hiad_app_installed" priority="LT">"%1$sがアンインストールされました"</string>
     <string name="hiad_app_open_notification" priority="translator">"インストールが完了しました。タップして開いてください。"</string>
     <string name="hiad_app_permission" priority="LT">"権限"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"広告は非表示"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"興味なし"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"興味なし"</string>
     <string name="hiad_choices_hide" priority="LT">"広告を非表示"</string>
     <string name="hiad_choices_whythisad" priority="LT">"この広告が表示された理由"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"このアプリをインストールしますか？"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"モバイルネットワークを使用すると、%1$sのデータ通信量が発生します。続行しますか？"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"再生中は、モバイルデータ通信が発生します。続行しますか？"</string>
     <string name="hiad_continue_download" priority="LT">"ダウンロード"</string>
@@ -44,7 +45,7 @@
     <string name="hiad_dialog_title" priority="LT">"モバイルデータ通信でダウンロード"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"注意"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"モバイルデータ通信でダウンロードしますか？"</string>
-    <string name="hiad_download_download" priority="translator">"インストール"</string>
+    <string name="hiad_download_download" priority="LT">"インストール"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ダウンロード（%1$s）"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$sをダウンロード中にエラーが発生しました"</string>
     <string name="hiad_download_file_corrupted" priority="translator">"ファイルが破損しています。再度ダウンロードしてください。"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"完了"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"このページは、%1$sの起動を要求しています"</string>
     <string name="hiad_link_already_copied" priority="LT">"リンクがコピーされました"</string>
+    <string name="hiad_loading_tips" priority="LT">"読み込み中..."</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"このダウンロードでは%1$sのモバイルデータ通信を使用します。"</string>
+    <string name="hiad_net_error" priority="LT">"ネットワーク接続エラーです。再試行してください。"</string>
     <string name="hiad_network_error" priority="LT">"ネットワーク接続エラー"</string>
     <string name="hiad_network_no_available" priority="LT">"インターネットに接続されていません。ネットワーク設定を確認してください。"</string>
     <string name="hiad_no_more_remind" priority="LT">"以後、確認しない"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"スキップ"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"視聴を継続"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"この広告を最後まで視聴すると、特典を獲得できます"</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"タップしてWebサイト/アプリを開く"</string>
     <string name="hiad_whether_download" priority="LT">"このアプリをダウンロードしますか？"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi経由で事前に読み込み済み"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="Reviewed">"プリロード"</string>

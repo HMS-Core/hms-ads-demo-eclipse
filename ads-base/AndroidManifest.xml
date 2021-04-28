@@ -2,8 +2,8 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.base"
-    android:versionCode="130440302"
-    android:versionName="13.4.40.302" >
+    android:versionCode="130441301"
+    android:versionName="13.4.41.301" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -16,7 +16,7 @@
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-base"
-            android:value="ads-base:13.4.40.302" />
+            android:value="ads-base:13.4.41.301" />
 
         <activity
             android:name="com.huawei.openalliance.ad.activity.PPSLauncherActivity"

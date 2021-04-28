@@ -10,14 +10,15 @@
         <item priority="LT" quantity="other">"%1$d det"</item>
     </plurals>
     <string name="hiad_ad_label" priority="translator">"IKLAN"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Iklan"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Iklan"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s wis diinstal"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalasi rampung. Dumuk kanggo mbukak."</string>
     <string name="hiad_app_permission" priority="LT">"Izin"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Iklan didhelikake"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Ora ketarik"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Ora ketarik"</string>
     <string name="hiad_choices_hide" priority="LT">"Dhelikake iklan"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Kena ngapa aku weruh iklan iki?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Instal apl iki?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Nggunakake jaringan seluler bakal nganggo %1$s data. Terusake?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Muter iki bakal nggunakake data seluler. Terusake?"</string>
     <string name="hiad_continue_download" priority="LT">"Undhuh"</string>
@@ -44,13 +45,13 @@
     <string name="hiad_dialog_title" priority="LT">"Undhuh nggunakake data seluler?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Cathetan"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Undhuh nganggo data seluler?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTAL"</string>
+    <string name="hiad_download_download" priority="LT">"INSTAL"</string>
     <string name="hiad_download_download_with_size" priority="LT">"UNDHUH (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Error nalika ngundhuh %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"File rusak. Undhuh maneh."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"File ora ana. Coba maneh."</string>
     <string name="hiad_download_install" priority="LT">"INSTAL"</string>
-    <string name="hiad_download_installing" priority="LT">"NGINSTAL"</string>
+    <string name="hiad_download_installing" priority="LT">"Nginstal"</string>
     <string name="hiad_download_no_space" priority="LT">"Simpenan ora cukup. Bebasake sawetara spasi lan coba maneh."</string>
     <string name="hiad_download_open" priority="LT">"BUKAK"</string>
     <string name="hiad_download_resume" priority="LT">"TERUSAKE"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"Rampung"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Kaca iki pengin mbukak %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Tautan disalin."</string>
+    <string name="hiad_loading_tips" priority="LT">"Ngamot…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Undhuhan iki bakal nggunakake %1$s data seluler."</string>
+    <string name="hiad_net_error" priority="translator">"Sambungan jaringan error. Coba maneh."</string>
     <string name="hiad_network_error" priority="LT">"Sambungan jaringan error."</string>
     <string name="hiad_network_no_available" priority="LT">"Ora ana sambungan internet. Priksa setelan jaringan sampeyan."</string>
     <string name="hiad_no_more_remind" priority="LT">"Aja elingake maneh"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Lumpati"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Terus nonton"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Deleng iklan iki nganti rampung kanggo ngentukake ganjaran."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Dumuk kanggo mbukak situs web/apl"</string>
     <string name="hiad_whether_download" priority="LT">"Undhuh apl iki?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Diundhuh sadurunge liwat Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Praunggah"</string>

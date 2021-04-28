@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"%1$s초 후 창이 닫힙니다."</item>
-</plurals>
+        <item priority="translator" quantity="other">"%1$s초 후 창이 닫힙니다."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="other">"%1$s일간 다시 알리지 않음"</item>
-</plurals>
+        <item priority="Reviewed" quantity="other">"%1$s일간 다시 알리지 않음"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d초"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d초"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"광고"</string>
-    <string name="hiad_ad_label_new" priority="translator">"광고"</string>
+    <string name="hiad_ad_label_new" priority="LT">"광고"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s이(가) 설치되었습니다"</string>
     <string name="hiad_app_open_notification" priority="translator">"설치가 완료되었습니다. 터치하여 여십시오."</string>
     <string name="hiad_app_permission" priority="LT">"권한"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"광고 숨김"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"관심 없음"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"관심 없음"</string>
     <string name="hiad_choices_hide" priority="LT">"광고 숨기기"</string>
     <string name="hiad_choices_whythisad" priority="LT">"이 광고를 시청한 이유"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"이 앱을 설치하시겠습니까?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"모바일 네트워크를 이용하면 %1$s 데이터가 소비됩니다. 계속하시겠습니까?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"재생은 모바일 데이터를 사용합니다. 계속하시겠습니까?"</string>
     <string name="hiad_continue_download" priority="LT">"다운로드"</string>
@@ -44,13 +45,13 @@
     <string name="hiad_dialog_title" priority="LT">"모바일 데이터를 사용하여 다운로드하시겠습니까?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"참고"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"모바일 데이터를 사용하여 다운로드하시겠습니까?"</string>
-    <string name="hiad_download_download" priority="translator">"설치"</string>
+    <string name="hiad_download_download" priority="LT">"설치"</string>
     <string name="hiad_download_download_with_size" priority="translator">"다운로드(%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"%1$s을(를) 다운로드하는 중 오류가 발생했습니다."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"파일이 손상되었습니다. 다시 다운로드해 주십시오."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"파일이 존재하지 않습니다. 다시 시도하세요."</string>
     <string name="hiad_download_install" priority="LT">"설치"</string>
-    <string name="hiad_download_installing" priority="translator">"설치 중"</string>
+    <string name="hiad_download_installing" priority="LT">"설치 중"</string>
     <string name="hiad_download_no_space" priority="LT">"저장 공간이 부족합니다. 일부 공간을 비우고 다시 시도해 주십시오."</string>
     <string name="hiad_download_open" priority="LT">"열기"</string>
     <string name="hiad_download_resume" priority="LT">"계속"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"완료"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"이 페이지에서 %1$s을(를) 열고자 합니다."</string>
     <string name="hiad_link_already_copied" priority="LT">"링크가 복사되었습니다."</string>
+    <string name="hiad_loading_tips" priority="LT">"로드 중…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"이 다운로드는 %1$s의 모바일 데이터를 사용합니다."</string>
+    <string name="hiad_net_error" priority="LT">"네트워크 연결 오류입니다. 다시 시도하십시오."</string>
     <string name="hiad_network_error" priority="LT">"네트워크 연결 오류."</string>
     <string name="hiad_network_no_available" priority="LT">"인터넷에 연결되지 않았습니다. 네트워크 설정을 확인하세요."</string>
     <string name="hiad_no_more_remind" priority="LT">"다시 알리지 않음"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"건너뛰기"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"계속 시청"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"보상을 받으려면 이 광고 재생을 완료하십시오."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"터치하여 웹사이트/앱 열기"</string>
     <string name="hiad_whether_download" priority="LT">"이 앱을 다운로드하시겠습니까?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi로 사전 로딩됨"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"사전 설치 항목"</string>

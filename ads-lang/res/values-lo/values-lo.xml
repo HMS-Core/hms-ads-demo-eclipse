@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="other">"ໜ້າ​ຈໍຈະ​ປິດໃນ %1$s ວິ​ນາ​ທີ."</item>
-</plurals>
+        <item priority="translator" quantity="other">"ໜ້າ​ຈໍຈະ​ປິດໃນ %1$s ວິ​ນາ​ທີ."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="translator" quantity="other">"ຈື່ຕົວ​ເລືກອ​ໄວ້​ເປັນ​ເວ​ລາ %1$s ວັນ"</item>
-</plurals>
+        <item priority="translator" quantity="other">"ຈື່ຕົວ​ເລືກອ​ໄວ້​ເປັນ​ເວ​ລາ %1$s ວັນ"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="other">"%1$d ວິ"</item>
-</plurals>
+        <item priority="LT" quantity="other">"%1$d ວິ"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"​ໂຄສະນາ"</string>
+    <string name="hiad_ad_label_new" priority="LT">"​ໂຄສະນາ"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s ໄດ້ຖືກຕິດຕັ້ງແລ້ວ"</string>
     <string name="hiad_app_open_notification" priority="translator">"ການ​ຕິດ​ຕັ້ງສຳ​ເລັດ. ສຳ​ຜັດ​ເພື່ອເປີດ."</string>
     <string name="hiad_app_permission" priority="LT">"ການ​ອະ​ນຸ​ຍາດ"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"ໂຄ​ສະ​ນາ​ທີ່​ເຊື່ອງ​ໄວ້"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"ບໍ່​ສົນ​ໃຈ"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"ບໍ່​ສົນ​ໃຈ"</string>
     <string name="hiad_choices_hide" priority="LT">"ເຊື່ອງໂຄ​ສະ​ນາ"</string>
     <string name="hiad_choices_whythisad" priority="LT">"ເປັນ​ຫຍັງ​ຂ້ອຍ​ຈິ່ງ​ໄດ້ເຫັນ​ໂຄ​ສະ​ນາ​ນີ້?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"ຕິດ​ຕັ້ງ​ແອັບ​ນີ້ບໍ?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"ການໃຊ້ເຄືອຂ່າຍມືຖືຈະໃຊ້ຂໍ້ມູນ %1$s. ສືບຕໍ່ບໍ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ການຫຼິ້ນ​ຄືນຈະ​ໃຊ້ຂໍ້​ມູນມື​ຖື. ສືບຕໍ່ບໍ?"</string>
     <string name="hiad_continue_download" priority="LT">"ດາວ​ໂຫຼດ"</string>
@@ -44,13 +45,13 @@
     <string name="hiad_dialog_title" priority="LT">"ດາວ​ໂຫຼດດ້ວຍ​ການ​ໃຊ້​ຂໍ້​ມູນ​ມື​ຖື​ບໍ?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"ໝາຍ​ເຫດ"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"ດາວ​ໂຫຼດດ້ວຍ​ການ​ໃຊ້​ຂໍ້​ມູນ​ມື​ຖື​ບໍ?"</string>
-    <string name="hiad_download_download" priority="translator">"​ຕິດ​ຕັ້ງ"</string>
+    <string name="hiad_download_download" priority="LT">"​ຕິດ​ຕັ້ງ"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ດາວ​ໂຫຼດ (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"ເກີດ​ຄວາມ​ຜິດ​ພາດ​ຂຶ້ນ​ໃນ​ຂະ​ນະ​ທີ່​ກຳ​ລັງ​ດາວ​ໂຫຼດ %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"ໄຟ​ລ໌ເສຍ​ຫາຍ​ແລ້ວ. ກະ​ລຸ​ນາດາວ​ໂຫຼດ​ອີກ."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"ບໍ່​ມີ​ໄຟ​ລ໌. ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ອີກ."</string>
     <string name="hiad_download_install" priority="translator">"​ຕິດ​ຕັ້ງ"</string>
-    <string name="hiad_download_installing" priority="LT">"ກຳ​ລັງຕິດ​ຕັ້ງ"</string>
+    <string name="hiad_download_installing" priority="LT">"ກຳ​ລັງຕິດຕັ້ງ"</string>
     <string name="hiad_download_no_space" priority="LT">"ບ່ອນ​ເກັບ​ຂໍ້​ມູນບໍ່ພຽງພໍ. ເຮັດໃຫ້ມີພື້ນທີ່ຫວ່າງຈຳ​ນວນ​ໜຶ່ງ ແລະ ລອງໃໝ່ອີກ."</string>
     <string name="hiad_download_open" priority="LT">"ເປີດ"</string>
     <string name="hiad_download_resume" priority="LT">"ສືບ​ຕໍ່"</string>
@@ -60,7 +61,9 @@
     <string name="hiad_install_completed" priority="LT">"ສໍາເລັດ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ໜ້າ​ນີ້​ຕ້ອງ​ການ​ເປີດ %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"ກັອບ​ປີ້ລິ້ງ​ແລ້ວ."</string>
+    <string name="hiad_loading_tips" priority="LT">"ກຳລັງ​ໂຫຼດ…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"ການ​ດາວ​ໂຫຼດ​ຈະ​ໃຊ້ຂໍ້​ມູນມື​ຖື %1$s."</string>
+    <string name="hiad_net_error" priority="LT">"ການ​ເຊື່ອມ​ຕໍ່​ເຄືອ​ຂ່າຍ​ຂັດ​ຂ້ອງ. ກະ​ລຸ​ນາ​ລອງ​ອີກຄັ້ງ."</string>
     <string name="hiad_network_error" priority="LT">"ການ​ເຊື່ອມ​ຕໍ່​​ເຄືອ​ຂ່າຍ​ຂັດ​ຂ້ອງ."</string>
     <string name="hiad_network_no_available" priority="LT">"ບໍ່​ມີ​ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ. ກະ​ລຸ​ນາ​ກວດ​ເບິ່ງ​ການຕັ້ງ​ຄ່າ​ເຄືອ​ຂ່າຍຂອງ​ທ່ານ."</string>
     <string name="hiad_no_more_remind" priority="LT">"ຢ່າ​ເຕືອນ​ຂ້ອຍ​ອີກ"</string>
@@ -77,6 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"ຂ້າມໄປ"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ສືບ​ຕໍ່​ຕິດ​ຕາມ​ເບິ່ງ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"​ເບິ່ງ​ໂຄ​ສະ​ນາ​ນີ້ໃຫ້ສຳເລັດເພື່ອ​ໄດ້ຮັບລາງວັນ."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"ສຳ​ຜັດ​ເພື່ອ​ເປີດ​ເວັບ​ໄຊ/ແອັບ"</string>
     <string name="hiad_whether_download" priority="LT">"ດາວ​ໂຫຼດ​ແອັບ​ນີ້​ບໍ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"ໂຫຼດ​ໄວ້​ກ່ອນ​ຜ່ານ Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ໂຫຼດ​ໄວ້​ກ່ອນ​ແລ້ວ"</string>

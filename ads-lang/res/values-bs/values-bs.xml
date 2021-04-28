@@ -16,14 +16,15 @@
         <item priority="translator" quantity="other">"%1$d sek."</item>
     </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Oglas"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Oglas"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s je instalirano"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalacija je završena. Dodirnite da otvorite."</string>
     <string name="hiad_app_permission" priority="translator">"Dozvole"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Oglas sakriven"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Ne zanima me"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Ne zanima me"</string>
     <string name="hiad_choices_hide" priority="translator">"Sakrij oglas"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Zašto vidim ovaj oglas?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Instalirati ovu aplikaciju?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Korištenjem mobilne mreže bit će iskorišteno %1$s podataka. Nastaviti?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Za reprodukciju će se koristiti prijenos podataka. Nastaviti?"</string>
     <string name="hiad_continue_download" priority="LT">"Preuzmi"</string>
@@ -50,13 +51,13 @@
     <string name="hiad_dialog_title" priority="LT">"Preuzeti putem prijenosa podataka?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Napomena"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Preuzeti putem prijenosa podataka?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTALIRAJ"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALIRAJ"</string>
     <string name="hiad_download_download_with_size" priority="LT">"PREUZIMANJE (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Došlo je do greške prilikom preuzimanja %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Datoteka oštećena. Preuzmite ponovno."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Datoteka ne postoji. Pokušajte ponovo."</string>
     <string name="hiad_download_install" priority="LT">"INSTALIRAJ"</string>
-    <string name="hiad_download_installing" priority="LT">"INSTALIRANJE"</string>
+    <string name="hiad_download_installing" priority="LT">"Instaliranje"</string>
     <string name="hiad_download_no_space" priority="LT">"Nedovoljan prostor u pohrani. Oslobodite dio prostora i pokušajte ponovo."</string>
     <string name="hiad_download_open" priority="LT">"OTVORI"</string>
     <string name="hiad_download_resume" priority="LT">"NASTAVI"</string>
@@ -66,7 +67,9 @@
     <string name="hiad_install_completed" priority="LT">"Završeno"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Stranica pokušava otvoriti %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Veza kopirana."</string>
-    <string name="hiad_mobile_download_prompt" priority="LT">"Ovo preuzimanje koristiće %1$s prijenosa podataka."</string>
+    <string name="hiad_loading_tips" priority="LT">"Učitavanje…"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Ovo preuzimanje koristit će %1$s prijenosa podataka."</string>
+    <string name="hiad_net_error" priority="LT">"Greška mrežne veze. Pokušajte ponovo."</string>
     <string name="hiad_network_error" priority="LT">"Greška mrežne veze."</string>
     <string name="hiad_network_no_available" priority="LT">"Niste povezani na Internet. Provjerite svoje mrežne postavke."</string>
     <string name="hiad_no_more_remind" priority="LT">"Ne podsjećaj ponovo"</string>
@@ -83,6 +86,7 @@
     <string name="hiad_reward_close_dialog_close" priority="translator">"Preskoči"</string>
     <string name="hiad_reward_close_dialog_continue" priority="translator">"Nastavi gledati"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Završite s gledanjem ove reklame da zaradite nagradu."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Dodirnite da otvorite web lokaciju/aplikaciju"</string>
     <string name="hiad_whether_download" priority="LT">"Preuzeti ovu aplikaciju?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Prethodno učitano putem Wi-Fi mreže"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Unaprijed učitano"</string>

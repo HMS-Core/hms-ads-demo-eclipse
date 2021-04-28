@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"A janela irá fechar-se em %1$s segundo."</item>
-    <item priority="translator" quantity="other">"A janela irá fechar-se em %1$s segundos."</item>
-</plurals>
+        <item priority="translator" quantity="one">"A janela irá fechar-se em %1$s segundo."</item>
+        <item priority="translator" quantity="other">"A janela irá fechar-se em %1$s segundos."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"Lembrar esta escolha por %1$s dia"</item>
-    <item priority="Reviewed" quantity="other">"Lembrar esta escolha por %1$s dias"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"Lembrar esta escolha por %1$s dia"</item>
+        <item priority="Reviewed" quantity="other">"Lembrar esta escolha por %1$s dias"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d s"</item>
-    <item priority="LT" quantity="other">"%1$d s"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="LT" quantity="other">"%1$d s"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"PUBLICIDADE"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Publicidade"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Publicidade"</string>
     <string name="hiad_app_installed" priority="LT">"A aplicação %1$s foi instalada."</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalação concluída. Toque aqui para abrir."</string>
     <string name="hiad_app_permission" priority="LT">"Permissões"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Publicidade ocultada"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Sem interesse"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Sem interesse"</string>
     <string name="hiad_choices_hide" priority="LT">"Ocultar publicidade"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Por que razão vi esta publicidade?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Instalar esta aplicação?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"Utilizar a rede móvel utilizará %1$s de dados. Continuar?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"A reprodução irá utilizar dados móveis. Continuar?"</string>
     <string name="hiad_continue_download" priority="LT">"Transferir"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"Nota"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Nota"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Transferir via dados móveis?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTALAR"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALAR"</string>
     <string name="hiad_download_download_with_size" priority="LT">"TRANSFERIR (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Erro ao transferir %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Ficheiro corrompido."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"O ficheiro não existe."</string>
     <string name="hiad_download_install" priority="LT">"INSTALAR"</string>
-    <string name="hiad_download_installing" priority="LT">"A INSTALAR"</string>
+    <string name="hiad_download_installing" priority="LT">"A instalar"</string>
     <string name="hiad_download_no_space" priority="LT">"Liberte algum espaço e tente novamente."</string>
     <string name="hiad_download_open" priority="LT">"ABRIR"</string>
     <string name="hiad_download_resume" priority="LT">"CONTINUAR"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="translator">"Concluir"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Esta página está a tentar abrir a aplicação %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Hiperligação copiada."</string>
+    <string name="hiad_loading_tips" priority="LT">"A carregar..."</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Esta transferência vai utilizar %1$s de dados móveis."</string>
+    <string name="hiad_net_error" priority="LT">"Erro de ligação à rede."</string>
     <string name="hiad_network_error" priority="LT">"Erro de ligação à rede."</string>
     <string name="hiad_network_no_available" priority="LT">"Sem ligação à Internet."</string>
     <string name="hiad_no_more_remind" priority="LT">"Não voltar a lembrar-me"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Ignorar"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar a ver"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Conclua a visualização desta publicidade para receber uma recompensa."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Toque aqui para abrir a aplicação/página de Internet"</string>
     <string name="hiad_whether_download" priority="LT">"Transferir esta aplicação?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Pré-carregado via Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Pré-carregado"</string>

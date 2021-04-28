@@ -19,14 +19,15 @@
         <item priority="translator" quantity="other">"%1$d sek."</item>
     </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Reklama"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Reklama"</string>
     <string name="hiad_app_installed" priority="LT">"„%1$s“ įdiegta"</string>
     <string name="hiad_app_open_notification" priority="translator">"Įdiegta. Palieskite, kad atvertumėte."</string>
     <string name="hiad_app_permission" priority="LT">"Leidimai"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Reklama paslėpta"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Neįdomu"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Neįdomu"</string>
     <string name="hiad_choices_hide" priority="translator">"Slėpti reklamą"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Kodėl mačiau šią reklamą?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Ar įdiegti šią programėlę?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Naudojantis mobiliojo ryšio tinklu, bus perduota %1$s duomenų. Ar tęsti?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Atkūrimui bus naudojami mobilieji duomenys. Ar tęsti?"</string>
     <string name="hiad_continue_download" priority="LT">"Atsisiųsti"</string>
@@ -53,13 +54,13 @@
     <string name="hiad_dialog_title" priority="LT">"Atsisiųsti naudojant mobiliuosius duomenis?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Pastaba"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Ar atsisiųsti mobiliuoju duomenų ryšiu?"</string>
-    <string name="hiad_download_download" priority="translator">"DIEGTI"</string>
+    <string name="hiad_download_download" priority="LT">"DIEGTI"</string>
     <string name="hiad_download_download_with_size" priority="LT">"ATSISIŲSTI (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Įvyko klaida atsisiunčiant %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Failas sugadintas. Atsisiųskite dar kartą."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Tokio failo nėra. Bandykite dar kartą."</string>
     <string name="hiad_download_install" priority="LT">"DIEGTI"</string>
-    <string name="hiad_download_installing" priority="LT">"DIEGIAMA"</string>
+    <string name="hiad_download_installing" priority="LT">"Diegiama"</string>
     <string name="hiad_download_no_space" priority="LT">"Nepakanka vietos atmintinėje. Atlaisvinkite vietos ir bandykite dar kartą."</string>
     <string name="hiad_download_open" priority="LT">"ATVERTI"</string>
     <string name="hiad_download_resume" priority="LT">"TĘSTI"</string>
@@ -69,7 +70,9 @@
     <string name="hiad_install_completed" priority="LT">"Atlikta"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Šis puslapis nori atidaryti %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Nuoroda nukopijuota."</string>
+    <string name="hiad_loading_tips" priority="LT">"Įkeliama…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Šio atsisiuntimo metu mobiliuoju ryšiu bus perduota %1$s duomenų."</string>
+    <string name="hiad_net_error" priority="LT">"Tinklo ryšio klaida. Bandykite dar kartą."</string>
     <string name="hiad_network_error" priority="LT">"Tinklo ryšio klaida."</string>
     <string name="hiad_network_no_available" priority="LT">"Nėra interneto ryšio. Patikrinkite savo tinklo nustatymus."</string>
     <string name="hiad_no_more_remind" priority="LT">"Daugiau nebepriminti"</string>
@@ -86,6 +89,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Praleisti"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Žiūrėti toliau"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Baikite žiūrėti šią reklamą ir gaukite apdovanojimą."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Norėdami atverti svetainę arba programėlę, palieskite"</string>
     <string name="hiad_whether_download" priority="LT">"Ar atsisiųsti šią programėlę?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Įkelta iš anksto per „Wi-Fi“"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Įkelta iš anksto"</string>

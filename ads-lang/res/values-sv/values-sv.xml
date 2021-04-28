@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hiad_dismiss_dilaog">
-    <item priority="translator" quantity="one">"Fönstret stängs om %1$s sekund."</item>
-    <item priority="translator" quantity="other">"Fönstret stängs om %1$s sekunder."</item>
-</plurals>
+        <item priority="translator" quantity="one">"Fönstret stängs om %1$s sekund."</item>
+        <item priority="translator" quantity="other">"Fönstret stängs om %1$s sekunder."</item>
+    </plurals>
     <plurals name="hiad_no_prompt_in_days">
-    <item priority="Reviewed" quantity="one">"Kom ihåg valet i %1$s dag"</item>
-    <item priority="Reviewed" quantity="other">"Kom ihåg valet i %1$s dagar"</item>
-</plurals>
+        <item priority="Reviewed" quantity="one">"Kom ihåg valet i %1$s dag"</item>
+        <item priority="Reviewed" quantity="other">"Kom ihåg valet i %1$s dagar"</item>
+    </plurals>
     <plurals name="hiad_reward_countdown">
-    <item priority="LT" quantity="one">"%1$d s"</item>
-    <item priority="LT" quantity="other">"%1$d s"</item>
-</plurals>
+        <item priority="LT" quantity="one">"%1$d s"</item>
+        <item priority="LT" quantity="other">"%1$d s"</item>
+    </plurals>
     <string name="hiad_ad_label" priority="translator">"AD"</string>
-    <string name="hiad_ad_label_new" priority="translator">"Annons"</string>
+    <string name="hiad_ad_label_new" priority="LT">"Annons"</string>
     <string name="hiad_app_installed" priority="LT">"%1$s har installerats"</string>
     <string name="hiad_app_open_notification" priority="translator">"Installation klar. Peka för att öppna."</string>
     <string name="hiad_app_permission" priority="LT">"Behörigheter"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Annons dold"</string>
-    <string name="hiad_choices_ad_no_interest" priority="translator">"Inte intresserad"</string>
+    <string name="hiad_choices_ad_no_interest" priority="LT">"Inte intresserad"</string>
     <string name="hiad_choices_hide" priority="translator">"Dölj annons"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Varför såg jag denna annons?"</string>
+    <string name="hiad_confirm_download_app" priority="translator">"Vill du installera den här appen?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Användning av ett mobilnät förbrukar %1$s data. Fortsätt?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Uppspelning använder mobildata. Vill du fortsätta?"</string>
     <string name="hiad_continue_download" priority="LT">"Ladda ned"</string>
@@ -47,13 +48,13 @@
     <string name="hiad_dialog_title" priority="LT">"Ladda ned via mobildata?"</string>
     <string name="hiad_dialog_title_tip" priority="LT">"Obs!"</string>
     <string name="hiad_download_app_via_mobile_data" priority="LT">"Vill du ladda ned med mobildata?"</string>
-    <string name="hiad_download_download" priority="translator">"INSTALLERA"</string>
+    <string name="hiad_download_download" priority="LT">"INSTALLERA"</string>
     <string name="hiad_download_download_with_size" priority="translator">"LADDA NED (%1$s)"</string>
     <string name="hiad_download_failed_toast_content" priority="LT">"Ett fel uppstod vid nedladdning av %1$s."</string>
     <string name="hiad_download_file_corrupted" priority="translator">"Filen är skadad. Ladda ned den igen."</string>
     <string name="hiad_download_file_not_exist" priority="LT">"Filen finns inte. Försök igen."</string>
     <string name="hiad_download_install" priority="LT">"INSTALLERA"</string>
-    <string name="hiad_download_installing" priority="translator">"INSTALLERAR"</string>
+    <string name="hiad_download_installing" priority="LT">"Installerar"</string>
     <string name="hiad_download_no_space" priority="LT">"Otillräckligt lagringsutrymme. Frigör utrymme och försök igen."</string>
     <string name="hiad_download_open" priority="LT">"ÖPPNA"</string>
     <string name="hiad_download_resume" priority="LT">"FORTSÄTT"</string>
@@ -63,7 +64,9 @@
     <string name="hiad_install_completed" priority="LT">"Färdig"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Den här sidan vill öppna %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Länk kopierad."</string>
+    <string name="hiad_loading_tips" priority="LT">"Laddar …"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"Denna nedladdning förbrukar %1$s mobildata."</string>
+    <string name="hiad_net_error" priority="LT">"Nätverksanslutningsfel. Försök igen."</string>
     <string name="hiad_network_error" priority="LT">"Nätverksanslutningsfel."</string>
     <string name="hiad_network_no_available" priority="LT">"Ingen internetanslutning. Kontrollera nätverksinställningarna."</string>
     <string name="hiad_no_more_remind" priority="LT">"Påminn mig inte igen"</string>
@@ -80,6 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Hoppa över"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsätt titta"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Titta klart på den här annonsen för att få en belöning."</string>
+    <string name="hiad_splash_pro_desc" priority="translator">"Peka för att öppna webbplatsen/appen"</string>
     <string name="hiad_whether_download" priority="LT">"Vill du ladda ned den här appen?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Förinstallerad över Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Förinläst"</string>
