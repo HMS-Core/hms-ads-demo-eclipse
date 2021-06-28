@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ikke interesseret"</string>
     <string name="hiad_choices_hide" priority="translator">"Skjul reklame"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Hvorfor ser jeg denne reklame?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Installer denne app?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Installer denne app?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Brug af et mobilnetværk vil bruge %1$s data. Fortsæt?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Afspilning vil bruge mobildata. Fortsæt?"</string>
     <string name="hiad_continue_download" priority="LT">"Hent"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Spring over"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Se videre"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Se denne reklame færdig for at få en belønning."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Tryk for at åbne webstedet/appen"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Tryk for at åbne webstedet/appen"</string>
     <string name="hiad_whether_download" priority="LT">"Hent denne app?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Forudindlæst via Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Forudindlæst"</string>

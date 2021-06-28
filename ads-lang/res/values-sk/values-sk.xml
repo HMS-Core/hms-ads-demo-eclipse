@@ -27,7 +27,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Nezaujíma ma"</string>
     <string name="hiad_choices_hide" priority="translator">"Skryť reklamu"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Prečo sa mi zobrazuje táto reklama?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Nainštalovať túto aplikáciu?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Nainštalovať túto aplikáciu?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Používaním mobilnej siete sa minie %1$s dát. Pokračovať?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Prehrávanie bude spotrebúvať mobilné dáta. Pokračovať?"</string>
     <string name="hiad_continue_download" priority="LT">"Stiahnuť"</string>
@@ -89,7 +89,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Preskočiť"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Pokračovať v sledovaní"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Na získanie odmeny dokončite sledovanie tejto reklamy."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Ťuknutím otvorte webovú stránku/aplikáciu"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Ťuknutím otvorte webovú stránku/aplikáciu"</string>
     <string name="hiad_whether_download" priority="LT">"Stiahnuť túto aplikáciu?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Predstiahnuté cez Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Už načítané"</string>

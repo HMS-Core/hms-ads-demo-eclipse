@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ei ole huvitatud"</string>
     <string name="hiad_choices_hide" priority="translator">"Peida reklaam"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Miks ma seda reklaami nägin?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Kas installida see rakendus?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Kas installida see rakendus?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Mobiilsidevõrgu kasutamine tarbib %1$s andmemahtu. Jätkan?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Taasesitus kasutab mobiilandmesidet. Jätkata?"</string>
     <string name="hiad_continue_download" priority="LT">"Laadi alla"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Jäta vahele"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jätka vaatamist"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Preemia saamiseks vaadake see reklaam lõpuni."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Puudutage veebisaidi/rakenduse avamiseks"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Puudutage veebisaidi/rakenduse avamiseks"</string>
     <string name="hiad_whether_download" priority="LT">"Laadida see rakendus alla?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Eellaaditud Wi-Fi kaudu"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Eellaetud"</string>

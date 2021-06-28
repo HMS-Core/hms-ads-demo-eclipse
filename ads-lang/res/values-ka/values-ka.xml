@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"არ მაინტერესებს"</string>
     <string name="hiad_choices_hide" priority="LT">"რეკლამის დამალვა"</string>
     <string name="hiad_choices_whythisad" priority="LT">"რატომ ვნახე ეს რეკლამა?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"დავაინსტალიროთ ეს აპი?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"დავაინსტალიროთ ეს აპი?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"მობილური ქსელის გამოყენება მოიხმარს %1$s-ის რაოდენობის მონაცემებს. გავაგრძელოთ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"დაკვრა გამოიყენებს მობილურ მონაცემებს. გავაგრძელოთ?"</string>
     <string name="hiad_continue_download" priority="LT">"ჩამოტვირთვა"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"გამოტოვება"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ყურების გაგრძელება"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"დაასრულეთ ამ რეკლამის ყურება ჯილდოს მისაღებად."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"შეეხეთ, რომ გახსნათ ვებსაიტი/აპი"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"შეეხეთ, რომ გახსნათ ვებსაიტი/აპი"</string>
     <string name="hiad_whether_download" priority="LT">"ჩამოიტვირთოს ეს აპი?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"წინასწარ დატვირთული Wi-Fi-ის მეშვეობით"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"წინასწარ ჩატვირთული"</string>

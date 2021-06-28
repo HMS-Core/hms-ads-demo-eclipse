@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"دلچسپی نہیں ہے"</string>
     <string name="hiad_choices_hide" priority="LT">"اشتہار چھپائیں"</string>
     <string name="hiad_choices_whythisad" priority="LT">"میں نے یہ اشتہار کیوں دیکھا؟"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"یہ ایپ انسٹال کریں؟"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"یہ ایپ انسٹال کریں؟"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"موبائل نیٹ ورک کا استعمال کرنے سے %1$s ڈیٹا کی کھپت ہوگی. جاری رکھیں؟"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"پلے بیک میں موبائل ڈیٹا استعمال ہوگا۔ جاری رکھیں؟"</string>
     <string name="hiad_continue_download" priority="LT">"ڈاؤن لوڈ کریں"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"نظر انداز کریں"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"دیکھتے رہیں"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"انعام حاصل کرنے کے لیے اس اشتہار کو مکمل دیکھیں۔"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"ویب سائٹ/ایپ کو کھولنے کے لئے چھوئیں"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"ویب سائٹ/ایپ کو کھولنے کے لئے چھوئیں"</string>
     <string name="hiad_whether_download" priority="LT">"یہ ایپ ڈاؤن لوڈ کریں؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"\u200fWi-Fi پر پہلے سے ڈاؤن لوڈ شدہ"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"پہلے سے لوڈ کیا گیا"</string>

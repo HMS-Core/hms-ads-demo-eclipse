@@ -33,7 +33,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Kāore i te pīrangi"</string>
     <string name="hiad_choices_hide" priority="LT">"Hunaia te pānui hokohoko"</string>
     <string name="hiad_choices_whythisad" priority="LT">"He aha i kite ai ahau i tēnei pānui hokohoko?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Tāutatia tēnei taupānga?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Tāutatia tēnei taupānga?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"Mā te whakamahi i tētahi whatunga pūkoro e %1$s ngā raraunga ka whakapetoa. Haere tonu?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Ka whakamahia e te pureianō ngā raraunga pūkoro. Haere tonu?"</string>
     <string name="hiad_continue_download" priority="LT">"Tikiake"</string>
@@ -95,7 +95,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Tīpoka"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Mātaki haere tonu"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Me whakamutu te mātakitaki i tēnei pānui hokohoko hei whiwhi i tētahi utu."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Pā atu hei huaki i te paetukutuku/taupānga"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Pā atu hei huaki i te paetukutuku/taupānga"</string>
     <string name="hiad_whether_download" priority="LT">"Tikiake tēnei taupānga?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Kua uta tōmuatia mā te Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Utamua"</string>

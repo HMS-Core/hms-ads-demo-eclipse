@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Maraqlanmıram"</string>
     <string name="hiad_choices_hide" priority="translator">"Reklamı gizlədin"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Nəyə görə bu reklamı görürəm?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Bu proqram quraşdırılsın?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Bu proqram quraşdırılsın?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Mobil şəbəkə %1$s verilənlərdən istifadə edəcəkdir. Davam etsin?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Təkrar ifa zamanı mobil şəbəkədən istifadə olunacaqdır. Davam etsin?"</string>
     <string name="hiad_continue_download" priority="LT">"Endirin"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Ötürün"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"İzləməyə davam edin"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Mükafat qazanmaq üçün bu reklamı izləyib sona çatdırın."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Veb-saytı/proqramı açmaq üçün toxunun"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Veb-saytı/proqramı açmaq üçün toxunun"</string>
     <string name="hiad_whether_download" priority="LT">"Bu proqram endirilsin?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi vasitəsilə əvvəldən yüklənib"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Əvvəlcədən yüklənmiş"</string>

@@ -18,7 +18,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"មិនចាប់អារម្មណ៍"</string>
     <string name="hiad_choices_hide" priority="LT">"លាក់ការផ្សាយពាណិជ្ជកម្ម​"</string>
     <string name="hiad_choices_whythisad" priority="LT">"ហេតុអ្វីបានជាខ្ញុំមើលឃើញការផ្សាយពាណិជ្ជកម្ម​នេះ?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"ដំឡើងកម្មវិធីនេះឬ?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"ដំឡើងកម្មវិធីនេះឬ?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"ការប្រើបណ្ដាញទូរស័ព្ទចល័ត​នឹង​ប្រើប្រាស់​ទិន្នន័យចំនួន %1$s។ បន្តឬ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ការចាក់​នឹង​ប្រើ​ទិន្នន័យចល័ត។ បន្ត?"</string>
     <string name="hiad_continue_download" priority="LT">"ទាញយក"</string>
@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"រំលង"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"បន្តមើល"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"បញ្ចប់ការមើល​ការផ្សាយពាណិជ្ជកម្មនេះ ដើម្បី​ទទួលបានរង្វាន់។"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"ប៉ះដើម្បីបើក​គេហទំព័រ/កម្មវិធី"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"ប៉ះដើម្បីបើក​គេហទំព័រ/កម្មវិធី"</string>
     <string name="hiad_whether_download" priority="LT">"ទាញយក​កម្មវិធីនេះឬ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"បានផ្ទុក​ជាមុន​នៅលើ​ Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"បានផ្ទុកជាមុន"</string>

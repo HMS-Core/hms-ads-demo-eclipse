@@ -18,7 +18,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"不感興趣"</string>
     <string name="hiad_choices_hide" priority="LT">"隱藏廣告"</string>
     <string name="hiad_choices_whythisad" priority="LT">"為什麼會看到這則廣告？"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"是否下載安裝應用程式？"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"是否下載安裝應用程式？"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"使用行動網路將消耗 %1$s 流量"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"使用行動網路將消耗數據流量。是否繼續？"</string>
     <string name="hiad_continue_download" priority="LT">"繼續下載"</string>
@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"關閉廣告"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"繼續觀看"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"觀看完整影片才可獲得獎勵"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"輕觸重新導向至詳細資料頁或第三方應用程式"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"輕觸重新導向至詳細資料頁或第三方應用程式"</string>
     <string name="hiad_whether_download" priority="LT">"是否下載該軟體？"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"已透過 Wi-Fi 預先載入"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"已在 WLAN 下預先載入"</string>

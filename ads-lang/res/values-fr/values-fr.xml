@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Pas intéressé"</string>
     <string name="hiad_choices_hide" priority="LT">"Cacher publicité"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Pourquoi cette publicité m\'a-t-elle été présentée ?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Installer cette application ?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Installer cette application ?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"Utiliser les données mobiles consommera %1$s de données. Continuer ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"La lecture consommera des données mobiles. Continuer ?"</string>
     <string name="hiad_continue_download" priority="LT">"Télécharger"</string>

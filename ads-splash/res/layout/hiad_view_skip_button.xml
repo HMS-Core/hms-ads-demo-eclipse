@@ -5,7 +5,7 @@
     <TextView
         android:id="@+id/hiad_skip_text"
         android:textColor="@color/hiad_font"
-        android:textSize="@dimen/hiad_emui_master_body_1"
+        android:textSize="@dimen/hiad_text_12_sp"
         android:gravity="center"
         android:singleLine="true"
         android:background="@drawable/hiad_bg_skip_text"

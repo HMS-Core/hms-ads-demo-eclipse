@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ei kiinnosta"</string>
     <string name="hiad_choices_hide" priority="LT">"Piilota mainos"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Miksi näin tämän mainoksen?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Asennetaanko tämä sovellus?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Asennetaanko tämä sovellus?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Matkapuhelinverkon käyttö kuluttaa %1$s dataa. Haluatko jatkaa?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Toisto käyttää mobiilidataa. Haluatko jatkaa?"</string>
     <string name="hiad_continue_download" priority="LT">"Lataa"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Ohita"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jatka katselua"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Katso tämä mainos loppuun ansaitaksesi palkinnon."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Avaa verkkosivusto/sovellus koskettamalla"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Avaa verkkosivusto/sovellus koskettamalla"</string>
     <string name="hiad_whether_download" priority="LT">"Ladataanko tämä sovellus?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Esiladattu Wi-Fi-yhteydellä"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Esiladattu"</string>

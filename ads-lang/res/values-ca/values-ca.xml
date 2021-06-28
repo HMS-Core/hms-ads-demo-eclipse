@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"No m\'interessa"</string>
     <string name="hiad_choices_hide" priority="translator">"Amaga l\'anunci"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Per què he vist aquest anunci?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Voleu instal·lar aquesta aplicació?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Voleu instal·lar aquesta aplicació?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"L\'ús de la xarxa mòbil consumirà %1$s de dades. Voleu continuar?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"La reproducció utilitzarà dades mòbils. Voleu continuar?"</string>
     <string name="hiad_continue_download" priority="LT">"Baixar"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Ometre"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar mirant"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Acabeu de veure aquest anunci per obtenir una recompensa."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Toqueu per obrir el lloc web/aplicació"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Toqueu per obrir el lloc web/aplicació"</string>
     <string name="hiad_whether_download" priority="LT">"Voleu baixar aquesta aplicació?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Precarregat per Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Carregat prèviament"</string>

@@ -18,7 +18,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"စိတ်မဝင်စား"</string>
     <string name="hiad_choices_hide" priority="LT">"ကြော်ငြာ ဝှက်ရန်"</string>
     <string name="hiad_choices_whythisad" priority="LT">"အဘယ်ကြောင့် ဤကြော်ငြာကို မြင်ရသနည်း။"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"ဤအက်ပ်ကို ထည့်သွင်းမည်လား။"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"ဤအက်ပ်ကို ထည့်သွင်းမည်လား။"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"မိုဘိုင်း ကွန်ရက်အား အသုံးပြုခြင်းဖြင့် ဒေတာ ပမာဏ %1$s ကို သုံးစွဲသွားပါလိမ့်မည်။ ဆက်လက် လုပ်ဆောင်မည်လား။"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ပြန်ဖွင့်မှုအတွက် မိုဘိုင်းဒေတာအား သုံးပါလိမ့်မည်။ ဆက်လက် လုပ်ဆောင်မည်လား။"</string>
     <string name="hiad_continue_download" priority="LT">"ဒေါင်းလုဒ်"</string>
@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="translator">"ကျော်မည်"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ဆက်ကြည့်မည်"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ဆုရယူရန် ဤကြော်ငြာကို အပြီးကြည့်ပေးပါ။"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"ဝက်ဘ်ဆိုက်/အက်ပ်ကို ဖွင့်ရန် နှိပ်ပါ"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"ဝက်ဘ်ဆိုက်/အက်ပ်ကို ဖွင့်ရန် နှိပ်ပါ"</string>
     <string name="hiad_whether_download" priority="LT">"ဤအက်ပ်အား ဒေါင်းလုဒ်လုပ်မည်လား။"</string>
     <string name="hiad_wifi_loaded_already" priority="LT">"Wi-Fi မှတစ်ဆင့် ကြိုတင် ထည့်သွင်းလုပ်ဆောင်ပြီး"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ကြိုတင်ထည့်သွင်းပြီး"</string>

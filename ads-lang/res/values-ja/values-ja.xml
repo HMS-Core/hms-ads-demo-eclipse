@@ -18,7 +18,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"興味なし"</string>
     <string name="hiad_choices_hide" priority="LT">"広告を非表示"</string>
     <string name="hiad_choices_whythisad" priority="LT">"この広告が表示された理由"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"このアプリをインストールしますか？"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"このアプリをインストールしますか？"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"モバイルネットワークを使用すると、%1$sのデータ通信量が発生します。続行しますか？"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"再生中は、モバイルデータ通信が発生します。続行しますか？"</string>
     <string name="hiad_continue_download" priority="LT">"ダウンロード"</string>
@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"スキップ"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"視聴を継続"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"この広告を最後まで視聴すると、特典を獲得できます"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"タップしてWebサイト/アプリを開く"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"タップしてWebサイト/アプリを開く"</string>
     <string name="hiad_whether_download" priority="LT">"このアプリをダウンロードしますか？"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi経由で事前に読み込み済み"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="Reviewed">"プリロード"</string>

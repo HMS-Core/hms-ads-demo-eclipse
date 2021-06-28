@@ -24,7 +24,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Nisam zainteresovan/-a"</string>
     <string name="hiad_choices_hide" priority="LT">"Sakrij reklamu"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Zašto sam video/-la ovu reklamu?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Instalirati ovu aplikaciju?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Instalirati ovu aplikaciju?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Korišćenje mobilne mreže će dovesti do potrošnje %1$s podataka. Nastaviti?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Reprodukcija će koristiti mobilne podatke. Nastaviti?"</string>
     <string name="hiad_continue_download" priority="LT">"Preuzmi"</string>

@@ -18,7 +18,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"སྤྲོ་སྣང་མི་འདུག"</string>
     <string name="hiad_choices_hide" priority="LT">"བརྡ་ཁྱབ་ཡིབ་སྐུང་།"</string>
     <string name="hiad_choices_whythisad" priority="LT">"བརྡ་ཁྱབ་འདི་མཐོང་བའི་རྒྱུ་མཚན་ཅི་ཡིན་ནམ།"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"ཉེར་སྤྱོད་ཕབ་ལེན་བྱས་ཏེ་སྒྲིག་འཇུག་བྱེད་དམ།"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"ཉེར་སྤྱོད་ཕབ་ལེན་བྱས་ཏེ་སྒྲིག་འཇུག་བྱེད་དམ།"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"སྤོ་འགུལ་དྲ་རྒྱ་བཀོལ་ན་བཞུར་ཚད%1$sཟད་ངེས།"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"འགུལ་འཕྲིན་དྲ་རྒྱ་སྤྱོད་ན་བཞུར་ཚད་བརླག་ངེས། མུ་མཐུད་དུ་བསྒྲུབ་བམ།"</string>
     <string name="hiad_continue_download" priority="LT">"མུ་མཐུད་དུ་ཕབ་ལེན་བྱེད།"</string>
@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"བརྡ་ཁྱབ་ཁ་རྒྱག"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"མུ་མཐུད་དུ་གཟིགས།"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"བརྙན་ཟློས་ཆ་ཚང་གཟིགས་ན་ད་གཟོད་བྱ་དགའ་ཐོབ་ཆོག"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"རྡེབ་ནས་ཞིབ་ཕྲའི་གནས་ཚུལ་གྱི་དྲ་ངོས་སམ་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་དུ་མཆོངས་སྒྱུར་བྱེད།"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"རྡེབ་ནས་ཞིབ་ཕྲའི་གནས་ཚུལ་གྱི་དྲ་ངོས་སམ་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་དུ་མཆོངས་སྒྱུར་བྱེད།"</string>
     <string name="hiad_whether_download" priority="LT">"མཉེན་ཆས་འདི་ཕབ་ལེན་བྱེད་དམ།"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi འོག་ཏུ་སྔོན་ནས་སྣོན་འཇུག་བྱས་ཟིན།"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"WLAN འོག་ཏུ་སྔོན་ནས་སྣོན་འཇུག་བྱས་ཟིན།"</string>

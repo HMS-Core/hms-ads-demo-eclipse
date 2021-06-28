@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Қызықпаймын"</string>
     <string name="hiad_choices_hide" priority="LT">"Жарнаманы жасыру"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Неліктен бұл жарнаманы көрдім?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Осы қолданбаны орнату керек пе?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Осы қолданбаны орнату керек пе?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Мобильді желіні пайдаланғанда деректердің %1$s мөлшері тұтынылады. Жалғастыру керек пе?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Ойнату кезінде мобильді деректер пайдаланылады. Жалғастыру керек пе?"</string>
     <string name="hiad_continue_download" priority="LT">"Жүктеп алу"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Өткізіп жіберу"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Қарауды жалғастыру"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Сыйақы алу үшін осы жарнаманы соңына дейін қараңыз."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Веб-сайтты/қолданбаны ашу үшін түртіңіз"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Веб-сайтты/қолданбаны ашу үшін түртіңіз"</string>
     <string name="hiad_whether_download" priority="LT">"Бұл қолданбаны жүктеп алу керек пе?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi арқылы алдын ала жүктелген"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Алдын ала жүктелген"</string>

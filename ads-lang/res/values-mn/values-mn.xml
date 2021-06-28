@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Сонирхолгүй"</string>
     <string name="hiad_choices_hide" priority="LT">"Зар нуух"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Би яагаад энэ зарыг харж байна вэ?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Энэ апликэйшнийг суулгах уу?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Энэ апликэйшнийг суулгах уу?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"Гар утасны сүлжээ ашиглавал датаны %1$s-г хэрэглэнэ. Үргэлжлүүлэх үү?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Дахин тоглуулахад гар утасны дата ашиглах болно. Үргэлжлүүлэх үү?"</string>
     <string name="hiad_continue_download" priority="LT">"Татах"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Алгасах"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Үзсээр байх"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Энэ зарыг үзэж дуусгаад шагнал аваарай."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Вэбсайт/апликэйшнийг нээхийн тулд дарна уу"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Вэбсайт/апликэйшнийг нээхийн тулд дарна уу"</string>
     <string name="hiad_whether_download" priority="LT">"Энэ аппликэйшнийг татах уу?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi-аар урьдчилан ачаалсан"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Урьдчилан ачаалсан"</string>

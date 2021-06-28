@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ez zait interesatzen"</string>
     <string name="hiad_choices_hide" priority="LT">"Ezkutatu iragarkia"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Zergatik ikusi dut iragarki hori?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Aplikazioa instalatu nahi duzu?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Aplikazioa instalatu nahi duzu?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Sare mugikorra erabiliz gero, datuen %1$s kontsumituko dira. Jarraitu?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Erreprodukzioak datu mugikorrak erabiliko ditu. Jarraitu?"</string>
     <string name="hiad_continue_download" priority="LT">"Deskargatu"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Saltatu"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jarraitu ikusten"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Saria irabazteko, amaitu iragarkia ikusten."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Ukitu webgunea/aplikazioa irekitzeko"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Ukitu webgunea/aplikazioa irekitzeko"</string>
     <string name="hiad_whether_download" priority="LT">"Aplikazioa deskargatu nahi duzu?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wifi bitartez birkargatua"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Aurrekargatuta"</string>

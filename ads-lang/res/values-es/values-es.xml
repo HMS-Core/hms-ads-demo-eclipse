@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"No me interesa"</string>
     <string name="hiad_choices_hide" priority="LT">"Ocultar publicidad"</string>
     <string name="hiad_choices_whythisad" priority="LT">"¿Por qué he visto esta publicidad?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"¿Desea instalar la aplicación?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"¿Desea instalar la aplicación?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"Si usa la red móvil, se consumirá/n %1$s de datos. ¿Continuar?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"La reproducción consumirá datos móviles. ¿Continuar?"</string>
     <string name="hiad_continue_download" priority="LT">"Descargar"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Saltar"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Ver anuncio"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Termine de ver el anuncio para ganar un premio."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Pulse aquí para acceder al sitio web/la aplicación"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Pulse aquí para acceder al sitio web/la aplicación"</string>
     <string name="hiad_whether_download" priority="LT">"¿Descargar esta aplicación?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Precargado con Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Precargada"</string>

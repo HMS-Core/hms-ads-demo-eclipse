@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Hindi interesado"</string>
     <string name="hiad_choices_hide" priority="translator">"Itago ang ad"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Bakit ko nakita ang ad na ito?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"I-install ang app na ito?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"I-install ang app na ito?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Kokonsumo ng %1$s na data ang paggamit ng mobile network. Magpatuloy?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Gagamit ng mobile data ang playback. Magpatuloy?"</string>
     <string name="hiad_continue_download" priority="LT">"I-download"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Laktawan"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Magpatuloy sa panonood"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Panoorin ang ad na ito hanggang matapos para makakuha ng reward."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Pindutin para buksan ang website/app"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Pindutin para buksan ang website/app"</string>
     <string name="hiad_whether_download" priority="LT">"I-download ang app na ito?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Paunang na-load sa pamamagitan ng Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Naka-preload"</string>

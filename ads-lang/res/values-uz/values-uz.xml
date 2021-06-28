@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Qiziq emas"</string>
     <string name="hiad_choices_hide" priority="LT">"Reklamani berkitish"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Bu reklamani nega koʻryapman?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Bu ilova oʻrnatilsinmi?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Bu ilova oʻrnatilsinmi?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Mobil internet ishlatilsa, %1$s trafik sarflanadi. Davom etasizmi?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Ijro uchun mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
     <string name="hiad_continue_download" priority="LT">"Yuklab olish"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Tashlab ketish"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Davom etish"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Mukofot olish uchun reklamani oxirigacha tomosha qiling."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Veb-sayt/ilovani ochish uchun tegining"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Veb-sayt/ilovani ochish uchun tegining"</string>
     <string name="hiad_whether_download" priority="LT">"Bu ilova yuklab olinsinmi?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi orqali avvaldan yuklangan"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Yuklangan"</string>

@@ -18,7 +18,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Tidak minat"</string>
     <string name="hiad_choices_hide" priority="LT">"Sembunyikan iklan"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Mengapakah saya melihat iklan ini?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Pasang aplikasi ini?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Pasang aplikasi ini?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Menggunakan rangkaian mudah alih akan menggunakan %1$s data. Teruskan?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Main balik akan menggunakan data mudah alih. Teruskan?"</string>
     <string name="hiad_continue_download" priority="LT">"Muat turun"</string>
@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Langkau"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Teruskan tontonan"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Habiskan tontonan iklan ini untuk mendapat ganjaran."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Sentuh untuk membuka tapak web/aplikasi"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Sentuh &amp; buka tapak web/apl"</string>
     <string name="hiad_whether_download" priority="LT">"Muat turun aplikasi ini?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Dipramuat melalui Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Dipramuat"</string>

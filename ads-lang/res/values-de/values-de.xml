@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Nicht interessiert"</string>
     <string name="hiad_choices_hide" priority="translator">"Werbung ausblenden"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Warum wurde mir diese Werbung angezeigt?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Diese App installieren?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Diese App installieren?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Bei der Nutzung eines mobilen Netzwerks werden %1$s Daten verbraucht. Fortfahren?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Für die Wiedergabe werden mobile Daten verwendet. Fortfahren?"</string>
     <string name="hiad_continue_download" priority="LT">"Herunterladen"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Überspringen"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Weiter anschauen"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Schauen Sie die Werbung ganz an, um eine Prämie zu erhalten."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Zum Öffnen der Website/App antippen"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Zum Öffnen der Website/App antippen"</string>
     <string name="hiad_whether_download" priority="LT">"Diese App herunterladen?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Über WLAN vorgeladen"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Vorinstalliert"</string>

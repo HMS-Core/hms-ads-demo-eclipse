@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Niet geïnteresseerd"</string>
     <string name="hiad_choices_hide" priority="translator">"Advertentie verbergen"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Waarom zie ik deze advertentie?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Deze app installeren?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Deze app installeren?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Het gebruik van een mobiel netwerk zal %1$s aan data verbruiken. Doorgaan?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Afspelen zal mobiele data verbruiken. Doorgaan?"</string>
     <string name="hiad_continue_download" priority="LT">"Downloaden"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Overslaan"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Blijf kijken"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Bekijk deze advertentie helemaal om een beloning te winnen."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Tik aan om de website/app te openen"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Tik aan om de website/app te openen"</string>
     <string name="hiad_whether_download" priority="LT">"Deze app downloaden?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Vooraf geladen via wifi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Vooraf geladen"</string>

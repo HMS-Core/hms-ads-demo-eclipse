@@ -24,7 +24,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ne zanima me"</string>
     <string name="hiad_choices_hide" priority="translator">"Sakrij oglas"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Zašto vidim ovaj oglas?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Instalirati ovu aplikaciju?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Instalirati ovu aplikaciju?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Korištenjem mobilne mreže bit će iskorišteno %1$s podataka. Nastaviti?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Za reprodukciju će se koristiti prijenos podataka. Nastaviti?"</string>
     <string name="hiad_continue_download" priority="LT">"Preuzmi"</string>
@@ -86,7 +86,7 @@
     <string name="hiad_reward_close_dialog_close" priority="translator">"Preskoči"</string>
     <string name="hiad_reward_close_dialog_continue" priority="translator">"Nastavi gledati"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Završite s gledanjem ove reklame da zaradite nagradu."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Dodirnite da otvorite web lokaciju/aplikaciju"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Dodirnite da otvorite web lokaciju/aplikaciju"</string>
     <string name="hiad_whether_download" priority="LT">"Preuzeti ovu aplikaciju?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Prethodno učitano putem Wi-Fi mreže"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Unaprijed učitano"</string>

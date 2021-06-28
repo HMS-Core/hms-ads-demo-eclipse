@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"ፍላጎት የለኝም"</string>
     <string name="hiad_choices_hide" priority="LT">"ማስታወቂያን ደብቅ"</string>
     <string name="hiad_choices_whythisad" priority="LT">"ይህን ማስታወቂያ ያየሁት ለምንድነው?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"ይህ መተግበሪያ ይጫን?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"ይህ መተግበሪያ ይጫን?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"የስልክ አውታረ መረብን መጠቀም ከውሂብ %1$s ያክሉን ይጠቀማል። ይቀጥል?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"መልሶ ማጫወት የሞባይል ውሂብ ይጠቀማል። ቀጥል?"</string>
     <string name="hiad_continue_download" priority="LT">"አውርድ"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"እለፍ"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"መመልከቱን ይቀጥሉ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ሽልማት ለማግኘት ይህን ማስታወቂያ አይተው ይጨርሱ።"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"ድር ጣቢያውን/መተግበሪያውን ለመክፈት ይንኩ"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"ድር ጣቢያውን/መተግበሪያውን ለመክፈት ይንኩ"</string>
     <string name="hiad_whether_download" priority="LT">"ይህ መተግበሪያ ይውረድ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"በ Wi-Fi ቀድሞ ተጭነዋል"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ቅድሚያ ተጭኗል"</string>

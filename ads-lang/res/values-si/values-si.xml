@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"කැමැත්තක් නැත"</string>
     <string name="hiad_choices_hide" priority="LT">"දැන්වීම සඟවන්න"</string>
     <string name="hiad_choices_whythisad" priority="LT">"මම මෙම වෙළඳ දැන්වීම දුටුවේ ඇයි?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"මෙම යෙදුම ස්ථාපනය කරන්න ද?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"මෙම යෙදුම ස්ථාපනය කරන්න ද?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"ජංගම ජාලයක් භාවිතා කිරීමෙන් දත්ත %1$sක් පරිභෝජනය වේ. ඉදිරියට යන්න ද?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ප්‍රතිවාදනය ජංගම දත්ත භාවිතා කරනු ඇත. ඉදිරියට යන්නද?"</string>
     <string name="hiad_continue_download" priority="LT">"බාගන්න"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"මග හරින්න"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"දිගටම නරඹන්න"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"තිළිණයක් ඉපයීමට මෙම වෙළඳ දැන්වීම බලා අවසන් කරන්න."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"වෙබ් අඩවිය/යෙදුම විවෘත කිරීමට ස්පර්ශ කරන්න"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"වෙබ් අඩවිය/යෙදුම විවෘත කිරීමට ස්පර්ශ කරන්න"</string>
     <string name="hiad_whether_download" priority="LT">"මෙම යෙදුම බාගන්න ද?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi ඔස්සේ පෙර-පැටවූ"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"පෙර පැටවූ"</string>

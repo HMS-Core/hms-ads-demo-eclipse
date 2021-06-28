@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Hainivutii"</string>
     <string name="hiad_choices_hide" priority="translator">"Ficha tangazo"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Kwa nini niliona tangazo hili?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Sakinisha programu hii?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Sakinisha programu hii?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"Kutumia mtandao wa simu kutatumia %1$s data ya. Ungependa kuendelea?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Kucheza kutatumia data ya simu. Ungependa kuendelea?"</string>
     <string name="hiad_continue_download" priority="LT">"Pakua"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Ruka"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Endelea kutazama"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Maliza kutazama tangazo hili ili kupata tuzo."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Gusa ili kufungua tovuti/programu"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Gusa ili kufungua tovuti/programu"</string>
     <string name="hiad_whether_download" priority="LT">"Pakua programu hii?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Imepakiwa awali kupitia Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Imepakiwa awali"</string>

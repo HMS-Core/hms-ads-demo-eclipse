@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"قىزىقمايمەن"</string>
     <string name="hiad_choices_hide" priority="LT">"ئېلان يوشۇرۇش"</string>
     <string name="hiad_choices_whythisad" priority="LT">"نېمىشقا بۇ ئېلان كۆرۈنىدۇ؟"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"بۇ ئەپنى چۈشۈرۈپ قاچىلامسىز؟"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"بۇ ئەپنى چۈشۈرۈپ قاچىلامسىز؟"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"كۆچمە تور ئىشلەتسىڭىز %1$s ئېقىم كېتىدۇ"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="translator">"كۆچمە تور ئىشلەتسىڭىز ئېقىم كېتىدۇ. داۋاملاشتۇرامسىز؟"</string>
     <string name="hiad_continue_download" priority="LT">"داۋاملىق چۈشۈرۈش"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"ئېلاننى ئېتىش"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"داۋاملىق كۆرۈش"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ئېلاننى تولۇق كۆرسىڭىز مۇكاپات چىقىدۇ"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"چەكسىڭىز توربېكەت/ئەپ ئېچىلىدۇ"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"چەكسىڭىز توربېكەت/ئەپ ئېچىلىدۇ"</string>
     <string name="hiad_whether_download" priority="LT">"بۇ دېتالنى چۈشۈرەمسىز؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"\u200fWi-Fi دا ئالدىن يۈكلەندى"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"WLAN مۇھىتىدا ئالدىن يۈكلىنىلدى"</string>

@@ -24,7 +24,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Nu mă interesează"</string>
     <string name="hiad_choices_hide" priority="translator">"Ascundeți anunțul"</string>
     <string name="hiad_choices_whythisad" priority="translator">"De ce am văzut acest anunț?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Instalați această aplicație?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Instalați această aplicație?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Utilizarea unei rețele mobile va determina consumarea a %1$s din traficul de date. Continuați?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Redarea va utiliza date mobile. Continuați?"</string>
     <string name="hiad_continue_download" priority="LT">"Descărcare"</string>
@@ -86,7 +86,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Omitere"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuați să urmăriți"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Vizionați această reclamă până la capăt pentru a câștiga o recompensă."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Atingeți pentru a deschide site-ul web/aplicația"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Atingeți pentru a deschide site-ul web/aplicația"</string>
     <string name="hiad_whether_download" priority="LT">"Descărcați această aplicație?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Preîncărcat prin Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Preîncărcat"</string>

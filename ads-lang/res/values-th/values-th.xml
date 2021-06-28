@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"ข้าม"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"รับชมต่อ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"รับชมโฆษณานี้จนจบเพื่อรับรางวัล"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"แตะเพื่อเปิดเว็บไซต์/แอป"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"แตะเพื่อเปิดเว็บไซต์/แอป"</string>
     <string name="hiad_whether_download" priority="LT">"ดาวน์โหลดแอปนี้หรือไม่"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"โหลดล่วงหน้าผ่าน Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"โหลดไว้ล่วงหน้า"</string>

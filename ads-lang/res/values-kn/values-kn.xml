@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"ಇದರಲ್ಲಿ ನನಗೆ ಆಸಕ್ತಿಯಿಲ್ಲ"</string>
     <string name="hiad_choices_hide" priority="LT">"ಜಾಹೀರಾತನ್ನು ಮರೆಮಾಡಿ"</string>
     <string name="hiad_choices_whythisad" priority="LT">"ನನಗೆ ಈ ಜಾಹೀರಾತು ಏಕೆ ಕಾಣಿಸಿದೆ?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"ಈ ಆ್ಯಪ್ ಸ್ಥಾಪಿಸಬೇಕೇ?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"ಈ ಆ್ಯಪ್ ಸ್ಥಾಪಿಸಬೇಕೇ?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಬಳಸಿದರೆ %1$s ರಷ್ಟು ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ. ಮುಂದುವರೆಸುವುದೇ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ಪ್ಲೇಬ್ಯಾಕ್ ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ ಮುಂದುವರೆಸುವುದೇ?"</string>
     <string name="hiad_continue_download" priority="LT">"ಡೌನ್‌ಲೋಡ್‌‌ ಮಾಡಿ"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"ಬಿಟ್ಟುಬಿಡಿ"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ವೀಕ್ಷಿಸುವುದನ್ನು ಮುಂದುವರೆಸಿ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ಬಹುಮಾನವನ್ನು ಗಳಿಸುವುದಕ್ಕಾಗಿ ಈ ಜಾಹೀರಾತನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ವೀಕ್ಷಿಸಿ."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"ವೆಬ್‌ಸೈಟ್/ಆ್ಯಪ್ ತೆರೆಯಲು ಸ್ಪರ್ಶಿಸಿ"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"ವೆಬ್‌ಸೈಟ್/ಆ್ಯಪ್ ತೆರೆಯಲು ಸ್ಪರ್ಶಿಸಿ"</string>
     <string name="hiad_whether_download" priority="LT">"ಈ ಆ್ಯಪ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದೇ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi ಮೂಲಕ ಮೊದಲೇ ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ಮೊದಲೇ ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"</string>

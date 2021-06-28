@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"इच्छुक छैन"</string>
     <string name="hiad_choices_hide" priority="LT">"विज्ञापन लुकाउनुहोस्"</string>
     <string name="hiad_choices_whythisad" priority="LT">"म यो विज्ञापन किन देख्छु ?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"यो एप स्थापना गर्ने हो ?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"यो एप स्थापना गर्ने हो ?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"मोबाइल सञ्जाल प्रयोग गर्नाले %1$s डाटा खपत गर्नेछ । जारी राख्ने ?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"प्लेब्याकले मोबाइल डाटा प्रयोग गर्नेछ । जारी राख्ने ?"</string>
     <string name="hiad_continue_download" priority="LT">"डाउनलोड गर्नुहोस्"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"छोड्नुहोस्"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"हेर्न जारी राख्नुहोस्"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"पुरस्कार आर्जन गर्नको लागि यो विज्ञापन हेरेर सक्नुहोस् ।"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"वेबसाइट/एप खोल्नका लागि टच गर्नुहोस्"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"वेबसाइट/एप खोल्नका लागि टच गर्नुहोस्"</string>
     <string name="hiad_whether_download" priority="LT">"यो एप डाउनलोड गर्ने हो ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi मार्फत प्रि-लोड गरिएको"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"पहिले नै लोड गरिएको"</string>

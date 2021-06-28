@@ -33,7 +33,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"कोनो रुचि नहि"</string>
     <string name="hiad_choices_hide" priority="LT">"विज्ञापन केँ नुकाउ"</string>
     <string name="hiad_choices_whythisad" priority="LT">"हम किएक ई विज्ञापन देखलहुँ?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"एहि एप केँ इंस्टॉल करी?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"एहि एप केँ इंस्टॉल करी?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"मोबाइल नेटवर्कक उपयोग कयलासँ %1$s डाटा खर्च होयत। जारी राखू?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"प्लेबैक मोबाइल डाटाक उपयोग करत. जारी राखू?"</string>
     <string name="hiad_continue_download" priority="LT">"डाउनलोड करू"</string>
@@ -95,7 +95,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"छोड़ू"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"देखैत रहू"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"इनाम अर्जित करबाक लेल एहि विज्ञापन केँ अंत धरि देखू।"</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"वेबसाइट/एप खोलबाक लेल छुबू"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"वेबसाइट/एप खोलबाक लेल छुबू"</string>
     <string name="hiad_whether_download" priority="LT">"ई एप डाउनलोड करी?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi सँ पहिनुका लोड कयल"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"पहिने सँ लोड कयल गेल"</string>

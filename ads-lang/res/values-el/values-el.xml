@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Δεν ενδιαφέρομαι"</string>
     <string name="hiad_choices_hide" priority="LT">"Απόκρυψη διαφήμισης"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Γιατί είδα τη διαφήμιση;"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Εγκατάσταση αυτής της εφαρμογής;"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Εγκατάσταση αυτής της εφαρμογής;"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Αν χρησιμοποιήσετε δίκτυο κινητής τηλεφωνίας, θα καταναλωθούν %1$s από τα δεδομένα. Συνέχεια;"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Για την αναπαραγωγή θα χρησιμοποιηθούν δεδομένα κινητής τηλεφωνίας. Συνέχεια;"</string>
     <string name="hiad_continue_download" priority="LT">"Λήψη"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Παράλειψη"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Συνέχιση παρακολούθησης"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Παρακολουθήστε αυτή τη διαφήμιση μέχρι το τέλος για να κερδίσετε μια ανταμοιβή."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Αγγίξτε για να ανοίξει ο ιστότοπος/η εφαρμογή"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Αγγίξτε για να ανοίξει ο ιστότοπος/η εφαρμογή"</string>
     <string name="hiad_whether_download" priority="LT">"Να γίνει λήψη αυτής της εφαρμογής;"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Προφορτώθηκε μέσω του Wi-Fi."</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Προφορτωμένο"</string>

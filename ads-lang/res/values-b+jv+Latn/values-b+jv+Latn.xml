@@ -18,7 +18,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ora ketarik"</string>
     <string name="hiad_choices_hide" priority="LT">"Dhelikake iklan"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Kena ngapa aku weruh iklan iki?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Instal apl iki?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Instal apl iki?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Nggunakake jaringan seluler bakal nganggo %1$s data. Terusake?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Muter iki bakal nggunakake data seluler. Terusake?"</string>
     <string name="hiad_continue_download" priority="LT">"Undhuh"</string>
@@ -80,7 +80,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Lumpati"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Terus nonton"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Deleng iklan iki nganti rampung kanggo ngentukake ganjaran."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Dumuk kanggo mbukak situs web/apl"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Dumuk kanggo mbukak situs web/apl"</string>
     <string name="hiad_whether_download" priority="LT">"Undhuh apl iki?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Diundhuh sadurunge liwat Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Praunggah"</string>

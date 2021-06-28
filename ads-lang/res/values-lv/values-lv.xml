@@ -24,7 +24,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Neinteresē"</string>
     <string name="hiad_choices_hide" priority="translator">"Paslēpt reklāmu"</string>
     <string name="hiad_choices_whythisad" priority="translator">"Kāpēc man tiek rādīta šī reklāma?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Vai instalēt šo lietotni?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Vai instalēt šo lietotni?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Lietojot mobilo tīklu, tiks patērēti %1$s datu. Vai turpināt?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Atskaņošanas laikā tiks izmantoti mobilie dati. Vai turpināt?"</string>
     <string name="hiad_continue_download" priority="LT">"Lejupielādēt"</string>
@@ -86,7 +86,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Izlaist"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Turpināt skatīties"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Noskatieties šo reklāmu, lai nopelnītu balvu."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Pieskarieties, lai atvērtu vietni/lietotni"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Pieskarieties, lai atvērtu vietni/lietotni"</string>
     <string name="hiad_whether_download" priority="LT">"Vai lejupielādēt šo lietotni?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Iepriekš ielādēts, izmantojot Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Iepriekš ielādēta"</string>

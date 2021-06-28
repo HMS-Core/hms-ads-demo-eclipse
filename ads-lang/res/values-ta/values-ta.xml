@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"ஆர்வமில்லை"</string>
     <string name="hiad_choices_hide" priority="LT">"விளம்பரத்தை மறை"</string>
     <string name="hiad_choices_whythisad" priority="LT">"இந்த விளம்பரத்தை ஏன் பார்க்கிறேன்?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"இந்தச் செயலியை நிறுவவா?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"இந்தச் செயலியை நிறுவவா?"</string>
     <string name="hiad_consume_data_to_play_video" priority="translator">"மொபைல் நெட்வொர்க்கை பயன்படுத்துவது தரவின் %1$s-ஐ பயன்படுத்தும். தொடரவா?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"மறுஇயக்கம், மொபைல் தரவைப் பயன்படுத்தும். தொடரவா?"</string>
     <string name="hiad_continue_download" priority="LT">"பதிவிறக்கு"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"தவிர்"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"தொடர்ந்து பார்க்கவும்"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"வெகுமதியைப் பெற, இந்த விளம்பரத்தைப் பார்த்து முடிக்கவும்."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"வலைத்தளம்/செயலியைத் திறக்க, தொடவும்"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"வலைத்தளம்/செயலியைத் திறக்க, தொடவும்"</string>
     <string name="hiad_whether_download" priority="LT">"இந்தச் செயலியைப் பதிவிறக்கவா?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi வழியாக முன்-ஏற்றப்பட்டது"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"முன்ஏற்றியது"</string>

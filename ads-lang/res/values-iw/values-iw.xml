@@ -27,7 +27,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"לא מעוניין"</string>
     <string name="hiad_choices_hide" priority="LT">"הסתר מודעה"</string>
     <string name="hiad_choices_whythisad" priority="LT">"מדוע ראיתי מודעה זו?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"להתקין יישום זה?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"להתקין יישום זה?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"שימוש ברשת סלולרית יצרוך %1$s נתונים. להמשיך?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"ההפעלה תשתמש בנתונים סלולריים. להמשיך?"</string>
     <string name="hiad_continue_download" priority="LT">"הורד"</string>
@@ -89,7 +89,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"דלג"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"המשך בצפייה"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"סיים לצפות במודעה זו כדי לזכות בפרס."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"גע כדי לפתוח את אתר האינטרנט/היישום"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"גע כדי לפתוח את אתר האינטרנט/היישום"</string>
     <string name="hiad_whether_download" priority="LT">"להוריד יישום זה?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"נטען מראש על גבי Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"טעון מראש"</string>

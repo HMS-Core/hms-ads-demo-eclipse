@@ -21,7 +21,7 @@
     <string name="hiad_choices_ad_no_interest" priority="LT">"Nem érdekel"</string>
     <string name="hiad_choices_hide" priority="LT">"Hirdetés elrejtése"</string>
     <string name="hiad_choices_whythisad" priority="LT">"Miért láttam ezt a hirdetést?"</string>
-    <string name="hiad_confirm_download_app" priority="translator">"Telepíti ezt az alkalmazást?"</string>
+    <string name="hiad_confirm_download_app" priority="LT">"Telepíti ezt az alkalmazást?"</string>
     <string name="hiad_consume_data_to_play_video" priority="LT">"Mobilhálózat használata %1$s adatforgalmat generál. Folytatja?"</string>
     <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"A lejátszás mobiladatot használ. Folytatja?"</string>
     <string name="hiad_continue_download" priority="LT">"Letöltés"</string>
@@ -83,7 +83,7 @@
     <string name="hiad_reward_close_dialog_close" priority="LT">"Kihagyás"</string>
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Tovább nézem"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Nézze végig ezt a reklámot a jutalomért."</string>
-    <string name="hiad_splash_pro_desc" priority="translator">"Érintse meg a webhely/alkalmazás megnyitásához"</string>
+    <string name="hiad_splash_pro_desc" priority="LT">"Érintse meg a webhely/alkalmazás megnyitásához"</string>
     <string name="hiad_whether_download" priority="LT">"Letölti ezt az alkalmazást?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Előtöltés Wi-Fi-n"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Előzetesen betöltve"</string>
