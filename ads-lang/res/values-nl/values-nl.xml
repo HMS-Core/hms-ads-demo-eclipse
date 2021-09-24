@@ -62,6 +62,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"U bent momenteel niet verbonden met wifi. Nu downloaden zal %1$s aan mobiele data kosten. Toch downloaden?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"U bent momenteel niet verbonden met WLAN. Nu downloaden zal %1$s aan mobiele data verbruiken. Toch downloaden?"</string>
     <string name="hiad_install_completed" priority="LT">"Gereed"</string>
+    <string name="hiad_installed_description" priority="LT">"Installatie gelukt. Tik om te openen."</string>
+    <string name="hiad_jump_desc" priority="translator">"Bekijk de details of ga naar de app"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Deze pagina wil %1$s openen."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link gekopieerd."</string>
     <string name="hiad_loading_tips" priority="LT">"Bezig met laden…"</string>
@@ -84,6 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Blijf kijken"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Bekijk deze advertentie helemaal om een beloning te winnen."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Tik aan om de website/app te openen"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Omhoog vegen"</string>
+    <string name="hiad_twist_screen" priority="translator">"De telefoon schudden"</string>
     <string name="hiad_whether_download" priority="LT">"Deze app downloaden?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Vooraf geladen via wifi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Vooraf geladen"</string>

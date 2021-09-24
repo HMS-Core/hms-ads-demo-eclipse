@@ -62,6 +62,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"ನೀವು ಪ್ರಸ್ತುತ Wi-Fi ಗೆ ಸಂಪರ್ಕಿಸಿಲ್ಲ. ಇದೀಗ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದರಿಂದ %1$s ರಷ್ಟು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ. ಹೇಗಿದ್ದರೂ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದೇ?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"ನೀವು ಪ್ರಸ್ತುತ WLAN ಗೆ ಸಂಪರ್ಕಿಸಿಲ್ಲ. ಇದೀಗ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದರಿಂದ %1$s ರಷ್ಟು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ. ಹೇಗಿದ್ದರೂ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದೇ?"</string>
     <string name="hiad_install_completed" priority="LT">"ಮುಗಿದಿದೆ"</string>
+    <string name="hiad_installed_description" priority="translator">"ಸ್ಥಾಪಿಸುವಿಕೆ ಯಶಸ್ವಿಯಾಗಿದೆ. ತೆರೆಯಲು ಸ್ಪರ್ಶಿಸಿ."</string>
+    <string name="hiad_jump_desc" priority="translator">"ವಿವರಗಳನ್ನು ನೋಡಿ ಅಥವಾ ಆ್ಯಪ್‍ಗೆ ಹೋಗಿ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ಈ ಪುಟವು %1$s ಪುಟವನ್ನು ತೆರೆಯಬೇಕೆಂದು ಬಯಸಿದೆ."</string>
     <string name="hiad_link_already_copied" priority="LT">"ಲಿಂಕ್ ನಕಲಿಸಲಾಗಿದೆ."</string>
     <string name="hiad_loading_tips" priority="LT">"ಲೋಡ್‌ ಆಗುತ್ತಿದೆ…"</string>
@@ -84,6 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ವೀಕ್ಷಿಸುವುದನ್ನು ಮುಂದುವರೆಸಿ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ಬಹುಮಾನವನ್ನು ಗಳಿಸುವುದಕ್ಕಾಗಿ ಈ ಜಾಹೀರಾತನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ವೀಕ್ಷಿಸಿ."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ವೆಬ್‌ಸೈಟ್/ಆ್ಯಪ್ ತೆರೆಯಲು ಸ್ಪರ್ಶಿಸಿ"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ಮೇಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ"</string>
+    <string name="hiad_twist_screen" priority="translator">"ಫೋನ್ ಅಲುಗಾಡಿಸಿ"</string>
     <string name="hiad_whether_download" priority="LT">"ಈ ಆ್ಯಪ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದೇ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi ಮೂಲಕ ಮೊದಲೇ ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ಮೊದಲೇ ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"</string>

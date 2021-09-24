@@ -62,6 +62,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"Şu anda Wi-Fi ağına bağlı değilsiniz. Şimdi indirmek %1$s mobil veri kullanacaktır. Yine de indirilsin mi?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Şu anda WLAN ağına bağlı değilsiniz. Şimdi indirmek %1$s mobil veri kullanacaktır. Yine de indirilsin mi?"</string>
     <string name="hiad_install_completed" priority="LT">"Bitti"</string>
+    <string name="hiad_installed_description" priority="LT">"Yükleme başarılı. Açmak için dokunun."</string>
+    <string name="hiad_jump_desc" priority="translator">"Ayrıntıları görüntüleyin veya uygulamaya gidin"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Bu sayfa %1$s uygulamasını açmak istiyor."</string>
     <string name="hiad_link_already_copied" priority="LT">"Bağlantı kopyalandı."</string>
     <string name="hiad_loading_tips" priority="LT">"Yükleniyor…"</string>
@@ -84,6 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"İzlemeye devam et"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Ödül kazanmak için bu reklamı sonuna kadar izleyin."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Web sitesini/uygulamayı açmak için dokunun"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Yukarı kaydırın"</string>
+    <string name="hiad_twist_screen" priority="translator">"Telefonu sallayın"</string>
     <string name="hiad_whether_download" priority="LT">"Bu uygulama indirilsin mi?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi üzerinden önceden yüklendi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Önceden yüklenmiş"</string>

@@ -1,0 +1,35 @@
+-keep @interface com.huawei.hms.ads.jsb.annotations.OuterVisible
+-keep @interface com.huawei.hms.ads.jsb.annotations.DataKeep
+
+-keep @com.huawei.hms.ads.jsb.annotations.OuterVisible class *
+-keepclassmembers class * {
+    @com.huawei.hms.ads.jsb.annotations.OuterVisible *;
+}
+
+-keep @com.huawei.hms.ads.jsb.annotations.OuterVisible enum * {
+    <fields>;
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keepclassmembers enum * {
+    @com.huawei.hms.ads.jsb.annotations.OuterVisible *;
+}
+
+-keep,includedescriptorclasses @com.huawei.hms.ads.jsb.annotations.OuterVisible interface * { *; }
+
+-keep @com.huawei.hms.ads.jsb.annotations.DataKeep class * {
+    <fields>;
+    <init>();
+}
+
+-keep class com.huawei.hms.ads.jsb.constant.** { *; }
+-keep interface com.huawei.hms.ads.jsb.constant.** { *; }
+-keep enum com.huawei.hms.ads.jsb.constant.** { *; }
+
+-dontwarn com.huawei.hms.framework.**
+
+-keepnames class * implements android.os.Parcelable
+-keepclassmembers class * implements android.os.Parcelable {
+    public final static *** CREATOR;
+}

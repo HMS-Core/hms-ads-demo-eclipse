@@ -62,6 +62,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"Wi-Fi-yhteyttä ei ole. Lataaminen käyttää %1$s mobiilidataa. Ladataanko silti?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"WLAN-yhteyttä ei ole. Lataaminen käyttää %1$s mobiilidataa. Ladataanko silti?"</string>
     <string name="hiad_install_completed" priority="LT">"Valmis"</string>
+    <string name="hiad_installed_description" priority="translator">"Asennus onnistui. Avaa koskettamalla."</string>
+    <string name="hiad_jump_desc" priority="translator">"Katso tiedot tai siirry sovellukseen"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Tämä sivu haluaa avata sovelluksen %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Linkki kopioitu."</string>
     <string name="hiad_loading_tips" priority="LT">"Ladataan…"</string>
@@ -84,6 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jatka katselua"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Katso tämä mainos loppuun ansaitaksesi palkinnon."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Avaa verkkosivusto/sovellus koskettamalla"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Pyyhkäise ylös"</string>
+    <string name="hiad_twist_screen" priority="translator">"Ravista puhelinta"</string>
     <string name="hiad_whether_download" priority="LT">"Ladataanko tämä sovellus?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Esiladattu Wi-Fi-yhteydellä"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Esiladattu"</string>

@@ -3,4 +3,13 @@
     <item name="hiad_btn_skip" type="id"/>
     <item name="hiad_full_logo_region" type="id"/>
     <item name="hiad_mute_icon" type="id"/>
+    <item name="layoutRadius" type="id"/>
+    <item name="layoutScanImage" type="id"/>
+    <declare-styleable name="ScanningRelativeLayout">
+        <attr format="reference" name="layoutScanImage"/>
+        <attr format="dimension" name="layoutRadius"/>
+    </declare-styleable>
+    <declare-styleable name="ScanningView">
+        <attr format="reference" name="lightImage"/>
+    </declare-styleable>
 </resources>

@@ -59,6 +59,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"귀하는 현재 Wi-Fi에 연결되지 않았습니다. 지금 다운로드하면 %1$s의 모바일 데이터를 사용하게 됩니다. 그래도 다운로드하시겠습니까?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"귀하는 현재 WLAN에 연결되지 않았습니다. 지금 다운로드하면 %1$s의 모바일 데이터를 사용하게 됩니다. 그래도 다운로드하시겠습니까?"</string>
     <string name="hiad_install_completed" priority="LT">"완료"</string>
+    <string name="hiad_installed_description" priority="LT">"설치를 완료했습니다. 터치하여 여십시오."</string>
+    <string name="hiad_jump_desc" priority="translator">"상세정보 보기 또는 앱으로 이동"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"이 페이지에서 %1$s을(를) 열고자 합니다."</string>
     <string name="hiad_link_already_copied" priority="LT">"링크가 복사되었습니다."</string>
     <string name="hiad_loading_tips" priority="LT">"로드 중…"</string>
@@ -81,6 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"계속 시청"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"보상을 받으려면 이 광고 재생을 완료하십시오."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"터치하여 웹사이트/앱 열기"</string>
+    <string name="hiad_swipe_screen" priority="translator">"위로 스와이프"</string>
+    <string name="hiad_twist_screen" priority="translator">"휴대폰 흔들기"</string>
     <string name="hiad_whether_download" priority="LT">"이 앱을 다운로드하시겠습니까?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi로 사전 로딩됨"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"사전 설치 항목"</string>

@@ -59,6 +59,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"Hiện tại bạn chưa kết nối với Wi-Fi. Việc tải xuống ngay bây giờ sẽ sử dụng %1$s dữ liệu di động. Vẫn tải xuống?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Hiện tại bạn chưa kết nối với WLAN. Việc tải xuống ngay bây giờ sẽ sử dụng %1$s dữ liệu di động. Vẫn tải xuống?"</string>
     <string name="hiad_install_completed" priority="LT">"Xong"</string>
+    <string name="hiad_installed_description" priority="LT">"Cài đặt thành công. Chạm để mở."</string>
+    <string name="hiad_jump_desc" priority="translator">"Xem chi tiết hoặc vào ứng dụng"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Trang này muốn mở %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Liên kết đã được sao chép."</string>
     <string name="hiad_loading_tips" priority="LT">"Đang tải…"</string>
@@ -81,6 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Tiếp tục xem"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Xem hết quảng cáo này để nhận phần thưởng."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Chạm để mở trang web/ứng dụng"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Vuốt lên"</string>
+    <string name="hiad_twist_screen" priority="translator">"Lắc điện thoại"</string>
     <string name="hiad_whether_download" priority="LT">"Tải xuống ứng dụng này?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Được tải trước qua Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Đã tải trước"</string>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/hiad_swipe_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:background="@drawable/hiad_splash_circle_bg"
+        android:elevation="10dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center">
+        <FrameLayout
+            android:id="@+id/hiad_arrow_layout"
+            android:layout_width="24dp"
+            android:layout_height="64dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <ImageView
+                android:id= "@+id/hiad_arrow"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/hiad_swipe_arrow"
+                android:layout_gravity="center_vertical"/>
+
+            <com.huawei.openalliance.ad.views.ScanningView
+                android:id="@+id/scanning_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:lightImage="@drawable/hiad_arrow_scan"
+                />
+        </FrameLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/hiad_swipe_string"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/hiad_4_dp"
+        android:paddingLeft="@dimen/hiad_4_dp"
+        android:paddingEnd="@dimen/hiad_4_dp"
+        android:paddingRight="@dimen/hiad_4_dp"
+        android:layout_below="@+id/hiad_arrow_layout"
+        android:layout_marginTop="@dimen/hiad_20_dp"
+        android:layout_gravity="center"
+        android:shadowColor="@color/hiad_source_shadow_color"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="6"
+        android:ellipsize="end"
+        android:fontFamily="HwChinese-medium"
+        android:gravity="center"
+        android:lines="1"
+        android:text="@string/hiad_swipe_screen"
+        android:textColor="@color/hiad_font"
+        android:textSize="@dimen/hiad_18_dp" />
+
+    <TextView
+        android:id="@+id/hiad_swipe_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/hiad_4_dp"
+        android:paddingLeft="@dimen/hiad_4_dp"
+        android:paddingEnd="@dimen/hiad_4_dp"
+        android:paddingRight="@dimen/hiad_4_dp"
+        android:layout_below="@+id/hiad_swipe_string"
+        android:layout_marginTop="@dimen/hiad_4_dp"
+        android:layout_gravity="center"
+        android:shadowColor="@color/hiad_source_shadow_color"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="6"
+        android:ellipsize="end"
+        android:fontFamily="HwChinese-medium"
+        android:gravity="center"
+        android:lines="1"
+        android:text="@string/hiad_jump_desc"
+        android:textColor="@color/hiad_90_white"
+        android:textSize="@dimen/hiad_16_dp" />
+</LinearLayout>

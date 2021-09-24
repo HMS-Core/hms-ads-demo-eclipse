@@ -59,6 +59,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"คุณยังไม่ได้เชื่อมต่อกับ Wi-Fi ในขณะนี้ การดาวน์โหลดขณะนี้จะใช้ข้อมูลมือถือ %1$s ดาวน์โหลดหรือไม่"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"คุณยังไม่ได้เชื่อมต่อกับ WLAN ในขณะนี้ การดาวน์โหลดขณะนี้จะใช้ข้อมูลมือถือ %1$s ดาวน์โหลดหรือไม่"</string>
     <string name="hiad_install_completed" priority="LT">"เสร็จสิ้น"</string>
+    <string name="hiad_installed_description" priority="LT">"การติดตั้งสำเร็จ แตะเพื่อเปิด"</string>
+    <string name="hiad_jump_desc" priority="translator">"ดูรายละเอียดหรือไปที่แอป"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"หน้านี้ต้องการเปิด %1$s"</string>
     <string name="hiad_link_already_copied" priority="LT">"คัดลอกลิงก์แล้ว"</string>
     <string name="hiad_loading_tips" priority="LT">"กำลังโหลด…"</string>
@@ -81,6 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"รับชมต่อ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"รับชมโฆษณานี้จนจบเพื่อรับรางวัล"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"แตะเพื่อเปิดเว็บไซต์/แอป"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ปัดนิ้วขึ้น"</string>
+    <string name="hiad_twist_screen" priority="translator">"เขย่าโทรศัพท์"</string>
     <string name="hiad_whether_download" priority="LT">"ดาวน์โหลดแอปนี้หรือไม่"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"โหลดล่วงหน้าผ่าน Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"โหลดไว้ล่วงหน้า"</string>

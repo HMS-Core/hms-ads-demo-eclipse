@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="MissingDefaultResource">
+    <item>
+        <shape>
+            <corners android:radius="48dp"/>
+            <solid android:color="#66ffffff" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <corners android:radius="48dp"/>
+            <solid android:color="#994d4d4d" />
+        </shape>
+    </item>
+</layer-list>

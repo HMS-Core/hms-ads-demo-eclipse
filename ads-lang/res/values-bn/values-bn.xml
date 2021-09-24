@@ -33,7 +33,7 @@
     <string name="hiad_default_skip_text" priority="LT">"এড়িয়ে যান"</string>
     <string name="hiad_default_skip_text_time" priority="LT">"%d সেকেন্ডে এড়িয়ে যান"</string>
     <string name="hiad_detail" priority="LT">"বিস্তারিত"</string>
-    <string name="hiad_detail_download_now" priority="LT">"ডাউনলোড"</string>
+    <string name="hiad_detail_download_now" priority="LT">"ডাউনলোড করুন"</string>
     <string name="hiad_dialog_accept" priority="LT">"অনুমতি দিন"</string>
     <string name="hiad_dialog_allow" priority="LT">"অনুমতি দিন"</string>
     <string name="hiad_dialog_cancel" priority="LT">"বাতিল করুন"</string>
@@ -62,6 +62,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"বর্তমানে আপনি Wi-Fi এ সংযুক্ত নন। এখন ডাউনলোড করলে তা %1$s মোবাইল ডেটা ব্যবহার করবে। তবুও ডাউনলোড করবেন?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"বর্তমানে আপনি WLAN এ সংযুক্ত নন। এখন ডাউনলোড করলে তা %1$s মোবাইল ডেটা ব্যবহার করবে। তবুও ডাউনলোড করবেন?"</string>
     <string name="hiad_install_completed" priority="LT">"সম্পন্ন"</string>
+    <string name="hiad_installed_description" priority="translator">"সফলভাবে ইনস্টল করা হয়েছে। খোলার জন্য স্পর্শ করুন।"</string>
+    <string name="hiad_jump_desc" priority="translator">"বিস্তারিত দেখুন বা অ্যাপে যান"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"এই পৃষ্ঠাটি %1$s কে খুলতে চাইছে।"</string>
     <string name="hiad_link_already_copied" priority="LT">"লিঙ্ক কপি করা হয়েছে।"</string>
     <string name="hiad_loading_tips" priority="LT">"লোড হচ্ছে…"</string>
@@ -84,6 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"দেখতে থাকুন"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"একটি পুরস্কার অর্জন করতে এই বিজ্ঞাপন দেখা সম্পন্ন করুন।"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ওয়েবসাইট/অ্যাপ খোলার জন্য স্পর্শ করুন"</string>
+    <string name="hiad_swipe_screen" priority="translator">"উপরে সোয়াইপ করুন"</string>
+    <string name="hiad_twist_screen" priority="translator">"ফোনটি ঝাঁকান"</string>
     <string name="hiad_whether_download" priority="LT">"এই অ্যাপটি ডাউনলোড করতে চান?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi এর মাধ্যমে আগে থেকেই লোড করা"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"আগে থেকে লোড করা"</string>

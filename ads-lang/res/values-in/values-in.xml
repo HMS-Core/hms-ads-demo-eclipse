@@ -59,6 +59,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"Anda sedang tidak terhubung ke Wi-Fi. Mengunduh sekarang akan menggunakan data seluler sebesar %1$s. Tetap unduh?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Anda sedang tidak terhubung ke WLAN. Mengunduh sekarang akan menggunakan data seluler sebesar %1$s. Tetap unduh?"</string>
     <string name="hiad_install_completed" priority="LT">"Selesai"</string>
+    <string name="hiad_installed_description" priority="translator">"Pemasangan berhasil. Sentuh untuk membuka."</string>
+    <string name="hiad_jump_desc" priority="translator">"Lihat perincian atau buka aplikasi"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Halaman ini ingin membuka %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Tautan disalin."</string>
     <string name="hiad_loading_tips" priority="LT">"Memuat…"</string>
@@ -81,6 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Tetap tonton"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Tonton iklan ini hingga selesai untuk mendapatkan hadiah."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Sentuh untuk membuka situs web/aplikasi"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Gesek ke atas"</string>
+    <string name="hiad_twist_screen" priority="translator">"Goyang ponsel"</string>
     <string name="hiad_whether_download" priority="LT">"Unduh aplikasi ini?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Dipramuat melalui Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Dipramuat"</string>

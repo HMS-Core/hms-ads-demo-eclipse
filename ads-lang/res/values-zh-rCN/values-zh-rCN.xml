@@ -59,6 +59,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"当前未连接 Wi-Fi，下载会耗费%1$s流量。是否确定下载？"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"当前未连接 WLAN，下载会耗费%1$s流量。确定下载？"</string>
     <string name="hiad_install_completed" priority="translator">"完成"</string>
+    <string name="hiad_installed_description" priority="translator">"安装完成，点击打开"</string>
+    <string name="hiad_jump_desc" priority="translator">跳转详情页或第三方应用</string>
     <string name="hiad_landing_page_open_app" priority="LT">"网页将打开“%1$s”。是否允许？"</string>
     <string name="hiad_link_already_copied" priority="LT">"链接已复制"</string>
     <string name="hiad_loading_tips" priority="translator">"正在加载…"</string>
@@ -81,6 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="translator">"继续观看"</string>
     <string name="hiad_reward_close_dialog_message" priority="translator">"观看完整视频才可获得奖励"</string>
     <string name="hiad_splash_pro_desc" priority="translator">"点击跳转至详情页或第三方应用"</string>
+    <string name="hiad_swipe_screen" priority="translator">向上滑动屏幕</string>
+    <string name="hiad_twist_screen" priority="translator">"摇一摇手机"</string>
     <string name="hiad_whether_download" priority="translator">"是否下载该软件？"</string>
     <string name="hiad_wifi_loaded_already" priority="LT">"已 Wi-Fi 预加载"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"已在 WLAN 下预加载"</string>

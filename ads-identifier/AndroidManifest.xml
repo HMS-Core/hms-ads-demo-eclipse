@@ -2,8 +2,8 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2019-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.ads"
-    android:versionCode="30445302"
-    android:versionName="3.4.45.302" >
+    android:versionCode="30447302"
+    android:versionName="3.4.47.302" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -12,7 +12,7 @@
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-identifier"
-            android:value="ads-identifier:3.4.45.302" />
+            android:value="ads-identifier:3.4.47.302" />
     </application>
 
 </manifest>

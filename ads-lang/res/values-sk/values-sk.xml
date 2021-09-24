@@ -68,6 +68,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"Momentálne ste bez pripojenia k Wi-Fi. Sťahovanie spotrebuje %1$s mobilných dát. Aj tak stiahnuť?"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Momentálne ste bez pripojenia k WLAN. Sťahovanie spotrebuje %1$s mobilných dát. Aj tak stiahnuť?"</string>
     <string name="hiad_install_completed" priority="LT">"Hotovo"</string>
+    <string name="hiad_installed_description" priority="translator">"Inštalácia bola úspešná. Ťuknutím otvorte aplikáciu."</string>
+    <string name="hiad_jump_desc" priority="translator">"Zobrazenie podrobností alebo otvorenie aplikácie"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Táto stránka chce otvoriť %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Odkaz je skopírovaný."</string>
     <string name="hiad_loading_tips" priority="LT">"Načítava sa…"</string>
@@ -90,6 +92,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Pokračovať v sledovaní"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Na získanie odmeny dokončite sledovanie tejto reklamy."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Ťuknutím otvorte webovú stránku/aplikáciu"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Potiahnite prstom nahor"</string>
+    <string name="hiad_twist_screen" priority="translator">"Zatraste telefónom"</string>
     <string name="hiad_whether_download" priority="LT">"Stiahnuť túto aplikáciu?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Predstiahnuté cez Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Už načítané"</string>

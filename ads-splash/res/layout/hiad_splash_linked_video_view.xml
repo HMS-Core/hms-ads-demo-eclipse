@@ -62,7 +62,33 @@
         android:layout_marginLeft="@dimen/hiad_24_dp"
         android:layout_marginEnd="@dimen/hiad_24_dp"
         android:layout_marginRight="@dimen/hiad_24_dp"
-        android:layout_marginBottom="@dimen/hiad_48_dp"
+        android:layout_marginBottom="@dimen/hiad_64_dp"
+        android:visibility="gone" />
+
+    <com.huawei.openalliance.ad.views.PPSSplashSwipeView
+        android:id="@+id/hiad_splash_swipe_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/hiad_16_dp"
+        android:layout_marginLeft="@dimen/hiad_16_dp"
+        android:layout_marginEnd="@dimen/hiad_16_dp"
+        android:layout_marginRight="@dimen/hiad_16_dp"
+        android:layout_marginBottom="@dimen/hiad_46_dp"
+        android:visibility="gone" />
+
+    <com.huawei.openalliance.ad.views.PPSSplashTwistView
+        android:id="@+id/hiad_splash_twist_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/hiad_16_dp"
+        android:layout_marginLeft="@dimen/hiad_16_dp"
+        android:layout_marginEnd="@dimen/hiad_16_dp"
+        android:layout_marginRight="@dimen/hiad_16_dp"
+        android:layout_marginBottom="@dimen/hiad_46_dp"
         android:visibility="gone" />
 
     <ViewStub

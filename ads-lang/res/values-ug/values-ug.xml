@@ -33,7 +33,7 @@
     <string name="hiad_default_skip_text" priority="translator">"ئاتلاش"</string>
     <string name="hiad_default_skip_text_time" priority="LT">"ئاتلاش %d"</string>
     <string name="hiad_detail" priority="translator">"تەپسىلات"</string>
-    <string name="hiad_detail_download_now" priority="LT">"دەرھال چۇشۇرۇش"</string>
+    <string name="hiad_detail_download_now" priority="LT">"چۈشۈرۈش"</string>
     <string name="hiad_dialog_accept" priority="translator">"قوبۇل قىلىش"</string>
     <string name="hiad_dialog_allow" priority="translator">"رۇخسەت"</string>
     <string name="hiad_dialog_cancel" priority="LT">"بىكار قىلىش"</string>
@@ -62,6 +62,8 @@
     <string name="hiad_download_use_mobile_network" priority="translator">"Wi-Fi غا ئۇلانمىدى، چۈشۈرسىڭىز %1$s ئېقىم مىقدارى خورايدۇ. راستتىنلا چۈشۈرەمسىز؟"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="translator">"نۆۋەتتە WLAN گە ئۇلانمىدى، چۈشۈرۈشكە %1$s ئېقىم كېتىدۇ. راستتىنلا چۈشۈرەمسىز؟"</string>
     <string name="hiad_install_completed" priority="LT">"تامام"</string>
+    <string name="hiad_installed_description" priority="LT">"قاچىلاندى، چېكىپ ئېچىڭ."</string>
+    <string name="hiad_jump_desc" priority="translator">"تەپسىلات بېتى ياكى ئۈچىنچى تەرەپ ئەپىگە ئۆتىدۇ"</string>
     <string name="hiad_landing_page_open_app" priority="translator">"توربەت «%1$s» نى ئاچىدۇ. رۇخسەتمۇ؟"</string>
     <string name="hiad_link_already_copied" priority="translator">"ئۇلانما كۆچۈرۈلدى"</string>
     <string name="hiad_loading_tips" priority="LT">"يۈكلىنىۋاتىدۇ..."</string>
@@ -84,6 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"داۋاملىق كۆرۈش"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ئېلاننى تولۇق كۆرسىڭىز مۇكاپات چىقىدۇ"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"چەكسىڭىز توربېكەت/ئەپ ئېچىلىدۇ"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ئۈستىگە سىيرىش"</string>
+    <string name="hiad_twist_screen" priority="translator">"يانفون چايقاش"</string>
     <string name="hiad_whether_download" priority="LT">"بۇ دېتالنى چۈشۈرەمسىز؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"\u200fWi-Fi دا ئالدىن يۈكلەندى"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"WLAN مۇھىتىدا ئالدىن يۈكلىنىلدى"</string>

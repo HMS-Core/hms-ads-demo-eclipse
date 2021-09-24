@@ -33,7 +33,7 @@
     <string name="hiad_default_skip_text" priority="LT">"رد شدن"</string>
     <string name="hiad_default_skip_text_time" priority="LT">"تا %d ثانیۀ دیگر رد کنید"</string>
     <string name="hiad_detail" priority="LT">"جزئيات"</string>
-    <string name="hiad_detail_download_now" priority="LT">"دانلود"</string>
+    <string name="hiad_detail_download_now" priority="LT">"دانلود کردن"</string>
     <string name="hiad_dialog_accept" priority="LT">"اجازه دادن"</string>
     <string name="hiad_dialog_allow" priority="LT">"اجازه دادن"</string>
     <string name="hiad_dialog_cancel" priority="LT">"لغو"</string>
@@ -62,6 +62,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">"در حال حاضر، به Wi-Fi متصل نیستید. نصب کردن در این زمان %1$s از دادۀ تلفن همراه را مصرف می‌کند. در هر صورت دانلود شود؟"</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"در حال حاضر، به WLAN متصل نیستید. نصب کردن در این زمان %1$s از دادۀ تلفن همراه را مصرف می‌کند. در هر صورت دانلود شود؟"</string>
     <string name="hiad_install_completed" priority="LT">"انجام شد"</string>
+    <string name="hiad_installed_description" priority="LT">"نصب شد. برای بازکردن، لمس کنید."</string>
+    <string name="hiad_jump_desc" priority="translator">"مشاهدۀ جزئیات یا رفتن به برنامه"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"این صفحه می‌خواهد %1$s را باز کند."</string>
     <string name="hiad_link_already_copied" priority="LT">"پیوند کپی شد."</string>
     <string name="hiad_loading_tips" priority="LT">"در حال بارگیری…"</string>
@@ -84,6 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ادامۀ تماشا"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"این تبلیغ را تا آخر تماشا کنید و پاداش بگیرید."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"برای باز کردن وب‌سایت/برنامه، لمس کنید"</string>
+    <string name="hiad_swipe_screen" priority="translator">"کشیدن انگشت به سمت بالا"</string>
+    <string name="hiad_twist_screen" priority="translator">"تکان دادن تلفن"</string>
     <string name="hiad_whether_download" priority="LT">"این برنامه دانلود شود؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"از طریق Wi-Fi بارگیری اولیه شده"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"از پیش بارگیری‌شده"</string>

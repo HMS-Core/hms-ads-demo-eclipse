@@ -3,15 +3,15 @@
     android:shape="rectangle">
     <item>
         <shape>
-            <corners android:radius="20dp"/>
-            <solid android:color="@color/hiad_30_percent_white" />
+            <corners android:radius="36dp"/>
+            <solid android:color="#66ffffff" />
         </shape>
     </item>
 
     <item>
         <shape>
-            <corners android:radius="20dp"/>
-            <solid android:color="@color/hiad_30_percent_black" />
+            <corners android:radius="36dp"/>
+            <solid android:color="#994d4d4d" />
         </shape>
     </item>
 </layer-list>

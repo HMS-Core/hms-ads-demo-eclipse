@@ -7,10 +7,12 @@
     <color name="hiad_30_percent_white">#4cffffff</color>
     <color name="hiad_40_percent_white">#66ffffff</color>
     <color name="hiad_50_percent_black">#80000000</color>
+    <color name="hiad_50_percent_white">#7fffffff</color>
     <color name="hiad_62_percent_black">#9E000000</color>
     <color name="hiad_70_percent_black">#b2000000</color>
     <color name="hiad_80_percent_white">#ccffffff</color>
     <color name="hiad_90_percent_white">#e5ffffff</color>
+    <color name="hiad_90_white">#e5ffffff</color>
     <color name="hiad_activie_app_desc_color">#99000000</color>
     <color name="hiad_app_down_installing_bg">#0D000000</color>
     <color name="hiad_app_down_installing_bg_hm">#330A59F7</color>
@@ -61,6 +63,7 @@
     <dimen name="hiad_14_dp">14dp</dimen>
     <dimen name="hiad_16_dp">16dp</dimen>
     <dimen name="hiad_17_dp">17dp</dimen>
+    <dimen name="hiad_18_dp">18dp</dimen>
     <dimen name="hiad_1_dp">1dp</dimen>
     <dimen name="hiad_20_dp">20dp</dimen>
     <dimen name="hiad_22_dp">22dp</dimen>
@@ -70,10 +73,12 @@
     <dimen name="hiad_36_dp">36dp</dimen>
     <dimen name="hiad_3_dp">3dp</dimen>
     <dimen name="hiad_40_dp">40dp</dimen>
+    <dimen name="hiad_46_dp">46dp</dimen>
     <dimen name="hiad_48_dp">48dp</dimen>
     <dimen name="hiad_4_dp">4dp</dimen>
     <dimen name="hiad_54_dp">54dp</dimen>
     <dimen name="hiad_56_dp">56dp</dimen>
+    <dimen name="hiad_64_dp">64dp</dimen>
     <dimen name="hiad_66_dp">66dp</dimen>
     <dimen name="hiad_6_dp">6dp</dimen>
     <dimen name="hiad_72_dp">72dp</dimen>
@@ -170,6 +175,8 @@
     <string name="hiad_download_use_mobile_network" priority="LT">You are currently not connected to Wi-Fi. Downloading now will use %1$s of mobile data. Download anyway?</string>
     <string name="hiad_download_use_mobile_network_zh" priority="LT">You are currently not connected to WLAN. Downloading now will use %1$s of mobile data.</string>
     <string name="hiad_install_completed" priority="LT">Done</string>
+    <string name="hiad_installed_description">Installation successful, Click open</string>
+    <string name="hiad_jump_desc" priority="translator">jump to the details page or third-party application</string>
     <string name="hiad_landing_page_open_app" priority="LT">This page wants to open %1$s.</string>
     <string name="hiad_link_already_copied" priority="LT">Link copied.</string>
     <string name="hiad_loading_tips">Loading…</string>
@@ -183,6 +190,7 @@
     <string name="hiad_open_in_browser" priority="LT">Open in browser</string>
     <string name="hiad_page_load_failed" priority="LT">Unable to load page. Please try again.</string>
     <string name="hiad_permission_dialog_title" priority="LT">%1$s requires the following permissions:</string>
+    <string name="hiad_preorder_download" priority="LT">Pre-order</string>
     <string name="hiad_prepare_download" priority="translator">Wait for Wi-Fi</string>
     <string name="hiad_prepare_download_title" priority="translator">Download over mobile network?</string>
     <string name="hiad_prepare_download_zh" priority="translator">Wait for WLAN</string>
@@ -192,6 +200,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">Keep watching</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">Finish watching this ad to earn a reward.</string>
     <string name="hiad_splash_pro_desc">Touch to open the website/app</string>
+    <string name="hiad_swipe_screen" priority="translator">Swipe the screen up</string>
+    <string name="hiad_twist_screen" priority="translator">Twist the screen</string>
     <string name="hiad_whether_download" priority="LT">Download this app?</string>
     <string name="hiad_wifi_loaded_already" priority="LT">Pre-loaded over Wi-Fi</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">Preloaded</string>
