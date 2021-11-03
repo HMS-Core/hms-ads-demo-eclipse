@@ -2,17 +2,17 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2019-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.consent"
-    android:versionCode="30447302"
-    android:versionName="3.4.47.302" >
+    android:versionCode="30448301"
+    android:versionName="3.4.48.301" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="29" />
+        android:targetSdkVersion="30" />
 
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-consent"
-            android:value="ads-consent:3.4.47.302" />
+            android:value="ads-consent:3.4.48.301" />
     </application>
 
 </manifest>

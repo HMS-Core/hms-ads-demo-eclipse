@@ -2,12 +2,12 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.base"
-    android:versionCode="130447302"
-    android:versionName="13.4.47.302" >
+    android:versionCode="130448301"
+    android:versionName="13.4.48.301" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="29" />
+        android:targetSdkVersion="30" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -16,7 +16,7 @@
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-base"
-            android:value="ads-base:13.4.47.302" />
+            android:value="ads-base:13.4.48.301" />
 
         <activity
             android:name="com.huawei.openalliance.ad.activity.PPSLauncherActivity"

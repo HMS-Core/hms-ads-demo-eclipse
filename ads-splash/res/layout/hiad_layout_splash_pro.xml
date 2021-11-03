@@ -12,7 +12,7 @@
         app:layoutRadius="36dp"
         app:layoutScanImage="@drawable/hiad_scan">
 
-        <LinearLayout
+        <com.huawei.openalliance.ad.views.RoundLinearLayout
             android:id="@+id/hiad_pro_desc_layout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -49,6 +49,6 @@
                 android:layout_gravity="center_vertical"
                 android:gravity="center_vertical"/>
 
-        </LinearLayout>
+        </com.huawei.openalliance.ad.views.RoundLinearLayout>
     </com.huawei.openalliance.ad.views.ScanningRelativeLayout>
 </RelativeLayout>
