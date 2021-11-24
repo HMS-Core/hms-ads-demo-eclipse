@@ -2,8 +2,8 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.base"
-    android:versionCode="130448301"
-    android:versionName="13.4.48.301" >
+    android:versionCode="130449301"
+    android:versionName="13.4.49.301" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -16,7 +16,7 @@
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-base"
-            android:value="ads-base:13.4.48.301" />
+            android:value="ads-base:13.4.49.301" />
 
         <activity
             android:name="com.huawei.openalliance.ad.activity.PPSLauncherActivity"
@@ -62,6 +62,10 @@
                 android:name="hwc-theme"
                 android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
         </activity>
+
+        <meta-data
+            android:name="com.huawei.hms.min_api_level:pps-phone:adsbrainkit"
+            android:value="1" />
     </application>
 
 </manifest>

@@ -2,9 +2,9 @@
 <resources>
     <plurals name="hiad_dismiss_dilaog">
         <item priority="translator" quantity="one">"سيُغلق مربع الحوار هذا تلقائيًا في غضون ثانية واحدة."</item>
-        <item priority="translator" quantity="zero">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثواني."</item>
+        <item priority="translator" quantity="zero">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثوانٍ."</item>
         <item priority="translator" quantity="two">"سيُغلق مربع الحوار هذا تلقائيًا في غضون ثانيتين."</item>
-        <item priority="translator" quantity="few">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثواني."</item>
+        <item priority="translator" quantity="few">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثوانٍ."</item>
         <item priority="translator" quantity="many">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثانية."</item>
         <item priority="translator" quantity="other">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثانية."</item>
     </plurals>
@@ -18,9 +18,9 @@
     </plurals>
     <plurals name="hiad_reward_countdown">
         <item priority="LT" quantity="one">"ثانية واحدة"</item>
-        <item priority="translator" quantity="zero">"%1$d ثواني"</item>
+        <item priority="translator" quantity="zero">"%1$d ثوانٍ"</item>
         <item priority="LT" quantity="two">"ثانيتان"</item>
-        <item priority="LT" quantity="few">"%1$d ثواني"</item>
+        <item priority="LT" quantity="few">"%1$d ثوانٍ"</item>
         <item priority="translator" quantity="many">"%1$d ثانية"</item>
         <item priority="translator" quantity="other">"%1$d ثانية"</item>
     </plurals>
@@ -78,7 +78,7 @@
     <string name="hiad_jump_desc" priority="translator">"عرض التفاصيل أو الانتقال إلى التطبيق."</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ترغب هذه الصفحة في فتح \"%1$s\"."</string>
     <string name="hiad_link_already_copied" priority="LT">"تم نسخ الرابط"</string>
-    <string name="hiad_loading_tips" priority="LT">"جارِ التحميل..."</string>
+    <string name="hiad_loading_tips" priority="LT">"جارٍ التحميل…"</string>
     <string name="hiad_mobile_download_prompt" priority="LT">"سيستهلك هذا التنزيل حوالي %1$s من بيانات الجوال."</string>
     <string name="hiad_net_error" priority="LT">"مشكلة في الشبكة، يُرجى إعادة المحاولة"</string>
     <string name="hiad_network_error" priority="LT">"مشكلة في اتصال الشبكة"</string>
