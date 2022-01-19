@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"В момента няма връзка с WLAN. Изтеглянето ще използва %1$s от мобилните данни. Изтегляне въпреки това?"</string>
     <string name="hiad_install_completed" priority="LT">"Готово"</string>
     <string name="hiad_installed_description" priority="translator">"Успешно инсталиране. Докоснете, за да отворите."</string>
-    <string name="hiad_jump_desc" priority="translator">"Вижте подробности или отидете към приложението"</string>
+    <string name="hiad_jump_desc" priority="LT">"Вижте подробности или отидете към приложението"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Тази страница иска да отвори %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Връзката е копирана."</string>
     <string name="hiad_loading_tips" priority="LT">"Зареждане…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Продължете да гледате"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Изгледайте рекламата до края, за да спечелите награда."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Докоснете, за да отворите уебсайта/приложението"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Плъзнете нагоре"</string>
-    <string name="hiad_twist_screen" priority="translator">"Разклатете телефона"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Плъзнете нагоре"</string>
+    <string name="hiad_twist_screen" priority="LT">"Разклатете телефона"</string>
     <string name="hiad_whether_download" priority="LT">"Изтегляне на това приложение?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Предварително зареден през Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Предварително заредено"</string>

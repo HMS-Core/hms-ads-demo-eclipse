@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Vous n\'êtes actuellement pas connecté via WLAN. Télécharger maintenant consommera %1$s de données mobiles. Télécharger quand même ?"</string>
     <string name="hiad_install_completed" priority="LT">"OK"</string>
     <string name="hiad_installed_description" priority="translator">"L\'application a été installée. Toucher permet de l\'ouvrir."</string>
-    <string name="hiad_jump_desc" priority="translator">"Voir les détails ou accéder à l\'application"</string>
+    <string name="hiad_jump_desc" priority="LT">"Voir les détails ou accéder à l\'application"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Cette page demande à ouvrir %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Lien copié."</string>
     <string name="hiad_loading_tips" priority="LT">"Chargement en cours."</string>
@@ -86,7 +86,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuer à regarder"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Une récompense peut être obtenue en regardant cette publicité jusqu\'au bout. Continuer ?"</string>
     <string name="hiad_splash_pro_desc" priority="translator">"Toucher pour ouvrir le site Internet/application"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Faire glisser le doigt vers le haut"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Faire glisser le doigt vers le haut"</string>
     <string name="hiad_twist_screen" priority="translator">"Secouer le téléphone"</string>
     <string name="hiad_whether_download" priority="LT">"Télécharger cette application ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Pré-chargée via Wi-Fi"</string>

@@ -75,7 +75,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"अहाँ एखन WLAN सँ कनेक्ट नहि छी। एखन डाउनलोड करब त’ %1$s मोबाइल डेटाक उपयोग करत। तैयो डाउनलोड करी?"</string>
     <string name="hiad_install_completed" priority="LT">"कएल गेल"</string>
     <string name="hiad_installed_description" priority="LT">"इंस्टॉलेशन सफल भेल। खोलबाक लेल छुबू।"</string>
-    <string name="hiad_jump_desc" priority="translator">"विवरण देखू वा एप मे जाउ"</string>
+    <string name="hiad_jump_desc" priority="LT">"विवरण देखू वा एप मे जाउ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ई पेज %1$s केँ खोलय चाहैत अछि।"</string>
     <string name="hiad_link_already_copied" priority="LT">"लिंक कॉपी कयल गेल।"</string>
     <string name="hiad_loading_tips" priority="LT">"लोड भए रहल अछि…"</string>
@@ -98,8 +98,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"देखैत रहू"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"इनाम अर्जित करबाक लेल एहि विज्ञापन केँ अंत धरि देखू।"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"वेबसाइट/एप खोलबाक लेल छुबू"</string>
-    <string name="hiad_swipe_screen" priority="translator">"उपर दिस स्वाइप करू"</string>
-    <string name="hiad_twist_screen" priority="translator">"फोन केँ शेक करू"</string>
+    <string name="hiad_swipe_screen" priority="LT">"उपर दिस स्वाइप करू"</string>
+    <string name="hiad_twist_screen" priority="LT">"फोन केँ शेक करू"</string>
     <string name="hiad_whether_download" priority="LT">"ई एप डाउनलोड करी?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi सँ पहिनुका लोड कयल"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"पहिने सँ लोड कयल गेल"</string>

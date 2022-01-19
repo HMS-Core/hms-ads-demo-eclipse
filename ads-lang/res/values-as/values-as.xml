@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"আপুনি সাম্প্ৰতিক WLAN-লৈ সংযোজিত হোৱা নাই। এতিয়া ডাউনলোড কৰিলে %1$s ম\'বাইল ডাটা ব্যৱহাৰ হ\'ব। যিকোনো উপায়েৰে ডাউনলোড কৰিবনে?"</string>
     <string name="hiad_install_completed" priority="LT">"সম্পন্ন হ\'ল"</string>
     <string name="hiad_installed_description" priority="LT">"ইনষ্টলেশ্বন সফল হ\'ল। খুলিবলৈ স্পৰ্শ কৰক।"</string>
-    <string name="hiad_jump_desc" priority="translator">"বিৱৰণ চাওক বা এপ্প্‌টোলৈ যাওক"</string>
+    <string name="hiad_jump_desc" priority="LT">"বিৱৰণ চাওক বা এপ্প্‌টোলৈ যাওক"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"এই পৃষ্ঠাই %1$s খুলিবলৈ বিচাৰিছে।"</string>
     <string name="hiad_link_already_copied" priority="LT">"লিংক প্ৰতিলিপি কৰা হ\'ল।"</string>
     <string name="hiad_loading_tips" priority="LT">"লোড হৈ আছে…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"চাই থাকক"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"এটা পুৰষ্কাৰ পাবলৈ এই বিজ্ঞাপনটো চোৱাটো সমাপ্ত কৰক।"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ৱেবছাইট/এপ্প্‌ খুলিবলৈ স্পৰ্শ কৰক"</string>
-    <string name="hiad_swipe_screen" priority="translator">"ওপৰলৈ ছোৱাইপ কৰক"</string>
-    <string name="hiad_twist_screen" priority="translator">"ফোনটো জোকাৰক"</string>
+    <string name="hiad_swipe_screen" priority="LT">"ওপৰলৈ ছোৱাইপ কৰক"</string>
+    <string name="hiad_twist_screen" priority="LT">"ফোনটো জোকাৰক"</string>
     <string name="hiad_whether_download" priority="LT">"এই এপ্প্‌টো ডাউনলোড কৰিবনে?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi-ৰ যোগেদি পূৰ্বে-লোড হৈছে"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"পূৰ্বেলোড কৰা"</string>

@@ -2,21 +2,24 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.base"
-    android:versionCode="130449301"
-    android:versionName="13.4.49.301" >
+    android:versionCode="130450300"
+    android:versionName="13.4.50.300" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+    <uses-permission android:name="com.hihonor.permission.MANAGE_FOLD_SCREEN" />
+    <uses-permission android:name="com.hihonor.permission.MANAGE_FOLD_SCREEN_PRIVILEGED" />
 
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-base"
-            android:value="ads-base:13.4.49.301" />
+            android:value="ads-base:13.4.50.300" />
 
         <activity
             android:name="com.huawei.openalliance.ad.activity.PPSLauncherActivity"
@@ -36,6 +39,9 @@
             <meta-data
                 android:name="hwc-theme"
                 android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+            <meta-data
+                android:name="hnc-theme"
+                android:value="androidhnext:style/Theme.magic.Translucent.NoTitleBar" />
         </activity>
         <activity
             android:name="com.huawei.openalliance.ad.activity.PPSBridgeActivity"
@@ -44,6 +50,9 @@
             <meta-data
                 android:name="hwc-theme"
                 android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+            <meta-data
+                android:name="hnc-theme"
+                android:value="androidhnext:style/Theme.magic.Translucent.NoTitleBar" />
         </activity>
         <activity
             android:name="com.huawei.openalliance.ad.activity.PPSNotificationActivity"
@@ -52,6 +61,9 @@
             <meta-data
                 android:name="hwc-theme"
                 android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+            <meta-data
+                android:name="hnc-theme"
+                android:value="androidhnext:style/Theme.magic.Translucent.NoTitleBar" />
         </activity>
         <activity
             android:name="com.huawei.openalliance.ad.activity.AgProtocolActivity"
@@ -61,6 +73,9 @@
             <meta-data
                 android:name="hwc-theme"
                 android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar" />
+            <meta-data
+                android:name="hnc-theme"
+                android:value="androidhnext:style/Theme.magic.Translucent.NoTitleBar" />
         </activity>
 
         <meta-data

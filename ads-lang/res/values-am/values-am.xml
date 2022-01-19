@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"አሁን ከ WLAN ጋር ግንኙነት አላረጉም።አሁን ማውረድ %1$s የሞባይል ውሂብ ይጠቀማል። ቢሆንም አውርድ?"</string>
     <string name="hiad_install_completed" priority="LT">"ተከናውኗል"</string>
     <string name="hiad_installed_description" priority="LT">"መጫን ተሳክቷል። ለመክፈት ይንኩ።"</string>
-    <string name="hiad_jump_desc" priority="translator">"ዝርዝሮችን ይመልከቱ ወይም ወደ መተግበሪያው ይሂዱ"</string>
+    <string name="hiad_jump_desc" priority="LT">"ዝርዝሮችን ይመልከቱ ወይም ወደ መተግበሪያው ይሂዱ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ይህ ገጽ %1$sን መክፈት ይፈልጋል።"</string>
     <string name="hiad_link_already_copied" priority="LT">"ሊንኩ ተቀድቷል።"</string>
     <string name="hiad_loading_tips" priority="LT">"በመጫን ላይ…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"መመልከቱን ይቀጥሉ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ሽልማት ለማግኘት ይህን ማስታወቂያ አይተው ይጨርሱ።"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ድር ጣቢያውን/መተግበሪያውን ለመክፈት ይንኩ"</string>
-    <string name="hiad_swipe_screen" priority="translator">"ወደ ላይ ይጥረጉ"</string>
-    <string name="hiad_twist_screen" priority="translator">"ስልኩን ይነቅንቁ"</string>
+    <string name="hiad_swipe_screen" priority="LT">"ወደ ላይ ይጥረጉ"</string>
+    <string name="hiad_twist_screen" priority="LT">"ስልኩን ይነቅንቁ"</string>
     <string name="hiad_whether_download" priority="LT">"ይህ መተግበሪያ ይውረድ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"በ Wi-Fi ቀድሞ ተጭነዋል"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ቅድሚያ ተጭኗል"</string>

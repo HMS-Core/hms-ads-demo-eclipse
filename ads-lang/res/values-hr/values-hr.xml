@@ -66,7 +66,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Trenutačno niste povezani s WLAN mrežom. Potrošit ćete %1$s mobilnih podataka. Svejedno preuzeti?"</string>
     <string name="hiad_install_completed" priority="LT">"Gotovo"</string>
     <string name="hiad_installed_description" priority="translator">"Instalacija je uspjela. Dodirnite da biste otvorili aplikaciju."</string>
-    <string name="hiad_jump_desc" priority="translator">"Prikažite pojedinosti ili otvorite aplikaciju"</string>
+    <string name="hiad_jump_desc" priority="LT">"Prikažite pojedinosti ili otvorite aplikaciju"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Ova stranica želi otvoriti %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Poveznica je kopirana."</string>
     <string name="hiad_loading_tips" priority="LT">"Učitavanje…"</string>
@@ -89,8 +89,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Nastavi pratiti"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Pogledajte ovaj oglas do kraja kako biste dobili nagradu."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Dodirnite da biste otvorili web-mjesto/aplikaciju"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Kliznite prema gore"</string>
-    <string name="hiad_twist_screen" priority="translator">"Protresite telefon"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Kliznite prema gore"</string>
+    <string name="hiad_twist_screen" priority="LT">"Protresite telefon"</string>
     <string name="hiad_whether_download" priority="LT">"Preuzeti ovu aplikaciju?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Unaprijed učitano putem Wi-Fi mreže"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Prethodno učitano"</string>

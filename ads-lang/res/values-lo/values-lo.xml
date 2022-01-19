@@ -60,7 +60,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"ປະ​ຈຸ​ບັນ​ທ່ານ​ບໍ່​ໄດ້​ເຊື່ອມ​ຕໍ່​ກັບ WLAN. ດຽວ​ນີ້ການ​ດາວ​ໂຫຼດ​ຈະ​ໃຊ້ %1$s ຂອງ​ຂໍ້​ມູນມື​ຖື. ແນວ​ໃດ​ກໍ່ດາວ​ໂຫຼດບໍ?"</string>
     <string name="hiad_install_completed" priority="LT">"ສໍາເລັດ"</string>
     <string name="hiad_installed_description" priority="LT">"ການຕິດ​ຕັ້ງສຳ​ເລັດຜົນ. ສຳ​ຜັດ​ເພື່ອ​ເປີດ."</string>
-    <string name="hiad_jump_desc" priority="translator">"ເບິ່ງ​ລາຍ​​ລະ​ອຽດ ຫຼື ​​ໄປ​​ທີ່ແອັບ"</string>
+    <string name="hiad_jump_desc" priority="LT">"ເບິ່ງ​ລາຍ​​ລະ​ອຽດ ຫຼື ​​ໄປ​​ທີ່ແອັບ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ໜ້າ​ນີ້​ຕ້ອງ​ການ​ເປີດ %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"ກັອບ​ປີ້ລິ້ງ​ແລ້ວ."</string>
     <string name="hiad_loading_tips" priority="LT">"ກຳລັງ​ໂຫຼດ…"</string>
@@ -83,8 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ສືບ​ຕໍ່​ຕິດ​ຕາມ​ເບິ່ງ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"​ເບິ່ງ​ໂຄ​ສະ​ນາ​ນີ້ໃຫ້ສຳເລັດເພື່ອ​ໄດ້ຮັບລາງວັນ."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ສຳ​ຜັດ​ເພື່ອ​ເປີດ​ເວັບ​ໄຊ/ແອັບ"</string>
-    <string name="hiad_swipe_screen" priority="translator">"ປັດ​ຂຶ້ນ"</string>
-    <string name="hiad_twist_screen" priority="translator">"ສັ່ນ​ໂທ​ລະ​ສັບ"</string>
+    <string name="hiad_swipe_screen" priority="LT">"ປັດ​ຂຶ້ນ"</string>
+    <string name="hiad_twist_screen" priority="LT">"ສັ່ນ​ໂທ​ລະ​ສັບ"</string>
     <string name="hiad_whether_download" priority="LT">"ດາວ​ໂຫຼດ​ແອັບ​ນີ້​ບໍ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"ໂຫຼດ​ໄວ້​ກ່ອນ​ຜ່ານ Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"ໂຫຼດ​ໄວ້​ກ່ອນ​ແລ້ວ"</string>

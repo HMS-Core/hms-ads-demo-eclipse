@@ -2,17 +2,17 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2019-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.jsb"
-    android:versionCode="30449301"
-    android:versionName="3.4.49.301" >
+    android:versionCode="30450300"
+    android:versionName="3.4.50.300" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-jsbridge"
-            android:value="ads-jsbridge:3.4.49.301" />
+            android:value="ads-jsbridge:3.4.50.300" />
         <meta-data
             android:name="com.huawei.hms.min_api_level:pps-phone:adsbrainkit"
             android:value="1" />

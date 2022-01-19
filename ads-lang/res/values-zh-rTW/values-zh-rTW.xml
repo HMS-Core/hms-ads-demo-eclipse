@@ -60,7 +60,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"目前未連線至 WLAN，下載會耗用 %1$s 的數據流量。是否確定下載？"</string>
     <string name="hiad_install_completed" priority="LT">"完成"</string>
     <string name="hiad_installed_description" priority="LT">"安裝完成，輕觸開啟"</string>
-    <string name="hiad_jump_desc" priority="translator">"重新導向至詳細資料頁或第三方應用程式"</string>
+    <string name="hiad_jump_desc" priority="LT">"重新導向至詳細資料頁或第三方應用程式"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"網頁將開啟「%1$s」。是否允許？"</string>
     <string name="hiad_link_already_copied" priority="LT">"連結已複製"</string>
     <string name="hiad_loading_tips" priority="LT">"正在載入…"</string>
@@ -83,8 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"繼續觀看"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"觀看完整影片才可獲得獎勵"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"輕觸重新導向至詳細資料頁或第三方應用程式"</string>
-    <string name="hiad_swipe_screen" priority="translator">"向上滑動螢幕"</string>
-    <string name="hiad_twist_screen" priority="translator">"搖一搖手機"</string>
+    <string name="hiad_swipe_screen" priority="LT">"向上滑動螢幕"</string>
+    <string name="hiad_twist_screen" priority="LT">"搖一搖手機"</string>
     <string name="hiad_whether_download" priority="LT">"是否下載該軟體？"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"已透過 Wi-Fi 預先載入"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"已在 WLAN 下預先載入"</string>

@@ -60,7 +60,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"現在、WLANに接続されていません。今すぐダウンロードを実行すると、%1$sのモバイルデータ通信量が発生します。ダウンロードしますか？"</string>
     <string name="hiad_install_completed" priority="LT">"完了"</string>
     <string name="hiad_installed_description" priority="translator">"インストールが完了しました。タップすると開きます。"</string>
-    <string name="hiad_jump_desc" priority="translator">"詳細を表示するか、アプリに移動します"</string>
+    <string name="hiad_jump_desc" priority="LT">"詳細を表示するか、アプリに移動します"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"このページは、%1$sの起動を要求しています"</string>
     <string name="hiad_link_already_copied" priority="LT">"リンクがコピーされました"</string>
     <string name="hiad_loading_tips" priority="LT">"読み込み中..."</string>
@@ -83,8 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"視聴を継続"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"この広告を最後まで視聴すると、特典を獲得できます"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"タップしてWebサイト/アプリを開く"</string>
-    <string name="hiad_swipe_screen" priority="translator">"上にスワイプ"</string>
-    <string name="hiad_twist_screen" priority="translator">"携帯電話をシェイク"</string>
+    <string name="hiad_swipe_screen" priority="LT">"上にスワイプ"</string>
+    <string name="hiad_twist_screen" priority="LT">"携帯電話をシェイク"</string>
     <string name="hiad_whether_download" priority="LT">"このアプリをダウンロードしますか？"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi経由で事前に読み込み済み"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="Reviewed">"プリロード"</string>

@@ -60,7 +60,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"མིག་སྔར་ WLAN དང་སྦྲེལ་མེད་པས་ཕབ་ལེན་བྱས་ན་བཞུར་ཚད་%1$sཟད་ངེས། ཕབ་ལེན་བྱེད་དམ།"</string>
     <string name="hiad_install_completed" priority="LT">"གྲུབ།"</string>
     <string name="hiad_installed_description" priority="translator">"སྒྲིག་འཇུག་བྱས་ཚར། རྡེབ་ནས་ཁ་ཕྱེ་བ།"</string>
-    <string name="hiad_jump_desc" priority="translator">"ཞིབ་ཕྲའི་གནས་ཚུལ་གྱི་ངོས་སམ་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ལ་མཆོང་པ།"</string>
+    <string name="hiad_jump_desc" priority="LT">"ཞིབ་ཕྲའི་གནས་ཚུལ་གྱི་ངོས་སམ་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ལ་མཆོང་པ།"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"དྲ་ངོས་ཀྱིས་%1$sཁ་ཕྱེ་ངེས། ཆོག་གམ།"</string>
     <string name="hiad_link_already_copied" priority="LT">"སྦྲེལ་བའི་དྲ་ཚིགས་འདྲ་བཤུས་ཟིན།"</string>
     <string name="hiad_loading_tips" priority="LT">"སྣོན་འཇུག་བྱེད་བཞིན་ཡོད།"</string>
@@ -83,8 +83,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"མུ་མཐུད་དུ་གཟིགས།"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"བརྙན་ཟློས་ཆ་ཚང་གཟིགས་ན་ད་གཟོད་བྱ་དགའ་ཐོབ་ཆོག"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"རྡེབ་ནས་ཞིབ་ཕྲའི་གནས་ཚུལ་གྱི་དྲ་ངོས་སམ་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་དུ་མཆོངས་སྒྱུར་བྱེད།"</string>
-    <string name="hiad_swipe_screen" priority="translator">"བརྙན་ཡོལ་ཡར་འདེད་འགུལ།"</string>
-    <string name="hiad_twist_screen" priority="translator">"ལག་ཁྱེར་ཁ་པར་གཡུག་གཡུག་བྱེད།"</string>
+    <string name="hiad_swipe_screen" priority="LT">"བརྙན་ཡོལ་ཡར་འདེད་འགུལ།"</string>
+    <string name="hiad_twist_screen" priority="LT">"ལག་ཁྱེར་ཁ་པར་གཡུག་གཡུག་བྱེད།"</string>
     <string name="hiad_whether_download" priority="LT">"མཉེན་ཆས་འདི་ཕབ་ལེན་བྱེད་དམ།"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi འོག་ཏུ་སྔོན་ནས་སྣོན་འཇུག་བྱས་ཟིན།"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"WLAN འོག་ཏུ་སྔོན་ནས་སྣོན་འཇུག་བྱས་ཟིན།"</string>

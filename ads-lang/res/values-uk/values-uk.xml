@@ -69,7 +69,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Немає підключення до мережі WLAN. Щоб завантажити цей вміст, потрібно використати %1$s мобільних даних. Усе одно завантажити?"</string>
     <string name="hiad_install_completed" priority="LT">"Готово"</string>
     <string name="hiad_installed_description" priority="translator">"Установлення завершено. Торкніться, щоб відкрити."</string>
-    <string name="hiad_jump_desc" priority="translator">"Переглянути деталі або відкрити додаток"</string>
+    <string name="hiad_jump_desc" priority="LT">"Переглянути деталі або відкрити додаток"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Ця сторінка хоче відкрити додаток \"%1$s\"."</string>
     <string name="hiad_link_already_copied" priority="LT">"Посилання скопійовано."</string>
     <string name="hiad_loading_tips" priority="LT">"Завантаження…"</string>
@@ -92,8 +92,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Продовжити перегляд"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Подивіться цю рекламу до кінця й отримаєте нагороду."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Відкрити сайт або додаток"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Проведіть по екрану вгору"</string>
-    <string name="hiad_twist_screen" priority="translator">"Струсіть телефон"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Проведіть по екрану вгору"</string>
+    <string name="hiad_twist_screen" priority="LT">"Струсіть телефон"</string>
     <string name="hiad_whether_download" priority="LT">"Завантажити цей додаток?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Попередньо завантажено через Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Попередньо завантажено"</string>

@@ -75,7 +75,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="translator">"جهازك غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى باستخدام بيانات الجوال سيؤدي إلى استهلاك %1$s. هل حقًا تريد تنزيله؟"</string>
     <string name="hiad_install_completed" priority="LT">"تم"</string>
     <string name="hiad_installed_description" priority="LT">"تم التثبيت بنجاح. انقر هنا لفتحه."</string>
-    <string name="hiad_jump_desc" priority="translator">"عرض التفاصيل أو الانتقال إلى التطبيق."</string>
+    <string name="hiad_jump_desc" priority="LT">"عرض التفاصيل أو الانتقال إلى التطبيق."</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ترغب هذه الصفحة في فتح \"%1$s\"."</string>
     <string name="hiad_link_already_copied" priority="LT">"تم نسخ الرابط"</string>
     <string name="hiad_loading_tips" priority="LT">"جارٍ التحميل…"</string>
@@ -98,8 +98,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"استكمال المشاهدة"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"شاهد هذا الإعلان إلى نهايته لتحصل على مكافأة."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"انقر هنا لفتح موقع الويب/التطبيق"</string>
-    <string name="hiad_swipe_screen" priority="translator">"اسحب للأعلى"</string>
-    <string name="hiad_twist_screen" priority="translator">"رجّ الهاتف"</string>
+    <string name="hiad_swipe_screen" priority="LT">"اسحب للأعلى"</string>
+    <string name="hiad_twist_screen" priority="LT">"رجّ الهاتف"</string>
     <string name="hiad_whether_download" priority="LT">"هل تريد تنزيل هذا التطبيق؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"تم تحميله مُسبقًا عبر الشبكة اللاسلكية"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"تم التحميل مُسبقًا"</string>

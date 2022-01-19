@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"آپ فی الحال WLAN سے مربوط نہیں ہیں۔ اس ڈاؤن لوڈ میں ‎%1$s‎ موبائل ڈیٹا استعمال ہوگا۔ پھر بھی ڈاؤن لوڈ کریں؟"</string>
     <string name="hiad_install_completed" priority="LT">"ہو گیا"</string>
     <string name="hiad_installed_description" priority="LT">"انسٹالیشن کامیاب ہو گئی۔ کھولنے کے لیے چھوئیں۔"</string>
-    <string name="hiad_jump_desc" priority="translator">"تفصیلات دیکھیں یا ایپ پر جائیں"</string>
+    <string name="hiad_jump_desc" priority="LT">"تفصیلات دیکھیں یا ایپ پر جائیں"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"یہ صفحہ ‎%1$s کو کھولنا چاہتا ہے۔"</string>
     <string name="hiad_link_already_copied" priority="LT">"لنک کاپی ہو گئی۔"</string>
     <string name="hiad_loading_tips" priority="LT">"لوڈ ہو رہا ہے…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"دیکھتے رہیں"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"انعام حاصل کرنے کے لیے اس اشتہار کو مکمل دیکھیں۔"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ویب سائٹ/ایپ کو کھولنے کے لئے چھوئیں"</string>
-    <string name="hiad_swipe_screen" priority="translator">"اوپر سوائپ کریں"</string>
-    <string name="hiad_twist_screen" priority="translator">"فون کو ہلائیں"</string>
+    <string name="hiad_swipe_screen" priority="LT">"اوپر سوائپ کریں"</string>
+    <string name="hiad_twist_screen" priority="LT">"فون کو ہلائیں"</string>
     <string name="hiad_whether_download" priority="LT">"یہ ایپ ڈاؤن لوڈ کریں؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"\u200fWi-Fi پر پہلے سے ڈاؤن لوڈ شدہ"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"پہلے سے لوڈ کیا گیا"</string>

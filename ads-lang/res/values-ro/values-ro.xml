@@ -66,7 +66,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Nu sunteți conectat la WLAN. Dacă descărcați acum, veți utiliza %1$s din abonamentul de date mobile. Descărcați oricum?"</string>
     <string name="hiad_install_completed" priority="LT">"Terminat"</string>
     <string name="hiad_installed_description" priority="translator">"Instalare reușită. Atingeți pentru a deschide."</string>
-    <string name="hiad_jump_desc" priority="translator">"Vizualizați detaliile sau mergeți la aplicație"</string>
+    <string name="hiad_jump_desc" priority="LT">"Vizualizați detaliile sau mergeți la aplicație"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Această pagină dorește să deschidă %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link copiat."</string>
     <string name="hiad_loading_tips" priority="LT">"Se încarcă…"</string>
@@ -89,8 +89,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuați să urmăriți"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Vizionați această reclamă până la capăt pentru a câștiga o recompensă."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Atingeți pentru a deschide site-ul web/aplicația"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Treceți cu degetul în sus"</string>
-    <string name="hiad_twist_screen" priority="translator">"Scuturați telefonul"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Treceți cu degetul în sus"</string>
+    <string name="hiad_twist_screen" priority="LT">"Scuturați telefonul"</string>
     <string name="hiad_whether_download" priority="LT">"Descărcați această aplicație?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Preîncărcat prin Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Preîncărcat"</string>

@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Du är för närvarande inte ansluten till WLAN. Om du laddar ned nu kommer %1$s mobildata att användas. Ladda ned ändå?"</string>
     <string name="hiad_install_completed" priority="LT">"Färdig"</string>
     <string name="hiad_installed_description" priority="LT">"Installation klar. Peka för att öppna."</string>
-    <string name="hiad_jump_desc" priority="translator">"Visa detaljer eller gå till appen"</string>
+    <string name="hiad_jump_desc" priority="LT">"Visa detaljer eller gå till appen"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Den här sidan vill öppna %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Länk kopierad."</string>
     <string name="hiad_loading_tips" priority="LT">"Laddar …"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsätt titta"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Titta klart på den här annonsen för att få en belöning."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Peka för att öppna webbplats/app"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Svep uppåt"</string>
-    <string name="hiad_twist_screen" priority="translator">"Skaka telefonen"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Svep uppåt"</string>
+    <string name="hiad_twist_screen" priority="LT">"Skaka telefonen"</string>
     <string name="hiad_whether_download" priority="LT">"Vill du ladda ned den här appen?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Förinstallerad över Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Förinläst"</string>

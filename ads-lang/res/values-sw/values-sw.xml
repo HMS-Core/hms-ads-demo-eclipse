@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kwa sasa hujaunganishwa kwenye WLAN. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
     <string name="hiad_install_completed" priority="LT">"Imefanyika"</string>
     <string name="hiad_installed_description" priority="LT">"Usakinishaji umefaulu. Gusa kufungua."</string>
-    <string name="hiad_jump_desc" priority="translator">"Tazama maelezo au nenda kwenye programu"</string>
+    <string name="hiad_jump_desc" priority="LT">"Tazama maelezo au nenda kwenye programu"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Ukurasa huu unataka kufungua %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Kiungo kimenakiliwa."</string>
     <string name="hiad_loading_tips" priority="LT">"Inapakia…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Endelea kutazama"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Maliza kutazama tangazo hili ili kupata tuzo."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Gusa ili kufungua tovuti/programu"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Telezesha juu"</string>
-    <string name="hiad_twist_screen" priority="translator">"Tikisa simu"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Telezesha juu"</string>
+    <string name="hiad_twist_screen" priority="LT">"Tikisa simu"</string>
     <string name="hiad_whether_download" priority="LT">"Pakua programu hii?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Imepakiwa awali kupitia Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Imepakiwa awali"</string>

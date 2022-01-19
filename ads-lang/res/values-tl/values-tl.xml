@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kasalukuyan kang hindi nakakonekta sa WLAN. Kapag nag-download ngayon, gagamit ng %1$s ng mobile data. I-download pa rin?"</string>
     <string name="hiad_install_completed" priority="LT">"Tapos na"</string>
     <string name="hiad_installed_description" priority="translator">"Matagumpay ang pag-install. Pindutin para buksan."</string>
-    <string name="hiad_jump_desc" priority="translator">"Tingnan ang mga detalye o pumunta sa app"</string>
+    <string name="hiad_jump_desc" priority="LT">"Tingnan ang mga detalye o pumunta sa app"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Gustong buksan ng page na ito ang %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Nakopya ang link."</string>
     <string name="hiad_loading_tips" priority="LT">"Naglo-load…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Magpatuloy sa panonood"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Panoorin ang ad na ito hanggang matapos para makakuha ng reward."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Pindutin para buksan ang website/app"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Mag-swipe pataas"</string>
-    <string name="hiad_twist_screen" priority="translator">"Alugin ang telepono"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Mag-swipe pataas"</string>
+    <string name="hiad_twist_screen" priority="LT">"Alugin ang telepono"</string>
     <string name="hiad_whether_download" priority="LT">"I-download ang app na ito?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Paunang na-load sa pamamagitan ng Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Naka-preload"</string>

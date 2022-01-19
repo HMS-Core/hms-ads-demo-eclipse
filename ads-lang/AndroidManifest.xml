@@ -2,17 +2,17 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.lang"
-    android:versionCode="130449301"
-    android:versionName="13.4.49.301" >
+    android:versionCode="130450300"
+    android:versionName="13.4.50.300" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-lang"
-            android:value="ads-lang:13.4.49.301" />
+            android:value="ads-lang:13.4.50.300" />
     </application>
 
 </manifest>

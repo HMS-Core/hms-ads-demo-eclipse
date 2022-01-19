@@ -75,7 +75,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kāore koe i te tūhono ki te WLAN i tēnei wā. Ki te tikiake ināianei ka whakamahi i te %1$s o ngā raraunga pūkoro. Me tikiake tonu?"</string>
     <string name="hiad_install_completed" priority="LT">"Kua oti"</string>
     <string name="hiad_installed_description" priority="LT">"I momoho te tāuta. Pā atu hei huaki."</string>
-    <string name="hiad_jump_desc" priority="translator">"Tirohia ngā taipitopito, haere ki te taupānga"</string>
+    <string name="hiad_jump_desc" priority="LT">"Tirohia ngā taipitopito, haere ki te taupānga"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Kei te hiahia tēnei whārangi ki te huaki %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Kua tāruatia te hono."</string>
     <string name="hiad_loading_tips" priority="LT">"Uta ana…"</string>
@@ -98,8 +98,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Mātaki haere tonu"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Me whakamutu te mātakitaki i tēnei pānui hokohoko hei whiwhi i tētahi utu."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Pā atu hei huaki i te paetukutuku/taupānga"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Miri tōrunga"</string>
-    <string name="hiad_twist_screen" priority="translator">"Rurerurea te waea"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Miri whakarunga"</string>
+    <string name="hiad_twist_screen" priority="LT">"Rurerurea te waea"</string>
     <string name="hiad_whether_download" priority="LT">"Tikiake tēnei taupānga?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Kua uta tōmuatia mā te Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Utamua"</string>

@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"You are currently not connected to WLAN. Downloading now will use %1$s of mobile data."</string>
     <string name="hiad_install_completed" priority="translator">"Done"</string>
     <string name="hiad_installed_description" priority="LT">"Installation successful. Touch to open."</string>
-    <string name="hiad_jump_desc" priority="translator">"View details or go to the app"</string>
+    <string name="hiad_jump_desc" priority="LT">"View details or go to the app"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"This page wants to open %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link copied."</string>
     <string name="hiad_loading_tips" priority="LT">"Loading…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Keep watching"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Finish watching this ad to earn a reward."</string>
     <string name="hiad_splash_pro_desc" priority="translator">"Touch to open the website/app"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Swipe up"</string>
-    <string name="hiad_twist_screen" priority="translator">"Shake the phone"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Swipe up"</string>
+    <string name="hiad_twist_screen" priority="LT">"Shake the phone"</string>
     <string name="hiad_whether_download" priority="LT">"Download this app?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Pre-loaded over Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Preloaded"</string>

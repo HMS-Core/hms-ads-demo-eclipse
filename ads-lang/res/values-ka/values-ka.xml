@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"ამჟამად WLAN-თან არ ხართ დაკავშირებული. ჩამოტვირთვა გამოიყენებს მობილური მონაცემების %1$s-ს. მაინც ჩამოვტვირთოთ?"</string>
     <string name="hiad_install_completed" priority="LT">"შესრულებულია"</string>
     <string name="hiad_installed_description" priority="translator">"ინსტალაცია წარმატებით განხორციელდა. შეეხეთ გასახსნელად."</string>
-    <string name="hiad_jump_desc" priority="translator">"ნახეთ დეტალები ან გადადით აპში"</string>
+    <string name="hiad_jump_desc" priority="LT">"ნახეთ დეტალები ან გადადით აპში"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ამ გვერდს სურს %1$s-ის გახსნა."</string>
     <string name="hiad_link_already_copied" priority="LT">"ბმული კოპირებულია."</string>
     <string name="hiad_loading_tips" priority="LT">"იტვირთება…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ყურების გაგრძელება"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"დაასრულეთ ამ რეკლამის ყურება ჯილდოს მისაღებად."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"შეეხეთ, რომ გახსნათ ვებსაიტი/აპი"</string>
-    <string name="hiad_swipe_screen" priority="translator">"გადასმა ზემოთ"</string>
-    <string name="hiad_twist_screen" priority="translator">"შეარხიეთ ტელეფონი"</string>
+    <string name="hiad_swipe_screen" priority="LT">"გადაუსვით ზემოთ"</string>
+    <string name="hiad_twist_screen" priority="LT">"შეარხიეთ ტელეფონი"</string>
     <string name="hiad_whether_download" priority="LT">"ჩამოიტვირთოს ეს აპი?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"წინასწარ დატვირთული Wi-Fi-ის მეშვეობით"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"წინასწარ ჩატვირთული"</string>

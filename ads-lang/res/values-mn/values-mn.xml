@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Та одоогоор WLAN-д холбогдоогүй байна. Одоо татснаар %1$s гар утасны дата ашиглана. Ямар ч байсан татах уу?"</string>
     <string name="hiad_install_completed" priority="LT">"Боллоо"</string>
     <string name="hiad_installed_description" priority="translator">"Амжилттай суулгалаа. Нээхийн тулд дарна уу."</string>
-    <string name="hiad_jump_desc" priority="translator">"Дэлгэрэнгүйг харах буюу апликэйшн рүү очно уу"</string>
+    <string name="hiad_jump_desc" priority="LT">"Дэлгэрэнгүйг харах буюу апликэйшн рүү очно уу"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Энэ хуудас %1$s-г нээхийг хүсэж байна."</string>
     <string name="hiad_link_already_copied" priority="LT">"Холбоос хуулагдлаа."</string>
     <string name="hiad_loading_tips" priority="LT">"Ачаалж байна…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Үзсээр байх"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Энэ зарыг үзэж дуусгаад шагнал аваарай."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Вэбсайт/апликэйшнийг нээхийн тулд дарна уу"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Дээш зурах"</string>
-    <string name="hiad_twist_screen" priority="translator">"Утсыг сэгсэрнэ үү"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Дээш зурах"</string>
+    <string name="hiad_twist_screen" priority="LT">"Утсыг сэгсэрнэ үү"</string>
     <string name="hiad_whether_download" priority="LT">"Энэ аппликэйшнийг татах уу?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi-аар урьдчилан ачаалсан"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Урьдчилан ачаалсан"</string>

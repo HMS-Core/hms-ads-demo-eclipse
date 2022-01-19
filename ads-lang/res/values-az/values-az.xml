@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Hazırda WLAN bağlantınız yoxdur. İndi endirmək %1$s mobil şəbəkədən istifadə edəcək. Yenə də endir?"</string>
     <string name="hiad_install_completed" priority="LT">"Hazırdır"</string>
     <string name="hiad_installed_description" priority="LT">"Uğurla quraşdırıldı. Açmaq üçün toxunun."</string>
-    <string name="hiad_jump_desc" priority="translator">"Təfərrüatlara baxın və ya proqrama keçin"</string>
+    <string name="hiad_jump_desc" priority="LT">"Təfərrüatlara baxın və ya proqrama keçin"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Bu səhifə açmaq istəyir: %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Keçid köçürüldü."</string>
     <string name="hiad_loading_tips" priority="LT">"Yüklənir…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"İzləməyə davam edin"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Mükafat qazanmaq üçün bu reklamı izləyib sona çatdırın."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Veb-saytı/proqramı açmaq üçün toxunun"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Yuxarıya çəkin"</string>
-    <string name="hiad_twist_screen" priority="translator">"Telefonu silkələyin"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Yuxarıya çəkin"</string>
+    <string name="hiad_twist_screen" priority="LT">"Telefonu silkələyin"</string>
     <string name="hiad_whether_download" priority="LT">"Bu proqram endirilsin?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi vasitəsilə əvvəldən yüklənib"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Əvvəlcədən yüklənmiş"</string>

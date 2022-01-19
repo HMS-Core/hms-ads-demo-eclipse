@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"તમે અત્યારે WLAN સાથે કનેક્ટ નથી. હમણાં ડાઉનલોડ કરવાથી %1$s જેટલો મોબાઇલ ડેટા વપરાશે. ગમે તેમ કરી ડાઉનલોડ કરવું છે?"</string>
     <string name="hiad_install_completed" priority="LT">"પૂર્ણ"</string>
     <string name="hiad_installed_description" priority="LT">"ઇન્સ્ટોલેશન સફળ રહ્યું. ખોલવા માટે ટચ કરો."</string>
-    <string name="hiad_jump_desc" priority="translator">"વિગતો જુઓ અથવા એપ્લિકેશન પર જાઓ"</string>
+    <string name="hiad_jump_desc" priority="LT">"વિગતો જુઓ અથવા એપ્લિકેશન પર જાઓ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"આ પૃષ્ઠ %1$sને ખોલવા માંગે છે."</string>
     <string name="hiad_link_already_copied" priority="LT">"લિંક કૉપિ કરી."</string>
     <string name="hiad_loading_tips" priority="LT">"લોડ થઈ રહ્યું છે…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"જોવાનું ચાલુ રાખો"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"પુરસ્કાર મેળવવા માટે આ જાહેરાતને અંત સુધી જુઓ."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"વેબસાઇટ/એપ્લિકેશન ખોલવા માટે ટચ કરો"</string>
-    <string name="hiad_swipe_screen" priority="translator">"ઉપર સ્વાઇપ કરો"</string>
-    <string name="hiad_twist_screen" priority="translator">"ફોન હલાવો"</string>
+    <string name="hiad_swipe_screen" priority="LT">"ઉપર સ્વાઇપ કરો"</string>
+    <string name="hiad_twist_screen" priority="LT">"ફોન હલાવો"</string>
     <string name="hiad_whether_download" priority="LT">"આ એપ્લિકેશન ડાઉનલોડ કરીએ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi દ્વારા પહેલાથી લોડ કરેલ છે"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"પૂર્વે લોડ કરેલ"</string>

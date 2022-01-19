@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Jelenleg nem csatlakozik WLAN-re. Az azonnali letöltés %1$s mobiladat forgalommal jár. Mégis letölti?"</string>
     <string name="hiad_install_completed" priority="LT">"Kész"</string>
     <string name="hiad_installed_description" priority="translator">"A telepítés sikerült. Érintse meg a megnyitáshoz."</string>
-    <string name="hiad_jump_desc" priority="translator">"Tekintse meg a részleteket, vagy lépjen az alkalmazásra"</string>
+    <string name="hiad_jump_desc" priority="LT">"Részletek megtekintése, vagy az alkalmazás megnyitása"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Az oldal meg akarja nyitni a(z) %1$s alkalmazást."</string>
     <string name="hiad_link_already_copied" priority="LT">"Hivatkozás másolva."</string>
     <string name="hiad_loading_tips" priority="LT">"Betöltés..."</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Tovább nézem"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Nézze végig ezt a reklámot a jutalomért."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Érintse meg a webhely/alkalmazás megnyitásához"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Lapozás fel"</string>
-    <string name="hiad_twist_screen" priority="translator">"Rázza meg a telefont"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Lapozzon felfelé"</string>
+    <string name="hiad_twist_screen" priority="LT">"Rázza meg a telefont"</string>
     <string name="hiad_whether_download" priority="LT">"Letölti ezt az alkalmazást?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Előtöltés Wi-Fi-n"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Előzetesen betöltve"</string>

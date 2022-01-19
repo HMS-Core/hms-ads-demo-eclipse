@@ -63,7 +63,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Ez zaude WLANera konektatua une honetan. Orain deskargatzeak datu mugikorren %1$s erabiliko du. Deskargatu hala ere?"</string>
     <string name="hiad_install_completed" priority="LT">"Eginda"</string>
     <string name="hiad_installed_description" priority="LT">"Instalazioa gauzatu da. Ukitu irekitzeko."</string>
-    <string name="hiad_jump_desc" priority="translator">"Ikusi xehetasunak edo joan aplikaziora"</string>
+    <string name="hiad_jump_desc" priority="LT">"Ikusi xehetasunak edo joan aplikaziora"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Orrialde honek %1$s ireki nahi du."</string>
     <string name="hiad_link_already_copied" priority="LT">"Kopiatu da esteka."</string>
     <string name="hiad_loading_tips" priority="LT">"Kargatzen…"</string>
@@ -86,8 +86,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jarraitu ikusten"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Saria irabazteko, amaitu iragarkia ikusten."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Ukitu webgunea/aplikazioa irekitzeko"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Irristatu gora"</string>
-    <string name="hiad_twist_screen" priority="translator">"Astindu telefonoa"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Irristatu gora"</string>
+    <string name="hiad_twist_screen" priority="LT">"Astindu telefonoa"</string>
     <string name="hiad_whether_download" priority="LT">"Aplikazioa deskargatu nahi duzu?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wifi bitartez birkargatua"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Aurrekargatuta"</string>

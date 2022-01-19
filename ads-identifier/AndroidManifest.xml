@@ -2,17 +2,20 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2019-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.ads"
-    android:versionCode="30448301"
-    android:versionName="3.4.48.301" >
+    android:versionCode="30450300"
+    android:versionName="3.4.50.300" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-identifier"
-            android:value="ads-identifier:3.4.48.301" />
+            android:value="ads-identifier:3.4.50.300" />
+        <meta-data
+            android:name="com.huawei.hms.min_api_level:pps-phone:adsbrainkit"
+            android:value="1" />
     </application>
 
 </manifest>
