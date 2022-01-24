@@ -29,6 +29,7 @@
     <string name="hiad_app_installed" priority="LT">"تم تثبيت تطبيق \"%1$s\""</string>
     <string name="hiad_app_open_notification" priority="translator">"اكتمل التثبيت. انقر هنا لفتحه."</string>
     <string name="hiad_app_permission" priority="LT">"الأذونات"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"اضغط زر الرجوع للتخطي"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"الإعلان مخفي"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"غير مهتم"</string>
     <string name="hiad_choices_hide" priority="LT">"إخفاء الإعلان"</string>

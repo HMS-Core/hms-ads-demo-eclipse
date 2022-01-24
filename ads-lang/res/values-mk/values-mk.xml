@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s е инсталирана"</string>
     <string name="hiad_app_open_notification" priority="translator">"Инсталирањето заврши. Допрете за да отворите."</string>
     <string name="hiad_app_permission" priority="LT">"Дозволи"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Притиснете Назад за да прескокнете"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Рекламата е скриена"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Не ме интересира"</string>
     <string name="hiad_choices_hide" priority="LT">"Скриј ја рекламата"</string>

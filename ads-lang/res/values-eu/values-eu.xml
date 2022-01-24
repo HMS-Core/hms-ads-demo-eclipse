@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"Instalatu da %1$s."</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalatu da. Ukitu irekitzeko."</string>
     <string name="hiad_app_permission" priority="LT">"Baimenak"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Sakatu Atzera, saltatzeko"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Iragarkia ezkutatuta"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ez zait interesatzen"</string>
     <string name="hiad_choices_hide" priority="LT">"Ezkutatu iragarkia"</string>

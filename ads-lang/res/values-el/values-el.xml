@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"Η εγκατάσταση της εφαρμογής %1$s έχει ολοκληρωθεί."</string>
     <string name="hiad_app_open_notification" priority="translator">"Η εγκατάσταση ολοκληρώθηκε. Αγγίξτε για άνοιγμα."</string>
     <string name="hiad_app_permission" priority="LT">"Άδειες"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Πατήστε Πίσω για παράλειψη"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Κρυφή διαφήμιση"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Δεν ενδιαφέρομαι"</string>
     <string name="hiad_choices_hide" priority="LT">"Απόκρυψη διαφήμισης"</string>
@@ -63,7 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Αυτή τη στιγμή η συσκευή σας δεν είναι συνδεδεμένη σε WLAN. Αν προχωρήσετε στη λήψη τώρα, θα χρησιμοποιηθούν %1$s δεδομένων κινητής τηλεφωνίας. Λήψη οπωσδήποτε;"</string>
     <string name="hiad_install_completed" priority="LT">"Τέλος"</string>
     <string name="hiad_installed_description" priority="translator">"Επιτυχής εγκατάσταση. Αγγίξτε για άνοιγμα."</string>
-    <string name="hiad_jump_desc" priority="translator">"Προβάλετε λεπτομέρειες ή μεταβείτε στην εφαρμογή"</string>
+    <string name="hiad_jump_desc" priority="LT">"Προβάλετε λεπτομέρειες ή μεταβείτε στην εφαρμογή"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Η σελίδα αυτή θέλει να ανοίξει την εφαρμογή %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Ο σύνδεσμος αντιγράφτηκε."</string>
     <string name="hiad_loading_tips" priority="LT">"Φόρτωση…"</string>
@@ -86,8 +87,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Συνέχιση παρακολούθησης"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Παρακολουθήστε αυτή τη διαφήμιση μέχρι το τέλος για να κερδίσετε μια ανταμοιβή."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Αγγίξτε για να ανοίξει ο ιστότοπος/η εφαρμογή"</string>
-    <string name="hiad_swipe_screen" priority="translator">"Σύρετε προς τα πάνω"</string>
-    <string name="hiad_twist_screen" priority="translator">"Κουνήστε το τηλέφωνο"</string>
+    <string name="hiad_swipe_screen" priority="LT">"Σύρετε προς τα πάνω"</string>
+    <string name="hiad_twist_screen" priority="LT">"Κουνήστε το τηλέφωνο"</string>
     <string name="hiad_whether_download" priority="LT">"Να γίνει λήψη αυτής της εφαρμογής;"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Προφορτώθηκε μέσω του Wi-Fi."</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Προφορτωμένο"</string>

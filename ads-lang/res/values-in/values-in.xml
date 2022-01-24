@@ -14,6 +14,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s telah dipasang"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalasi selesai. Sentuh untuk membuka."</string>
     <string name="hiad_app_permission" priority="LT">"Izin"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Tekan Kembali untuk melewati"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Iklan disembunyikan"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Tidak tertarik"</string>
     <string name="hiad_choices_hide" priority="translator">"Sembunyikan iklan"</string>

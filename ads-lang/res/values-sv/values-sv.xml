@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s har installerats"</string>
     <string name="hiad_app_open_notification" priority="translator">"Installation klar. Peka för att öppna."</string>
     <string name="hiad_app_permission" priority="LT">"Behörigheter"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Tryck på Bakåt för att hoppa över"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Annons dold"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Inte intresserad"</string>
     <string name="hiad_choices_hide" priority="translator">"Dölj annons"</string>

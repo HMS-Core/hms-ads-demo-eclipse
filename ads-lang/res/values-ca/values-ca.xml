@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s s\'ha instal·lat"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instal·lació completa. Premeu per obrir-la."</string>
     <string name="hiad_app_permission" priority="LT">"Permisos"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Premeu Enrere per ometre"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Anunci amagat"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"No m\'interessa"</string>
     <string name="hiad_choices_hide" priority="translator">"Amaga l\'anunci"</string>

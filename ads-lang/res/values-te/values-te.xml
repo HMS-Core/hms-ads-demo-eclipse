@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s ఇన్‌స్టాల్ చేయబడింది"</string>
     <string name="hiad_app_open_notification" priority="translator">"ఇన్‌స్టాలేషన్ పూర్తయ్యింది. తెరవడం కోసం నొక్కండి."</string>
     <string name="hiad_app_permission" priority="LT">"అనుమతులు"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"దాటవేయడానికి వెనుకకు నొక్కండి"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"ప్రకటన దాచబడింది"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"ఆసక్తి లేదు"</string>
     <string name="hiad_choices_hide" priority="LT">"ప్రకటనను దాచు"</string>

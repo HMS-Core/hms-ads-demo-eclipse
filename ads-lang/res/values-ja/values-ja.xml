@@ -14,6 +14,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$sがアンインストールされました"</string>
     <string name="hiad_app_open_notification" priority="translator">"インストールが完了しました。タップして開いてください。"</string>
     <string name="hiad_app_permission" priority="LT">"権限"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"[戻る]を押してスキップ"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"広告は非表示"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"興味なし"</string>
     <string name="hiad_choices_hide" priority="LT">"広告を非表示"</string>

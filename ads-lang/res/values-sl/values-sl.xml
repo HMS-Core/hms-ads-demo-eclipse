@@ -23,6 +23,7 @@
     <string name="hiad_app_installed" priority="LT">"Aplikacija %1$s je nameščena"</string>
     <string name="hiad_app_open_notification" priority="translator">"Namestitev je dokončana. Dotaknite se, da odprete aplikacijo."</string>
     <string name="hiad_app_permission" priority="LT">"Dovoljenja"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Pritisnite Nazaj za preskok"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Oglas je skrit"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ne zanima me"</string>
     <string name="hiad_choices_hide" priority="LT">"Skrij oglas"</string>

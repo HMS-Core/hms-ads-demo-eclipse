@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"Se ha instalado %1$s"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalación finalizada. Pulse para abrir."</string>
     <string name="hiad_app_permission" priority="LT">"Permisos"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Pulse Volver para omitir"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Publicidad oculta"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"No me interesa"</string>
     <string name="hiad_choices_hide" priority="LT">"Ocultar publicidad"</string>

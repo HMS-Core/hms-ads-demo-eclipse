@@ -14,6 +14,7 @@
     <string name="hiad_app_installed" priority="LT">"បានដំឡើង %1$s រួចហើយ"</string>
     <string name="hiad_app_open_notification" priority="translator">"ការដំឡើងបានបញ្ចប់។ ប៉ះដើម្បីបើក។"</string>
     <string name="hiad_app_permission" priority="LT">"ការអនុញ្ញាត"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"សង្កត់ពាក្យ ថយក្រោយ ដើម្បីរំលង"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"ការផ្សាយពាណិជ្ជកម្ម​ត្រូវបានលាក់"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"មិនចាប់អារម្មណ៍"</string>
     <string name="hiad_choices_hide" priority="LT">"លាក់ការផ្សាយពាណិជ្ជកម្ម​"</string>

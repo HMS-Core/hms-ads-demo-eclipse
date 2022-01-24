@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s on installitud"</string>
     <string name="hiad_app_open_notification" priority="translator">"Installimine on lõpule viidud. Avamiseks puudutage."</string>
     <string name="hiad_app_permission" priority="LT">"Õigused"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Vahelejätmiseks vajutage tagasinuppu"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Reklaam on peidetud"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ei ole huvitatud"</string>
     <string name="hiad_choices_hide" priority="translator">"Peida reklaam"</string>

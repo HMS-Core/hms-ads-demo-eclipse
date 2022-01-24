@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s ഇൻസ്റ്റാൾ ചെയ്തു"</string>
     <string name="hiad_app_open_notification" priority="translator">"ഇൻസ്റ്റാളേഷൻ പൂർത്തിയായി. തുറക്കാൻ, സ്പർശിക്കുക."</string>
     <string name="hiad_app_permission" priority="LT">"അനുമതികൾ"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"ഒഴിവാക്കാൻ \'മടങ്ങുക\' അമർത്തുക"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"പരസ്യം മറച്ചിരിക്കുന്നു"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"താൽപ്പര്യമില്ല"</string>
     <string name="hiad_choices_hide" priority="LT">"പരസ്യം മറയ്‌ക്കുക"</string>

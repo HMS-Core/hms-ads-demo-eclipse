@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s quraşdırılıb"</string>
     <string name="hiad_app_open_notification" priority="translator">"Quraşdırma tamamlandı. Açmaq üçün toxunun."</string>
     <string name="hiad_app_permission" priority="LT">"İcazələr"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Ötürmək üçün Geri üzərinə basın"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Reklam gizlədilib"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Maraqlanmıram"</string>
     <string name="hiad_choices_hide" priority="translator">"Reklamı gizlədin"</string>

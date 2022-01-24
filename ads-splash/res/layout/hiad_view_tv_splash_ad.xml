@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <RelativeLayout
+            android:id="@+id/rl_splash_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.huawei.openalliance.ad.views.PPSCircleProgressBar
+            android:id="@+id/hiad_count_progress"
+            android:layout_width="@dimen/hiad_38_dp"
+            android:layout_height="@dimen/hiad_38_dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="@dimen/hiad_48_dp"
+            android:layout_marginRight="@dimen/hiad_48_dp"
+            android:layout_marginTop="@dimen/hiad_24_dp"
+            android:padding="4dp"
+            app:progress_startPoint="left"
+            app:progress_maxProgress="100"
+            app:progress_progress="0"
+            app:progress_outerColor="@color/hiad_circle_outer"
+            app:progress_innerColor="@color/hiad_circle_inner"
+            app:progress_fillColor="@color/hiad_circle_fill"
+            app:progress_outerRadius="@dimen/hiad_18_dp"
+            app:progress_textColor="@color/hiad_circle_text"
+            app:progress_textSize="@dimen/hiad_text_18_sp"
+            android:visibility="gone"
+            app:progress_progressWidth="2dp"/>
+
+        <TextView
+            android:id="@+id/hiad_skip_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/hiad_count_progress"
+            android:layout_toStartOf="@id/hiad_count_progress"
+            android:layout_marginTop="@dimen/hiad_30_dp"
+            android:layout_marginRight="@dimen/hiad_8_dp"
+            android:layout_marginEnd="@dimen/hiad_8_dp"
+            android:text="@string/hiad_back_skip_tv"
+            android:shadowColor="@color/hiad_source_shadow_color"
+            android:ellipsize="end"
+            android:maxEms="45"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="2"
+            android:singleLine="true"
+            android:textColor="@color/hiad_font"
+            android:visibility="gone"
+            android:textSize="@dimen/hiad_text_18_sp"/>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/hiad_logo_container"
+            android:layout_toEndOf="@id/hiad_logo_container"
+            android:layout_marginStart="@dimen/hiad_14_dp"
+            android:layout_marginLeft="@dimen/hiad_14_dp"
+            android:layout_marginBottom="@dimen/hiad_48_dp">
+
+            <com.huawei.openalliance.ad.views.PPSLabelView
+                android:id="@+id/hiad_ad_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/hiad_bg_ad_label"
+                android:gravity="center"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp"
+                android:paddingBottom="1dp"
+                android:singleLine="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="@dimen/hiad_48_dp"
+                android:layout_marginEnd="@dimen/hiad_48_dp"
+                android:text="@string/hiad_ad_label_new"
+                android:textColor="@color/hiad_font"
+                android:visibility="gone"
+                android:textSize="@dimen/hiad_text_12_sp"/>
+
+            <TextView
+                android:id="@+id/hiad_ad_source"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/hiad_bg_ad_label"
+                android:gravity="center"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp"
+                android:paddingBottom="1dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="@dimen/hiad_48_dp"
+                android:layout_toStartOf="@id/hiad_ad_label"
+                android:layout_toLeftOf="@id/hiad_ad_label"
+                android:layout_marginEnd="@dimen/hiad_14_dp"
+                android:layout_marginRight="@dimen/hiad_14_dp"
+                android:shadowColor="@color/hiad_source_shadow_color"
+                android:ellipsize="end"
+                android:maxEms="45"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="2"
+                android:singleLine="true"
+                android:textColor="@color/hiad_font"
+                android:visibility="gone"
+                android:textSize="@dimen/hiad_text_12_sp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/hiad_logo_container"
+            android:layout_width="145dp"
+            android:layout_height="53dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="@dimen/hiad_48_dp"
+            android:layout_marginLeft="@dimen/hiad_48_dp"
+            android:layout_marginBottom="@dimen/hiad_32_dp"
+            android:visibility="gone"/>
+    </RelativeLayout>
+</merge>

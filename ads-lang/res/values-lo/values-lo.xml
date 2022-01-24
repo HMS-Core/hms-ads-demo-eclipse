@@ -14,6 +14,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s ໄດ້ຖືກຕິດຕັ້ງແລ້ວ"</string>
     <string name="hiad_app_open_notification" priority="translator">"ການ​ຕິດ​ຕັ້ງສຳ​ເລັດ. ສຳ​ຜັດ​ເພື່ອເປີດ."</string>
     <string name="hiad_app_permission" priority="LT">"ການ​ອະ​ນຸ​ຍາດ"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"​ກົດກັບ​ຄືນ ​ເພື່ອ​ຂ້າມ​ໄປ"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"ໂຄ​ສະ​ນາ​ທີ່​ເຊື່ອງ​ໄວ້"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"ບໍ່​ສົນ​ໃຈ"</string>
     <string name="hiad_choices_hide" priority="LT">"ເຊື່ອງໂຄ​ສະ​ນາ"</string>

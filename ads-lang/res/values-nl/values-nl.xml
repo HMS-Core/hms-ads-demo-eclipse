@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s is geïnstalleerd"</string>
     <string name="hiad_app_open_notification" priority="translator">"Installatie is voltooid. Tik om te openen."</string>
     <string name="hiad_app_permission" priority="LT">"Toestemmingen"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Op Terug drukken om over te slaan"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Advertentie verborgen"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Niet geïnteresseerd"</string>
     <string name="hiad_choices_hide" priority="translator">"Advertentie verbergen"</string>

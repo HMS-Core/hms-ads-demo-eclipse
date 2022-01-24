@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s ইনস্টল করা হয়েছে"</string>
     <string name="hiad_app_open_notification" priority="translator">"ইনস্টলেশন সম্পন্ন। খুলতে স্পর্শ করুন।"</string>
     <string name="hiad_app_permission" priority="LT">"অনুমতিগুলি"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"এড়িয়ে যেতে পিছনে চাপুন"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"বিজ্ঞাপন লুকানো"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"আগ্রহী নই"</string>
     <string name="hiad_choices_hide" priority="LT">"বিজ্ঞাপন লুকান"</string>

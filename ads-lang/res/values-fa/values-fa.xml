@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s نصب شده است"</string>
     <string name="hiad_app_open_notification" priority="translator">"نصب کامل شد. برای باز کردن، لمس کنید."</string>
     <string name="hiad_app_permission" priority="LT">"مجوزها"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"برای رد شدن، «بازگشت» را فشار دهید"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"تبلیغ پنهان شده است"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"علاقه‌ای ندارم"</string>
     <string name="hiad_choices_hide" priority="LT">"پنهان کردن تبلیغ"</string>

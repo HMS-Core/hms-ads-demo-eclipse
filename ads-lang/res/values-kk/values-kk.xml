@@ -17,6 +17,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s орнатылды"</string>
     <string name="hiad_app_open_notification" priority="translator">"Орнату аяқталды. Ашу үшін түртіңіз."</string>
     <string name="hiad_app_permission" priority="LT">"Рұқсаттар"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Өткізіп жіберу үшін «Кері» түймесін басыңыз"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Жарнама жасырылды"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Қызықпаймын"</string>
     <string name="hiad_choices_hide" priority="LT">"Жарнаманы жасыру"</string>

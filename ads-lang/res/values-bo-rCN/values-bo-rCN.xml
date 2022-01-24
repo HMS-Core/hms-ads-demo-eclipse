@@ -14,6 +14,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s སྒྲིག་འཇུག་བྱས་ཚར།"</string>
     <string name="hiad_app_open_notification" priority="translator">"སྒྲིག་འཇུག་བྱས་ཚར། རྡེབ་ནས་ཁ་ཕྱེ་བ།"</string>
     <string name="hiad_app_permission" priority="LT">"དབང་ཚད།"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"ཕྱིར་ལོག་པའི་མཐེབ་གནོན་མནན་ནས་མཆོང་པ།"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"བརྡ་ཁྱབ་ཀྱི་ཁ་བརྒྱབ་ཟིན།"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"སྤྲོ་སྣང་མི་འདུག"</string>
     <string name="hiad_choices_hide" priority="LT">"བརྡ་ཁྱབ་ཡིབ་སྐུང་།"</string>

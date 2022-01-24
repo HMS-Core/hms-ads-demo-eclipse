@@ -20,6 +20,7 @@
     <string name="hiad_app_installed" priority="LT">"Stavka %1$s instalirana je"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalacija je dovršena. Dodirnite za otvaranje."</string>
     <string name="hiad_app_permission" priority="LT">"Dopuštenja"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Pritisnite Natrag da biste preskočili"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Oglas je skriven"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Ne zanima me"</string>
     <string name="hiad_choices_hide" priority="LT">"Sakrij oglas"</string>

@@ -23,6 +23,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s усталявана"</string>
     <string name="hiad_app_open_notification" priority="translator">"Устаноўка завершана. Націсніце, каб адкрыць."</string>
     <string name="hiad_app_permission" priority="LT">"Дазволы"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Націсніце «Назад», каб прапусціць"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Рэклама схавана"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Не цікава"</string>
     <string name="hiad_choices_hide" priority="translator">"Схаваць рэкламу"</string>

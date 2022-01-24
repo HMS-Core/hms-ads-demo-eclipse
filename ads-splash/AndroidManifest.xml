@@ -2,8 +2,8 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.splash"
-    android:versionCode="130450300"
-    android:versionName="13.4.50.300" >
+    android:versionCode="130451300"
+    android:versionName="13.4.51.300" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -14,7 +14,7 @@
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-splash"
-            android:value="ads-splash:13.4.50.300" />
+            android:value="ads-splash:13.4.51.300" />
     </application>
 
 </manifest>

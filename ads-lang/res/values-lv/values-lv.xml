@@ -20,6 +20,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s ir instalēts"</string>
     <string name="hiad_app_open_notification" priority="translator">"Instalēšana pabeigta. Pieskarieties, lai atvērtu."</string>
     <string name="hiad_app_permission" priority="LT">"Atļaujas"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Lai izlaistu, nospiediet pogu Atpakaļ"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Reklāma paslēpta"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Neinteresē"</string>
     <string name="hiad_choices_hide" priority="translator">"Paslēpt reklāmu"</string>

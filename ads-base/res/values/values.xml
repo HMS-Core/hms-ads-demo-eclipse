@@ -22,6 +22,10 @@
     <color name="hiad_app_down_processing_progress">#33007dff</color>
     <color name="hiad_app_down_processing_text">#000000</color>
     <color name="hiad_app_text_color">#1A1A1A</color>
+    <color name="hiad_circle_fill">#4c000000</color>
+    <color name="hiad_circle_inner">#FFFFFF</color>
+    <color name="hiad_circle_outer">#FF7500</color>
+    <color name="hiad_circle_text">#FFFFFF</color>
     <color name="hiad_continue_play_btn_text">@color/hiad_emui_white</color>
     <color name="hiad_dialog_gray_10">#191919</color>
     <color name="hiad_down_normal_bg">#0D000000</color>
@@ -130,6 +134,7 @@
     <string name="hiad_app_installed" priority="LT">%1$s has been installed</string>
     <string name="hiad_app_open_notification" priority="translator">Installation complete. Touch to open.</string>
     <string name="hiad_app_permission" priority="LT">Permissions</string>
+    <string name="hiad_back_skip_tv">Press Back to skip</string>
     <string name="hiad_choices_ad_closed" priority="translator">Ad hidden</string>
     <string name="hiad_choices_ad_no_interest" priority="translator">Not interested</string>
     <string name="hiad_choices_hide" priority="translator">Hide ad</string>
@@ -244,6 +249,23 @@
     </declare-styleable>
     <declare-styleable name="PPSRoundCornerLayout">
         <attr format="dimension" name="hiad_roundCorner"/>
+    </declare-styleable>
+    <declare-styleable name="hiad_circle">
+        <attr format="color" name="progress_outerColor"/>
+        <attr format="dimension" name="progress_outerRadius"/>
+        <attr format="color" name="progress_innerColor"/>
+        <attr format="color" name="progress_fillColor"/>
+        <attr format="color" name="progress_textColor"/>
+        <attr format="dimension" name="progress_textSize"/>
+        <attr format="dimension" name="progress_progressWidth"/>
+        <attr format="integer" name="progress_maxProgress"/>
+        <attr format="float" name="progress_progress"/>
+        <attr name="progress_startPoint">
+            <enum name="left" value="0"/>
+            <enum name="top" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
     </declare-styleable>
     <declare-styleable name="hiad_clicktracker">
         <attr format="boolean" name="trackEnable"/>

@@ -14,6 +14,7 @@
     <string name="hiad_app_installed" priority="LT">"「%1$s」已安裝成功"</string>
     <string name="hiad_app_open_notification" priority="translator">"安裝完成，輕觸開啟"</string>
     <string name="hiad_app_permission" priority="LT">"權限"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"輕按返回鍵略過"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"廣告已關閉"</string>
     <string name="hiad_choices_ad_no_interest" priority="translator">"不感興趣"</string>
     <string name="hiad_choices_hide" priority="LT">"隱藏廣告"</string>

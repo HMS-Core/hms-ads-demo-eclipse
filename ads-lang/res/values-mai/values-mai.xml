@@ -29,6 +29,7 @@
     <string name="hiad_app_installed" priority="LT">"%1$s इंस्टॉल कए देल गेल अछि"</string>
     <string name="hiad_app_open_notification" priority="translator">"इंस्टॉलेशन भए गेल। खोलबाक लेल छुबू।"</string>
     <string name="hiad_app_permission" priority="LT">"अनुमति सभ"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"छोड़बाक लेल पाछू जाउ केँ दबाउ"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"विज्ञापन नुकाओल गेल"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"कोनो रुचि नहि"</string>
     <string name="hiad_choices_hide" priority="LT">"विज्ञापन केँ नुकाउ"</string>

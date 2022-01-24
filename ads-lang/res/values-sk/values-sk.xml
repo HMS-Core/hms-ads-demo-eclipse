@@ -23,6 +23,7 @@
     <string name="hiad_app_installed" priority="LT">"Aplikácia %1$s sa nainštalovala"</string>
     <string name="hiad_app_open_notification" priority="translator">"Inštalácia dokončená. Ťuknutím otvorte."</string>
     <string name="hiad_app_permission" priority="LT">"Povolenia"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Preskočte stlačením tlačidla Späť"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Skrytá reklama"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Nezaujíma ma"</string>
     <string name="hiad_choices_hide" priority="translator">"Skryť reklamu"</string>

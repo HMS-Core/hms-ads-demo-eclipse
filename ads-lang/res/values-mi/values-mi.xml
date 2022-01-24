@@ -29,6 +29,7 @@
     <string name="hiad_app_installed" priority="LT">"Kua tāutahia te %1$s"</string>
     <string name="hiad_app_open_notification" priority="translator">"Kua oti te tāuta. Pā atu hei huaki."</string>
     <string name="hiad_app_permission" priority="LT">"Ngā whakaaetanga"</string>
+    <string name="hiad_back_skip_tv" priority="translator">"Pēhia te Hoki hei tīpoka"</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Kua hunaia te pānui hokohoko"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Kāore i te pīrangi"</string>
     <string name="hiad_choices_hide" priority="LT">"Hunaia te pānui hokohoko"</string>

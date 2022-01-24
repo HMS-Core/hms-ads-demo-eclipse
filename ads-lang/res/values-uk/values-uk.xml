@@ -23,6 +23,7 @@
     <string name="hiad_app_installed" priority="LT">"Додаток %1$s установлено"</string>
     <string name="hiad_app_open_notification" priority="translator">"Установлення завершено. Торкніться, щоб відкрити."</string>
     <string name="hiad_app_permission" priority="LT">"Дозволи"</string>
+    <string name="hiad_back_skip_tv" priority="LT">"Щоб пропустити, натисніть кнопку \"Назад\""</string>
     <string name="hiad_choices_ad_closed" priority="LT">"Рекламу приховано"</string>
     <string name="hiad_choices_ad_no_interest" priority="LT">"Не цікавить"</string>
     <string name="hiad_choices_hide" priority="LT">"Приховати рекламу"</string>
