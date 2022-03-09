@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"বর্তমানে আপনি WLAN এ সংযুক্ত নন। এখন ডাউনলোড করলে তা %1$s মোবাইল ডেটা ব্যবহার করবে। তবুও ডাউনলোড করবেন?"</string>
     <string name="hiad_install_completed" priority="LT">"সম্পন্ন"</string>
     <string name="hiad_installed_description" priority="translator">"সফলভাবে ইনস্টল করা হয়েছে। খোলার জন্য স্পর্শ করুন।"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"ইনস্টল হয়েছে"</string>
     <string name="hiad_jump_desc" priority="LT">"বিস্তারিত দেখুন বা অ্যাপে যান"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"এই পৃষ্ঠাটি %1$s কে খুলতে চাইছে।"</string>
     <string name="hiad_link_already_copied" priority="LT">"লিঙ্ক কপি করা হয়েছে।"</string>

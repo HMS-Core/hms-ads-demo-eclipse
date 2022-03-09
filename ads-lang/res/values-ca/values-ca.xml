@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Ara no esteu connectats a la WLAN. Baixar-ho ara consumirà %1$s de dades mòbils. Voleu baixar-ho igualment?"</string>
     <string name="hiad_install_completed" priority="LT">"Fet"</string>
     <string name="hiad_installed_description" priority="LT">"Instal·lació correcta. Toqueu per obrir."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Instal·lat"</string>
     <string name="hiad_jump_desc" priority="LT">"Vegeu els detalls o aneu a l\'aplicació"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Aquesta pàgina vol obrir %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Enllaç copiat."</string>

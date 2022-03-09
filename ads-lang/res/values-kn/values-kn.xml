@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"ನೀವು ಪ್ರಸ್ತುತ WLAN ಗೆ ಸಂಪರ್ಕಿಸಿಲ್ಲ. ಇದೀಗ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದರಿಂದ %1$s ರಷ್ಟು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ. ಹೇಗಿದ್ದರೂ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದೇ?"</string>
     <string name="hiad_install_completed" priority="LT">"ಮುಗಿದಿದೆ"</string>
     <string name="hiad_installed_description" priority="translator">"ಸ್ಥಾಪಿಸುವಿಕೆ ಯಶಸ್ವಿಯಾಗಿದೆ. ತೆರೆಯಲು ಸ್ಪರ್ಶಿಸಿ."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"ಸ್ಥಾಪಿಸಲಾಗಿದೆ"</string>
     <string name="hiad_jump_desc" priority="LT">"ವಿವರಗಳನ್ನು ನೋಡಿ ಅಥವಾ ಆ್ಯಪ್‍ಗೆ ಹೋಗಿ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ಈ ಪುಟವು %1$s ಪುಟವನ್ನು ತೆರೆಯಬೇಕೆಂದು ಬಯಸಿದೆ."</string>
     <string name="hiad_link_already_copied" priority="LT">"ಲಿಂಕ್ ನಕಲಿಸಲಾಗಿದೆ."</string>

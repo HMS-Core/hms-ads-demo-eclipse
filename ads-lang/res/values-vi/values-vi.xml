@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Hiện tại bạn chưa kết nối với WLAN. Việc tải xuống ngay bây giờ sẽ sử dụng %1$s dữ liệu di động. Vẫn tải xuống?"</string>
     <string name="hiad_install_completed" priority="LT">"Xong"</string>
     <string name="hiad_installed_description" priority="LT">"Cài đặt thành công. Chạm để mở."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Đã cài đặt"</string>
     <string name="hiad_jump_desc" priority="LT">"Xem chi tiết hoặc vào ứng dụng"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Trang này muốn mở %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Liên kết đã được sao chép."</string>

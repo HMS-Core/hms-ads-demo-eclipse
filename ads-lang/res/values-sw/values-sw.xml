@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kwa sasa hujaunganishwa kwenye WLAN. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
     <string name="hiad_install_completed" priority="LT">"Imefanyika"</string>
     <string name="hiad_installed_description" priority="LT">"Usakinishaji umefaulu. Gusa kufungua."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Imesakinishwa"</string>
     <string name="hiad_jump_desc" priority="LT">"Tazama maelezo au nenda kwenye programu"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Ukurasa huu unataka kufungua %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Kiungo kimenakiliwa."</string>

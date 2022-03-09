@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"U bent momenteel niet verbonden met WLAN. Nu downloaden zal %1$s aan mobiele data verbruiken. Toch downloaden?"</string>
     <string name="hiad_install_completed" priority="LT">"Gereed"</string>
     <string name="hiad_installed_description" priority="LT">"Installatie gelukt. Tik om te openen."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Geïnstalleerd"</string>
     <string name="hiad_jump_desc" priority="LT">"Bekijk de details of ga naar de app"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Deze pagina wil %1$s openen."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link gekopieerd."</string>

@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"አሁን ከ WLAN ጋር ግንኙነት አላረጉም።አሁን ማውረድ %1$s የሞባይል ውሂብ ይጠቀማል። ቢሆንም አውርድ?"</string>
     <string name="hiad_install_completed" priority="LT">"ተከናውኗል"</string>
     <string name="hiad_installed_description" priority="LT">"መጫን ተሳክቷል። ለመክፈት ይንኩ።"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"ተጭኗል"</string>
     <string name="hiad_jump_desc" priority="LT">"ዝርዝሮችን ይመልከቱ ወይም ወደ መተግበሪያው ይሂዱ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ይህ ገጽ %1$sን መክፈት ይፈልጋል።"</string>
     <string name="hiad_link_already_copied" priority="LT">"ሊንኩ ተቀድቷል።"</string>

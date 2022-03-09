@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"WLAN tarmoqqa ulanmagansiz. Yuklab olish uchun %1$s mobil internet-trafik sarflanadi. Davom etasizmi?"</string>
     <string name="hiad_install_completed" priority="LT">"Tayyor"</string>
     <string name="hiad_installed_description" priority="LT">"Oʻrnatildi. Ochish uchun bosing."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"O‘rnatildi"</string>
     <string name="hiad_jump_desc" priority="LT">"Tafsilotlar yoki ilovani ochish"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Bu ilova quyidagini ochmoqchi: %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Havoladan nusxa olindi."</string>

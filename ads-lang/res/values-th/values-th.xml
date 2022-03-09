@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"คุณยังไม่ได้เชื่อมต่อกับ WLAN ในขณะนี้ การดาวน์โหลดขณะนี้จะใช้ข้อมูลมือถือ %1$s ดาวน์โหลดหรือไม่"</string>
     <string name="hiad_install_completed" priority="LT">"เสร็จสิ้น"</string>
     <string name="hiad_installed_description" priority="LT">"การติดตั้งสำเร็จ แตะเพื่อเปิด"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"ติดตั้งแล้ว"</string>
     <string name="hiad_jump_desc" priority="LT">"ดูรายละเอียดหรือไปที่แอป"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"หน้านี้ต้องการเปิด %1$s"</string>
     <string name="hiad_link_already_copied" priority="LT">"คัดลอกลิงก์แล้ว"</string>

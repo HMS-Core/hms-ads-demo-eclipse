@@ -76,6 +76,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="translator">"جهازك غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى باستخدام بيانات الجوال سيؤدي إلى استهلاك %1$s. هل حقًا تريد تنزيله؟"</string>
     <string name="hiad_install_completed" priority="LT">"تم"</string>
     <string name="hiad_installed_description" priority="LT">"تم التثبيت بنجاح. انقر هنا لفتحه."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"مُثبَّت"</string>
     <string name="hiad_jump_desc" priority="LT">"عرض التفاصيل أو الانتقال إلى التطبيق."</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ترغب هذه الصفحة في فتح \"%1$s\"."</string>
     <string name="hiad_link_already_copied" priority="LT">"تم نسخ الرابط"</string>
@@ -89,7 +90,7 @@
     <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"الجهاز غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى الآن سيؤدي إلى استخدام بيانات الجوال. هل حقًا تريد تنزيله؟"</string>
     <string name="hiad_open_in_browser" priority="LT">"فتح في المتصفح"</string>
     <string name="hiad_page_load_failed" priority="LT">"تعذر تحميل الصفحة، يُرجى إعادة المحاولة"</string>
-    <string name="hiad_permission_dialog_title" priority="translator">"يطلب تطبيق \"%1$s\" الحصول على الأذونات التالية:"</string>
+    <string name="hiad_permission_dialog_title" priority="translator">"يطلب تطبيق «%1$s» الحصول على الأذونات التالية:"</string>
     <string name="hiad_prepare_download" priority="LT">"استخدام شبكة لاسلكية"</string>
     <string name="hiad_prepare_download_title" priority="LT">"هل تريد التنزيل باستخدام بيانات الجوال؟"</string>
     <string name="hiad_prepare_download_zh" priority="LT">"استخدام شبكة لاسلكية"</string>

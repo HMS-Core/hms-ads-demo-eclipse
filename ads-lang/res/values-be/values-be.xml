@@ -70,6 +70,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Зараз вы не падключаны да WLAN. Спампоўка зараз скарыстае %1$s мабільных даных. Усё роўна спампаваць?"</string>
     <string name="hiad_install_completed" priority="LT">"Гатова"</string>
     <string name="hiad_installed_description" priority="translator">"Устаноўка выканана. Націсніце, каб адкрыць."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Усталявана"</string>
     <string name="hiad_jump_desc" priority="LT">"Праглядзець падрабязнасці або перайсці ў праграму"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Гэта старонка хоча адкрыць %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Спасылка скапіравана."</string>

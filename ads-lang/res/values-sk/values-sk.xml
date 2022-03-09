@@ -70,6 +70,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Momentálne ste bez pripojenia k WLAN. Sťahovanie spotrebuje %1$s mobilných dát. Aj tak stiahnuť?"</string>
     <string name="hiad_install_completed" priority="LT">"Hotovo"</string>
     <string name="hiad_installed_description" priority="translator">"Inštalácia bola úspešná. Ťuknutím otvorte aplikáciu."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Inštalované"</string>
     <string name="hiad_jump_desc" priority="LT">"Zobrazenie podrobností alebo otvorenie aplikácie"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Táto stránka chce otvoriť %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Odkaz je skopírovaný."</string>

@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Αυτή τη στιγμή η συσκευή σας δεν είναι συνδεδεμένη σε WLAN. Αν προχωρήσετε στη λήψη τώρα, θα χρησιμοποιηθούν %1$s δεδομένων κινητής τηλεφωνίας. Λήψη οπωσδήποτε;"</string>
     <string name="hiad_install_completed" priority="LT">"Τέλος"</string>
     <string name="hiad_installed_description" priority="translator">"Επιτυχής εγκατάσταση. Αγγίξτε για άνοιγμα."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Εγκατεστημένη"</string>
     <string name="hiad_jump_desc" priority="LT">"Προβάλετε λεπτομέρειες ή μεταβείτε στην εφαρμογή"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Η σελίδα αυτή θέλει να ανοίξει την εφαρμογή %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Ο σύνδεσμος αντιγράφτηκε."</string>

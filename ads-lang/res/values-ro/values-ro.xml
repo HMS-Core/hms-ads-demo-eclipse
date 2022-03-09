@@ -67,6 +67,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Nu sunteți conectat la WLAN. Dacă descărcați acum, veți utiliza %1$s din abonamentul de date mobile. Descărcați oricum?"</string>
     <string name="hiad_install_completed" priority="LT">"Terminat"</string>
     <string name="hiad_installed_description" priority="translator">"Instalare reușită. Atingeți pentru a deschide."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Instalat"</string>
     <string name="hiad_jump_desc" priority="LT">"Vizualizați detaliile sau mergeți la aplicație"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Această pagină dorește să deschidă %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link copiat."</string>

@@ -76,6 +76,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"अहाँ एखन WLAN सँ कनेक्ट नहि छी। एखन डाउनलोड करब त’ %1$s मोबाइल डेटाक उपयोग करत। तैयो डाउनलोड करी?"</string>
     <string name="hiad_install_completed" priority="LT">"कएल गेल"</string>
     <string name="hiad_installed_description" priority="LT">"इंस्टॉलेशन सफल भेल। खोलबाक लेल छुबू।"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"इंस्टॉल कयल गेल"</string>
     <string name="hiad_jump_desc" priority="LT">"विवरण देखू वा एप मे जाउ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ई पेज %1$s केँ खोलय चाहैत अछि।"</string>
     <string name="hiad_link_already_copied" priority="LT">"लिंक कॉपी कयल गेल।"</string>

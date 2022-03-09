@@ -70,6 +70,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Немає підключення до мережі WLAN. Щоб завантажити цей вміст, потрібно використати %1$s мобільних даних. Усе одно завантажити?"</string>
     <string name="hiad_install_completed" priority="LT">"Готово"</string>
     <string name="hiad_installed_description" priority="translator">"Установлення завершено. Торкніться, щоб відкрити."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Установлено"</string>
     <string name="hiad_jump_desc" priority="LT">"Переглянути деталі або відкрити додаток"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Ця сторінка хоче відкрити додаток \"%1$s\"."</string>
     <string name="hiad_link_already_copied" priority="LT">"Посилання скопійовано."</string>

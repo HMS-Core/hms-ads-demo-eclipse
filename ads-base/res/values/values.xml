@@ -181,6 +181,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">You are currently not connected to WLAN. Downloading now will use %1$s of mobile data.</string>
     <string name="hiad_install_completed" priority="LT">Done</string>
     <string name="hiad_installed_description">Installation successful, Click open</string>
+    <string name="hiad_installed_optimize_description">Installed</string>
     <string name="hiad_jump_desc" priority="translator">jump to the details page or third-party application</string>
     <string name="hiad_landing_page_open_app" priority="LT">This page wants to open %1$s.</string>
     <string name="hiad_link_already_copied" priority="LT">Link copied.</string>

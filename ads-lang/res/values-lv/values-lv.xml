@@ -67,6 +67,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Pašreiz nav izveidots savienojums ar WLAN. Lejupielādējot tagad, tiks izmantoti %1$s mobilo datu. Vai tomēr lejupielādēt?"</string>
     <string name="hiad_install_completed" priority="LT">"Gatavs"</string>
     <string name="hiad_installed_description" priority="translator">"Instalēšana sekmīgi pabeigta. Pieskarieties, lai atvērtu."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Instalēts"</string>
     <string name="hiad_jump_desc" priority="LT">"Skatīt detalizētu informāciju vai pāriet uz lietotni"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Šī lapa vēlas atvērt %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Saite nokopēta."</string>

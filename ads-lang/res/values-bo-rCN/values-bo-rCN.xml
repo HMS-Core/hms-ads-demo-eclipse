@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"མིག་སྔར་ WLAN དང་སྦྲེལ་མེད་པས་ཕབ་ལེན་བྱས་ན་བཞུར་ཚད་%1$sཟད་ངེས། ཕབ་ལེན་བྱེད་དམ།"</string>
     <string name="hiad_install_completed" priority="LT">"གྲུབ།"</string>
     <string name="hiad_installed_description" priority="translator">"སྒྲིག་འཇུག་བྱས་ཚར། རྡེབ་ནས་ཁ་ཕྱེ་བ།"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"སྒྲིག་འཇུག་བྱས་ཐུབ་སོང་།"</string>
     <string name="hiad_jump_desc" priority="LT">"ཞིབ་ཕྲའི་གནས་ཚུལ་གྱི་ངོས་སམ་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་ལ་མཆོང་པ།"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"དྲ་ངོས་ཀྱིས་%1$sཁ་ཕྱེ་ངེས། ཆོག་གམ།"</string>
     <string name="hiad_link_already_copied" priority="LT">"སྦྲེལ་བའི་དྲ་ཚིགས་འདྲ་བཤུས་ཟིན།"</string>

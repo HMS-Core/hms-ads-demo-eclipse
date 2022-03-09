@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Sampeyan saiki ora kasambung menyang jaringan WLAN. Ngundhuh saiki nggunakake %1$s data seluler. Tetep undhuh?"</string>
     <string name="hiad_install_completed" priority="LT">"Rampung"</string>
     <string name="hiad_installed_description" priority="LT">"Instalasi kasil. Dumuk kanggo mbukak."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Diinstal"</string>
     <string name="hiad_jump_desc" priority="LT">"Deleng rincian utawa bukak apl"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Kaca iki pengin mbukak %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Tautan disalin."</string>

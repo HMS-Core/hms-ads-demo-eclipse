@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Hazırda WLAN bağlantınız yoxdur. İndi endirmək %1$s mobil şəbəkədən istifadə edəcək. Yenə də endir?"</string>
     <string name="hiad_install_completed" priority="LT">"Hazırdır"</string>
     <string name="hiad_installed_description" priority="LT">"Uğurla quraşdırıldı. Açmaq üçün toxunun."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Quraşdırılıb"</string>
     <string name="hiad_jump_desc" priority="LT">"Təfərrüatlara baxın və ya proqrama keçin"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Bu səhifə açmaq istəyir: %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Keçid köçürüldü."</string>

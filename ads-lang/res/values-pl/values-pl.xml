@@ -70,6 +70,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Urządzenie nie jest połączone z siecią WLAN. Pobieranie będzie wiązało się z użyciem %1$s komórkowej transmisji danych. Pobrać mimo to?"</string>
     <string name="hiad_install_completed" priority="LT">"Gotowe"</string>
     <string name="hiad_installed_description" priority="translator">"Zainstalowano pomyślnie. Dotknij, aby otworzyć."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Zainstalowano"</string>
     <string name="hiad_jump_desc" priority="LT">"Wyświetl szczegóły lub przejdź do aplikacji"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Ta strona chce otworzyć aplikację %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Łącze skopiowane."</string>

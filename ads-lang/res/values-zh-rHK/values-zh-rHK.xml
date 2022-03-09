@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"目前未連線 WLAN，下載將消耗 %1$s 數據流量。確定下載？"</string>
     <string name="hiad_install_completed" priority="LT">"完成"</string>
     <string name="hiad_installed_description" priority="LT">"安裝完成，輕觸即可開啟"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"安裝成功"</string>
     <string name="hiad_jump_desc" priority="LT">"重新導向至詳細資訊頁面或第三方應用程式"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"網頁將開啟%1$s。允許？"</string>
     <string name="hiad_link_already_copied" priority="LT">"連結已複製"</string>

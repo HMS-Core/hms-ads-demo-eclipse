@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Anda sedang tidak terhubung ke WLAN. Mengunduh sekarang akan menggunakan data seluler sebesar %1$s. Tetap unduh?"</string>
     <string name="hiad_install_completed" priority="LT">"Selesai"</string>
     <string name="hiad_installed_description" priority="translator">"Pemasangan berhasil. Sentuh untuk membuka."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Terpasang"</string>
     <string name="hiad_jump_desc" priority="LT">"Lihat perincian atau buka aplikasi"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Halaman ini ingin membuka %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Tautan disalin."</string>

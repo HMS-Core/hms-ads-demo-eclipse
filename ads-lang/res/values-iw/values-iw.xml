@@ -70,6 +70,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"אינך מחובר כעת ל-WLAN. הורדה עכשיו תשתמש ב-%1$s של נתונים סלולריים. להוריד בכל זאת?"</string>
     <string name="hiad_install_completed" priority="LT">"בוצע"</string>
     <string name="hiad_installed_description" priority="LT">"ההתקנה הצליחה. גע כדי לפתוח."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"מותקן"</string>
     <string name="hiad_jump_desc" priority="LT">"הצג פרטים או עבור אל היישום"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"דף זה רוצה לפתוח את %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"הקישור הועתק."</string>

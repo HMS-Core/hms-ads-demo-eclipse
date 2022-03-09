@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"ປະ​ຈຸ​ບັນ​ທ່ານ​ບໍ່​ໄດ້​ເຊື່ອມ​ຕໍ່​ກັບ WLAN. ດຽວ​ນີ້ການ​ດາວ​ໂຫຼດ​ຈະ​ໃຊ້ %1$s ຂອງ​ຂໍ້​ມູນມື​ຖື. ແນວ​ໃດ​ກໍ່ດາວ​ໂຫຼດບໍ?"</string>
     <string name="hiad_install_completed" priority="LT">"ສໍາເລັດ"</string>
     <string name="hiad_installed_description" priority="LT">"ການຕິດ​ຕັ້ງສຳ​ເລັດຜົນ. ສຳ​ຜັດ​ເພື່ອ​ເປີດ."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"ຕິດຕັ້ງແລ້ວ"</string>
     <string name="hiad_jump_desc" priority="LT">"ເບິ່ງ​ລາຍ​​ລະ​ອຽດ ຫຼື ​​ໄປ​​ທີ່ແອັບ"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ໜ້າ​ນີ້​ຕ້ອງ​ການ​ເປີດ %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"ກັອບ​ປີ້ລິ້ງ​ແລ້ວ."</string>

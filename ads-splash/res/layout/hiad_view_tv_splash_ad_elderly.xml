@@ -6,8 +6,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="#000000">
+        android:layout_height="match_parent">
 
         <RelativeLayout
             android:id="@+id/rl_splash_container"
@@ -16,8 +15,8 @@
 
         <com.huawei.openalliance.ad.views.PPSCircleProgressBar
             android:id="@+id/hiad_count_progress"
-            android:layout_width="@dimen/hiad_38_dp"
-            android:layout_height="@dimen/hiad_38_dp"
+            android:layout_width="@dimen/hiad_56_dp"
+            android:layout_height="@dimen/hiad_56_dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
             android:layout_marginEnd="@dimen/hiad_48_dp"
@@ -30,9 +29,9 @@
             app:progress_outerColor="@color/hiad_circle_outer"
             app:progress_innerColor="@color/hiad_circle_inner"
             app:progress_fillColor="@color/hiad_circle_fill"
-            app:progress_outerRadius="@dimen/hiad_18_dp"
+            app:progress_outerRadius="@dimen/hiad_27_dp"
             app:progress_textColor="@color/hiad_circle_text"
-            app:progress_textSize="@dimen/hiad_18_dp"
+            app:progress_textSize="@dimen/hiad_27_dp"
             android:visibility="gone"
             app:progress_progressWidth="2dp"/>
 
@@ -55,7 +54,7 @@
             android:singleLine="true"
             android:textColor="@color/hiad_font"
             android:visibility="gone"
-            android:textSize="@dimen/hiad_18_dp"/>
+            android:textSize="@dimen/hiad_27_dp"/>
 
         <RelativeLayout
             android:layout_width="wrap_content"

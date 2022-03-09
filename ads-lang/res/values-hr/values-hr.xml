@@ -67,6 +67,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Trenutačno niste povezani s WLAN mrežom. Potrošit ćete %1$s mobilnih podataka. Svejedno preuzeti?"</string>
     <string name="hiad_install_completed" priority="LT">"Gotovo"</string>
     <string name="hiad_installed_description" priority="translator">"Instalacija je uspjela. Dodirnite da biste otvorili aplikaciju."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Instalirano"</string>
     <string name="hiad_jump_desc" priority="LT">"Prikažite pojedinosti ili otvorite aplikaciju"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Ova stranica želi otvoriti %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Poveznica je kopirana."</string>

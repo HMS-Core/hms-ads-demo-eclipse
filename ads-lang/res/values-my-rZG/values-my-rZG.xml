@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"လက္ရွိကာလတြင္ သင္သည္ WLAN ခ်ိတ္ဆက္ထားမႈ မရွိပါ။ ယခု ေဒါင္းလုဒ္လုပ္ျခင္းျဖင့္ မိုဘိုင္း ေဒတာ %1$s ပမာဏကို သုံးစြဲရပါလိမ့္မည္။ မည္သို႔ပင္ျဖစ္ေစ ေဒါင္းလုဒ္လုပ္မည္လား။"</string>
     <string name="hiad_install_completed" priority="LT">"လုပ္ၿပီးၿပီ"</string>
     <string name="hiad_installed_description" priority="LT">"ထည့္သြင္းမႈ ေအာင္ျမင္ပါသည္။ ဖြင့္ရန္ ႏွိပ္ပါ။"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"ထည့္သြင္းျပီး"</string>
     <string name="hiad_jump_desc" priority="LT">"အေသးစိတ္ ၾကည့္ရန္ သို႔မဟုတ္ အက္ပ္သို႔ သြားရန္"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ဤေပ့ခ်္သည္ %1$s အား ဖြင့္လိုပါသည္။"</string>
     <string name="hiad_link_already_copied" priority="LT">"လင့္ခ္ ကူးျပီး။"</string>

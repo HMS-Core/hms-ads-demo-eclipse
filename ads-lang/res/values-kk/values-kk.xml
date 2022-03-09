@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Қазіргі уақытта WLAN желісіне қосылмағансыз. Жүктеу кезінде %1$s мобильді деректер пайдаланылады. Сонда да жүктеу керек пе?"</string>
     <string name="hiad_install_completed" priority="LT">"Дайын"</string>
     <string name="hiad_installed_description" priority="LT">"Орнату сәтті болды. Ашу үшін түртіңіз."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Орнатылған"</string>
     <string name="hiad_jump_desc" priority="LT">"Мәліметтерді көру немесе қолданбаға өту"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Бұл бет %1$s ашады."</string>
     <string name="hiad_link_already_copied" priority="LT">"Сілтеме көшірілді."</string>

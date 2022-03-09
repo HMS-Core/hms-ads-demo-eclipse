@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kasalukuyan kang hindi nakakonekta sa WLAN. Kapag nag-download ngayon, gagamit ng %1$s ng mobile data. I-download pa rin?"</string>
     <string name="hiad_install_completed" priority="LT">"Tapos na"</string>
     <string name="hiad_installed_description" priority="translator">"Matagumpay ang pag-install. Pindutin para buksan."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Naka-install"</string>
     <string name="hiad_jump_desc" priority="LT">"Tingnan ang mga detalye o pumunta sa app"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Gustong buksan ng page na ito ang %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Nakopya ang link."</string>

@@ -70,6 +70,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Šiuo metu nesate prisijungę prie „WLAN“. Atsisiunčiant dabar bus išnaudota %1$s mobiliųjų duomenų. Vis tiek atsiųsti?"</string>
     <string name="hiad_install_completed" priority="LT">"Atlikta"</string>
     <string name="hiad_installed_description" priority="translator">"Įdiegta sėkmingai. Norėdami atverti, palieskite."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Įdiegta"</string>
     <string name="hiad_jump_desc" priority="LT">"Peržiūrėti išsamią informaciją arba eikite į programėlę"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Šis puslapis nori atidaryti %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Nuoroda nukopijuota."</string>

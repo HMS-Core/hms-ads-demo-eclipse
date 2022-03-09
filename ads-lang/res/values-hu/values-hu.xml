@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Jelenleg nem csatlakozik WLAN-re. Az azonnali letöltés %1$s mobiladat forgalommal jár. Mégis letölti?"</string>
     <string name="hiad_install_completed" priority="LT">"Kész"</string>
     <string name="hiad_installed_description" priority="translator">"A telepítés sikerült. Érintse meg a megnyitáshoz."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Telepített"</string>
     <string name="hiad_jump_desc" priority="LT">"Részletek megtekintése, vagy az alkalmazás megnyitása"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Az oldal meg akarja nyitni a(z) %1$s alkalmazást."</string>
     <string name="hiad_link_already_copied" priority="LT">"Hivatkozás másolva."</string>

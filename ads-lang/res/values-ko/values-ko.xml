@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"귀하는 현재 WLAN에 연결되지 않았습니다. 지금 다운로드하면 %1$s의 모바일 데이터를 사용하게 됩니다. 그래도 다운로드하시겠습니까?"</string>
     <string name="hiad_install_completed" priority="LT">"완료"</string>
     <string name="hiad_installed_description" priority="LT">"설치를 완료했습니다. 터치하여 여십시오."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"설치됨"</string>
     <string name="hiad_jump_desc" priority="LT">"상세정보 보기 또는 앱으로 이동"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"이 페이지에서 %1$s을(를) 열고자 합니다."</string>
     <string name="hiad_link_already_copied" priority="LT">"링크가 복사되었습니다."</string>

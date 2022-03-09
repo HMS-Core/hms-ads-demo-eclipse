@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Non sei connesso alla rete WLAN. Il download richiederà l\'utilizzo di %1$s dei tuoi dati mobili. Vuoi scaricare comunque?"</string>
     <string name="hiad_install_completed" priority="LT">"Fine"</string>
     <string name="hiad_installed_description" priority="LT">"Installazione riuscita. Tocca per aprire."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Installato"</string>
     <string name="hiad_jump_desc" priority="LT">"Visualizza i dettagli o apri l\'app"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"La pagina richiede l\'apertura di %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link copiato."</string>

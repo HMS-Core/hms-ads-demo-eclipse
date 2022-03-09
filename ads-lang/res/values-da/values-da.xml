@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Du er nuværende ikke tilsluttet til WLAN. Hentes nu, vil det bruge %1$s mobildata. Hent alligevel?"</string>
     <string name="hiad_install_completed" priority="LT">"Udfør"</string>
     <string name="hiad_installed_description" priority="translator">"Installationen blev gennemført. Tryk for at åbne."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Installeret"</string>
     <string name="hiad_jump_desc" priority="LT">"Se oplysninger, eller gå til appen"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Denne side vil åbne %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link kopieret."</string>

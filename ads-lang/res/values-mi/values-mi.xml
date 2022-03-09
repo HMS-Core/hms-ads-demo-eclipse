@@ -76,6 +76,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kāore koe i te tūhono ki te WLAN i tēnei wā. Ki te tikiake ināianei ka whakamahi i te %1$s o ngā raraunga pūkoro. Me tikiake tonu?"</string>
     <string name="hiad_install_completed" priority="LT">"Kua oti"</string>
     <string name="hiad_installed_description" priority="LT">"I momoho te tāuta. Pā atu hei huaki."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Kua tāutahia"</string>
     <string name="hiad_jump_desc" priority="LT">"Tirohia ngā taipitopito, haere ki te taupānga"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Kei te hiahia tēnei whārangi ki te huaki %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Kua tāruatia te hono."</string>

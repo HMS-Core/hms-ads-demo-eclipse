@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"WLAN-ühendus puudub. Allalaadimisel kasutatakse %1$s mobiilandmeside mahtu. Kas laadida alla?"</string>
     <string name="hiad_install_completed" priority="LT">"Valmis"</string>
     <string name="hiad_installed_description" priority="translator">"Installimine õnnestus. Puudutage avamiseks."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Installitud"</string>
     <string name="hiad_jump_desc" priority="LT">"Kuvage üksikasjad või avage rakendus"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Leht soovib avada rakenduse %1$s."</string>
     <string name="hiad_link_already_copied" priority="LT">"Link on kopeeritud."</string>

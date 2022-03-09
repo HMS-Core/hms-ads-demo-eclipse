@@ -64,6 +64,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"Ahora no está conectado a WLAN. Si inicia ya la descarga, utilizará %1$s de datos móviles. ¿Descargar de todos modos?"</string>
     <string name="hiad_install_completed" priority="LT">"Listo"</string>
     <string name="hiad_installed_description" priority="LT">"Se ha instalado. Pulsa aquí para abrir."</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"Se ha instalado"</string>
     <string name="hiad_jump_desc" priority="LT">"Consulta detalles o accede a la aplicación"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"Esta página desea abrir %1$s"</string>
     <string name="hiad_link_already_copied" priority="LT">"Vínculo copiado"</string>
@@ -72,7 +73,7 @@
     <string name="hiad_net_error" priority="LT">"Error de conexión de red. Vuelva a intentarlo."</string>
     <string name="hiad_network_error" priority="LT">"Error de conexión de red"</string>
     <string name="hiad_network_no_available" priority="LT">"Sin conexión a Internet. Verifique los ajustes de red."</string>
-    <string name="hiad_no_more_remind" priority="LT">"No volver a recordarme"</string>
+    <string name="hiad_no_more_remind" priority="LT">"No volver a recordar"</string>
     <string name="hiad_non_wifi_download_prompt" priority="LT">"Sin conexión Wi-Fi. Si descarga ahora, se consumirán datos móviles. ¿Descargar?"</string>
     <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Sin conexión WLAN. Si descarga ahora, se consumirán datos móviles. ¿Descargar?"</string>
     <string name="hiad_open_in_browser" priority="LT">"Abrir en navegador"</string>

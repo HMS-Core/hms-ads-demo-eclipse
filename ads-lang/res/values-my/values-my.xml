@@ -61,6 +61,7 @@
     <string name="hiad_download_use_mobile_network_zh" priority="LT">"လက်ၡိကာလတွင် သင်သည် WLAN ချိတ်ဆက်ထားမှု မၡိပါ။ ယခု ဒေါင်းလုဒ်လုပ်ခြင်းဖြင့် မိုဘိုင်း ဒေတာ %1$s ပမာဏကို သုံးစွဲရပါလိမ့်မည်။ မည်သို့ပင်ဖြစ်စေ ဒေါင်းလုဒ်လုပ်မည်လား။"</string>
     <string name="hiad_install_completed" priority="LT">"လုပ်ပြီးပြီ"</string>
     <string name="hiad_installed_description" priority="translator">"ထည့်သွင်းမှု အောင်မြင်ပါသည်။ ဖွင့်ရန် နှိပ်ပါ။"</string>
+    <string name="hiad_installed_optimize_description" priority="translator">"ထည့်သွင်းပြီး"</string>
     <string name="hiad_jump_desc" priority="LT">"အသေးစိတ် ကြည့်ရန် သို့မဟုတ် အက်ပ်သို့ သွားရန်"</string>
     <string name="hiad_landing_page_open_app" priority="LT">"ဤပေ့ခ်ျသည် %1$s အား ဖွင့်လိုပါသည်။"</string>
     <string name="hiad_link_already_copied" priority="LT">"လင့်ခ် ကူးပြီး။"</string>
