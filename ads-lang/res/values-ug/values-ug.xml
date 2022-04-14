@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"داۋاملىق كۆرۈش"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ئېلاننى تولۇق كۆرسىڭىز مۇكاپات چىقىدۇ"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"چەكسىڭىز توربېكەت/ئەپ ئېچىلىدۇ"</string>
-    <string name="hiad_swipe_screen" priority="LT">"ئۈستىگە سىيرىش"</string>
+    <string name="hiad_swipe_screen" priority="translator">"سىيرىڭ"</string>
     <string name="hiad_twist_screen" priority="LT">"يانفون چايقاش"</string>
     <string name="hiad_whether_download" priority="LT">"بۇ دېتالنى چۈشۈرەمسىز؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"\u200fWi-Fi دا ئالدىن يۈكلەندى"</string>

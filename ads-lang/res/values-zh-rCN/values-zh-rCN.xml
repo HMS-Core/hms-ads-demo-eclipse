@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="translator">"继续观看"</string>
     <string name="hiad_reward_close_dialog_message" priority="translator">"观看完整视频才可获得奖励"</string>
     <string name="hiad_splash_pro_desc" priority="translator">"点击跳转至详情页或第三方应用"</string>
-    <string name="hiad_swipe_screen" priority="translator">向上滑动屏幕</string>
+    <string name="hiad_swipe_screen" priority="translator">"滑动屏幕"</string>
     <string name="hiad_twist_screen" priority="translator">"摇一摇手机"</string>
     <string name="hiad_whether_download" priority="translator">"是否下载该软件？"</string>
     <string name="hiad_wifi_loaded_already" priority="LT">"已 Wi-Fi 预加载"</string>

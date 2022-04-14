@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar mirant"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Acabeu de veure aquest anunci per obtenir una recompensa."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Toqueu per obrir el lloc web/aplicació"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Llisqueu amunt"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Fer lliscar"</string>
     <string name="hiad_twist_screen" priority="LT">"Sacsegeu el telèfon"</string>
     <string name="hiad_whether_download" priority="LT">"Voleu baixar aquesta aplicació?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Precarregat per Wi-Fi"</string>

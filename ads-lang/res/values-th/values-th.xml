@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"รับชมต่อ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"รับชมโฆษณานี้จนจบเพื่อรับรางวัล"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"แตะเพื่อเปิดเว็บไซต์/แอป"</string>
-    <string name="hiad_swipe_screen" priority="LT">"ปัดนิ้วขึ้น"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ปัดนิ้ว"</string>
     <string name="hiad_twist_screen" priority="LT">"เขย่าโทรศัพท์"</string>
     <string name="hiad_whether_download" priority="LT">"ดาวน์โหลดแอปนี้หรือไม่"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"โหลดล่วงหน้าผ่าน Wi-Fi"</string>

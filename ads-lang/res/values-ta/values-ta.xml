@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"தொடர்ந்து பார்க்கவும்"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"வெகுமதியைப் பெற, இந்த விளம்பரத்தைப் பார்த்து முடிக்கவும்."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"வலைத்தளம்/செயலியைத் திறக்க, தொடவும்"</string>
-    <string name="hiad_swipe_screen" priority="LT">"மேல்நோக்கி ஸ்வைப் செய்க"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ஸ்வைப்"</string>
     <string name="hiad_twist_screen" priority="LT">"மொபைலைக் குலுக்கவும்"</string>
     <string name="hiad_whether_download" priority="LT">"இந்தச் செயலியைப் பதிவிறக்கவா?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi வழியாக முன்-ஏற்றப்பட்டது"</string>

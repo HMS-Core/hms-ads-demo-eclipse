@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"पाहत राहा"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"बक्षीस कमावण्‍यासाठी ही जाहिरात पाहणे समाप्‍त करा."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"वेबसाइट/अ‍ॅप उघडण्यासाठी स्पर्श करा"</string>
-    <string name="hiad_swipe_screen" priority="LT">"वर स्वाइप करा"</string>
+    <string name="hiad_swipe_screen" priority="translator">"स्वाइप करा"</string>
     <string name="hiad_twist_screen" priority="LT">"फोन शेक करा"</string>
     <string name="hiad_whether_download" priority="LT">"हा अॅप डाउनलोड करायचा का?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi वरून पूर्व-लोड केले"</string>

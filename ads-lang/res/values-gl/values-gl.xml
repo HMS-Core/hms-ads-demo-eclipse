@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuar vendo"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Vexa este anuncio ata o final para obter unha recompensa."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Toque para abrir web/aplicación"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Pase o dedo cara a arriba"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Pase o dedo"</string>
     <string name="hiad_twist_screen" priority="LT">"Axitar o teléfono"</string>
     <string name="hiad_whether_download" priority="LT">"Descargar esta aplicación?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Precargado vía Wi-Fi"</string>

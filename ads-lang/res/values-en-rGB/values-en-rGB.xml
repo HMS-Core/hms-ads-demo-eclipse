@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Keep watching"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Finish watching this ad to earn a reward."</string>
     <string name="hiad_splash_pro_desc" priority="translator">"Touch to open the website/app"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Swipe up"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Swipe"</string>
     <string name="hiad_twist_screen" priority="LT">"Shake the phone"</string>
     <string name="hiad_whether_download" priority="LT">"Download this app?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Pre-loaded over Wi-Fi"</string>

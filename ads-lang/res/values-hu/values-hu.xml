@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Tovább nézem"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Nézze végig ezt a reklámot a jutalomért."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Érintse meg a webhely/alkalmazás megnyitásához"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Lapozzon felfelé"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Lapozás"</string>
     <string name="hiad_twist_screen" priority="LT">"Rázza meg a telefont"</string>
     <string name="hiad_whether_download" priority="LT">"Letölti ezt az alkalmazást?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Előtöltés Wi-Fi-n"</string>

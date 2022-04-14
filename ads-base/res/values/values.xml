@@ -14,6 +14,8 @@
     <color name="hiad_90_percent_white">#e5ffffff</color>
     <color name="hiad_90_white">#e5ffffff</color>
     <color name="hiad_activie_app_desc_color">#99000000</color>
+    <color name="hiad_app_allow_install_dialog_bg">#D9FFFFFF</color>
+    <color name="hiad_app_allow_install_dialog_btn_bg">#0A59F7</color>
     <color name="hiad_app_down_installing_bg">#0D000000</color>
     <color name="hiad_app_down_installing_bg_hm">#330A59F7</color>
     <color name="hiad_app_down_installing_stroke">#0D000000</color>
@@ -111,6 +113,7 @@
     <dimen name="hiad_text_15_sp">15sp</dimen>
     <dimen name="hiad_text_16_sp">16sp</dimen>
     <dimen name="hiad_text_18_sp">18sp</dimen>
+    <dimen name="hiad_text_20_sp">20sp</dimen>
     <dimen name="hiad_text_9_sp">9sp</dimen>
     <dimen name="hiad_video_buffering_w">52dp</dimen>
     <dimen name="hiad_video_play_time_marge_l">48dp</dimen>
@@ -131,6 +134,15 @@
     </plurals>
     <string name="hiad_ad_label" priority="LT">AD</string>
     <string name="hiad_ad_label_new" priority="translator">"Ad"</string>
+    <string name="hiad_app_allow_continue_btn" priority="LT">continue installation</string>
+    <string name="hiad_app_allow_continue_install" priority="LT">Do you want to continue installing the app?</string>
+    <string name="hiad_app_allow_dont_remind_again" priority="LT">Do not remind again</string>
+    <string name="hiad_app_allow_install_pure" priority="LT">The installed app has passed Huawei\'s security inspection, and Huawei provides the app installation service. Do you want to continue the installation?</string>
+    <string name="hiad_app_allow_install_pure_t" priority="LT">Installed apps have passed Huawei\'s security inspection, and Huawei provides app installation services</string>
+    <string name="hiad_app_allow_permi" priority="LT">The application installation service is provided by Huawei. Do you want to continue the installation?</string>
+    <string name="hiad_app_allow_permi_t" priority="LT">App installation service provided by Huawei</string>
+    <string name="hiad_app_allow_pure_mode" priority="LT">The installed app has passed the Huawei security inspection. Do you want to continue the installation?</string>
+    <string name="hiad_app_allow_pure_mode_t" priority="LT">Installed apps have passed Huawei security testing</string>
     <string name="hiad_app_installed" priority="LT">%1$s has been installed</string>
     <string name="hiad_app_open_notification" priority="translator">Installation complete. Touch to open.</string>
     <string name="hiad_app_permission" priority="LT">Permissions</string>
@@ -206,8 +218,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">Keep watching</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">Finish watching this ad to earn a reward.</string>
     <string name="hiad_splash_pro_desc">Touch to open the website/app</string>
-    <string name="hiad_swipe_screen" priority="translator">Swipe the screen up</string>
-    <string name="hiad_twist_screen" priority="translator">Twist the screen</string>
+    <string name="hiad_swipe_screen" priority="translator">Swipe the screen</string>
+    <string name="hiad_twist_screen" priority="translator">Twist the phone</string>
     <string name="hiad_whether_download" priority="LT">Download this app?</string>
     <string name="hiad_wifi_loaded_already" priority="LT">Pre-loaded over Wi-Fi</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">Preloaded</string>
@@ -230,6 +242,16 @@
     <style name="AlertDialogLight.buttonBar">
         <item name="android:background">@android:color/transparent</item>
         <item name="android:textSize">10sp</item>
+    </style>
+    <style name="HIAD_App_Allow_Install_msg_text">
+        <item name="android:textSize">@dimen/hiad_text_16_sp</item>
+        <item name="android:textColor">@color/hiad_dialog_gray_10</item>
+        <item name="android:fontFamily">HwChinese-medium</item>
+    </style>
+    <style name="HIAD_App_Allow_Install_title_text">
+        <item name="android:textSize">@dimen/hiad_text_20_sp</item>
+        <item name="android:textColor">@color/hiad_dialog_gray_10</item>
+        <item name="android:fontFamily">HwChinese-medium</item>
     </style>
     <style name="HIAD_Permissions_child_text">
         <item name="android:textSize">@dimen/hiad_text_13_sp</item>

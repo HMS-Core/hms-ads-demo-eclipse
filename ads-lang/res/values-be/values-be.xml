@@ -94,7 +94,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Працягнуць прагляд"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Для атрымання ўзнагароды праглядзіце гэту рэкламу да канца."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Націсніце, каб адкрыць вэб-сайт або праграму"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Хутка правядзіце пальцам уверх"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Хутка правядзіце пальцам"</string>
     <string name="hiad_twist_screen" priority="LT">"Патрасіце тэлефон"</string>
     <string name="hiad_whether_download" priority="LT">"Спампаваць гэту праграму?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Папярэдне загружана праз Wi-Fi"</string>

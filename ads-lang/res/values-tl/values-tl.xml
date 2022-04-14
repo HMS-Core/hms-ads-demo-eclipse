@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Magpatuloy sa panonood"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Panoorin ang ad na ito hanggang matapos para makakuha ng reward."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Pindutin para buksan ang website/app"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Mag-swipe pataas"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Mag-swipe"</string>
     <string name="hiad_twist_screen" priority="LT">"Alugin ang telepono"</string>
     <string name="hiad_whether_download" priority="LT">"I-download ang app na ito?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Paunang na-load sa pamamagitan ng Wi-Fi"</string>

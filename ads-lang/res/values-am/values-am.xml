@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"መመልከቱን ይቀጥሉ"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ሽልማት ለማግኘት ይህን ማስታወቂያ አይተው ይጨርሱ።"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ድር ጣቢያውን/መተግበሪያውን ለመክፈት ይንኩ"</string>
-    <string name="hiad_swipe_screen" priority="LT">"ወደ ላይ ይጥረጉ"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ይጥረጉ"</string>
     <string name="hiad_twist_screen" priority="LT">"ስልኩን ይነቅንቁ"</string>
     <string name="hiad_whether_download" priority="LT">"ይህ መተግበሪያ ይውረድ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"በ Wi-Fi ቀድሞ ተጭነዋል"</string>

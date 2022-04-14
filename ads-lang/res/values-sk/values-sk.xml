@@ -94,7 +94,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Pokračovať v sledovaní"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Na získanie odmeny dokončite sledovanie tejto reklamy."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Ťuknutím otvorte webovú stránku/aplikáciu"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Potiahnite prstom nahor"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Potiahnutie"</string>
     <string name="hiad_twist_screen" priority="LT">"Zatraste telefónom"</string>
     <string name="hiad_whether_download" priority="LT">"Stiahnuť túto aplikáciu?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Predstiahnuté cez Wi-Fi"</string>

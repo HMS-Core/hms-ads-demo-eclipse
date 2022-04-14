@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"མུ་མཐུད་དུ་གཟིགས།"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"བརྙན་ཟློས་ཆ་ཚང་གཟིགས་ན་ད་གཟོད་བྱ་དགའ་ཐོབ་ཆོག"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"རྡེབ་ནས་ཞིབ་ཕྲའི་གནས་ཚུལ་གྱི་དྲ་ངོས་སམ་ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་དུ་མཆོངས་སྒྱུར་བྱེད།"</string>
-    <string name="hiad_swipe_screen" priority="LT">"བརྙན་ཡོལ་ཡར་འདེད་འགུལ།"</string>
+    <string name="hiad_swipe_screen" priority="translator">"བརྙན་ཡོལ་འདེད་འགུལ་བྱེད།"</string>
     <string name="hiad_twist_screen" priority="LT">"ལག་ཁྱེར་ཁ་པར་གཡུག་གཡུག་བྱེད།"</string>
     <string name="hiad_whether_download" priority="LT">"མཉེན་ཆས་འདི་ཕབ་ལེན་བྱེད་དམ།"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi འོག་ཏུ་སྔོན་ནས་སྣོན་འཇུག་བྱས་ཟིན།"</string>

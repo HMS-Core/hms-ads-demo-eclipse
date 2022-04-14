@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ادامۀ تماشا"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"این تبلیغ را تا آخر تماشا کنید و پاداش بگیرید."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"برای باز کردن وب‌سایت/برنامه، لمس کنید"</string>
-    <string name="hiad_swipe_screen" priority="LT">"کشیدن انگشت به سمت بالا"</string>
+    <string name="hiad_swipe_screen" priority="translator">"کشیدن"</string>
     <string name="hiad_twist_screen" priority="LT">"تلفن را تکان دهید"</string>
     <string name="hiad_whether_download" priority="LT">"این برنامه دانلود شود؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"از طریق Wi-Fi بارگیری اولیه شده"</string>

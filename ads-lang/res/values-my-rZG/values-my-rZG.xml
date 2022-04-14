@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ဆက္ၾကည့္မည္"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"ဆုရယူရန္ ဤေၾကာ္ျငာကို အျပီးၾကည့္ေပးပါ။"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ဝက္ဘ္ဆိုက္/အက္ပ္ကို ဖြင့္ရန္ ႏွိပ္ပါ"</string>
-    <string name="hiad_swipe_screen" priority="LT">"အေပၚသို႔ ပြတ္ဆြဲရန္"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ပြတ္ဆြဲပါ"</string>
     <string name="hiad_twist_screen" priority="LT">"ဖုန္းကို လႈပ္ရန္"</string>
     <string name="hiad_whether_download" priority="LT">"ဤအက္ပ္အား ေဒါင္းလုဒ္လုပ္မည္လား။"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi မွတစ္ဆင့္ ၾကိဳတင္ ထည့္သြင္းလုပ္ေဆာင္ျပီး"</string>

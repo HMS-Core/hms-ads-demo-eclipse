@@ -100,7 +100,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"استكمال المشاهدة"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"شاهد هذا الإعلان إلى نهايته لتحصل على مكافأة."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"انقر هنا لفتح موقع الويب/التطبيق"</string>
-    <string name="hiad_swipe_screen" priority="LT">"اسحب للأعلى"</string>
+    <string name="hiad_swipe_screen" priority="translator">"اسحب"</string>
     <string name="hiad_twist_screen" priority="LT">"رجّ الهاتف"</string>
     <string name="hiad_whether_download" priority="LT">"هل تريد تنزيل هذا التطبيق؟"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"تم تحميله مُسبقًا عبر الشبكة اللاسلكية"</string>

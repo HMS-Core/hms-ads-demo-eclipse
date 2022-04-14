@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jarraitu ikusten"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Saria irabazteko, amaitu iragarkia ikusten."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Ukitu webgunea/aplikazioa irekitzeko"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Irristatu gora"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Irristatu"</string>
     <string name="hiad_twist_screen" priority="LT">"Astindu telefonoa"</string>
     <string name="hiad_whether_download" priority="LT">"Aplikazioa deskargatu nahi duzu?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wifi bitartez birkargatua"</string>

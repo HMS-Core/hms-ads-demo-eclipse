@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"ყურების გაგრძელება"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"დაასრულეთ ამ რეკლამის ყურება ჯილდოს მისაღებად."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"შეეხეთ, რომ გახსნათ ვებსაიტი/აპი"</string>
-    <string name="hiad_swipe_screen" priority="LT">"გადაუსვით ზემოთ"</string>
+    <string name="hiad_swipe_screen" priority="translator">"გადასმა"</string>
     <string name="hiad_twist_screen" priority="LT">"შეარხიეთ ტელეფონი"</string>
     <string name="hiad_whether_download" priority="LT">"ჩამოიტვირთოს ეს აპი?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"წინასწარ დატვირთული Wi-Fi-ის მეშვეობით"</string>

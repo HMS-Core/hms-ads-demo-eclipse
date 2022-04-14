@@ -91,7 +91,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuați să urmăriți"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Vizionați această reclamă până la capăt pentru a câștiga o recompensă."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Atingeți pentru a deschide site-ul web/aplicația"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Treceți cu degetul în sus"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Treceți cu degetul"</string>
     <string name="hiad_twist_screen" priority="LT">"Scuturați telefonul"</string>
     <string name="hiad_whether_download" priority="LT">"Descărcați această aplicație?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Preîncărcat prin Wi-Fi"</string>

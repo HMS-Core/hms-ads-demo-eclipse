@@ -88,8 +88,8 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Continuer à regarder"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Une récompense peut être obtenue en regardant cette publicité jusqu\'au bout. Continuer ?"</string>
     <string name="hiad_splash_pro_desc" priority="translator">"Toucher pour ouvrir le site Internet/application"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Faire glisser le doigt vers le haut"</string>
-    <string name="hiad_twist_screen" priority="translator">"Secouer le téléphone"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Faire glisser le doigt"</string>
+    <string name="hiad_twist_screen" priority="LT">"Secouer le téléphone"</string>
     <string name="hiad_whether_download" priority="LT">"Télécharger cette application ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Pré-chargée via Wi-Fi"</string>
     <string name="hiad_wifi_loaded_already_zh" priority="translator">"Préchargé"</string>

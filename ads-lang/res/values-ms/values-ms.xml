@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Teruskan tontonan"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Habiskan tontonan iklan ini untuk mendapat ganjaran."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Sentuh &amp; buka tapak web/apl"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Leret ke atas"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Leret"</string>
     <string name="hiad_twist_screen" priority="LT">"Goncang telefon"</string>
     <string name="hiad_whether_download" priority="LT">"Muat turun aplikasi ini?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Dipramuat melalui Wi-Fi"</string>

@@ -100,7 +100,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"देखैत रहू"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"इनाम अर्जित करबाक लेल एहि विज्ञापन केँ अंत धरि देखू।"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"वेबसाइट/एप खोलबाक लेल छुबू"</string>
-    <string name="hiad_swipe_screen" priority="LT">"उपर दिस स्वाइप करू"</string>
+    <string name="hiad_swipe_screen" priority="translator">"स्वाइप करू"</string>
     <string name="hiad_twist_screen" priority="LT">"फोन केँ शेक करू"</string>
     <string name="hiad_whether_download" priority="LT">"ई एप डाउनलोड करी?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi सँ पहिनुका लोड कयल"</string>

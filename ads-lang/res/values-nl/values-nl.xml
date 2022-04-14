@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Blijf kijken"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Bekijk deze advertentie helemaal om een beloning te winnen."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Tik aan om de website/app te openen"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Omhoog vegen"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Vegen"</string>
     <string name="hiad_twist_screen" priority="LT">"De telefoon schudden"</string>
     <string name="hiad_whether_download" priority="LT">"Deze app downloaden?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Vooraf geladen via wifi"</string>

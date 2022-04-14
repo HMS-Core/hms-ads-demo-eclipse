@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"បន្តមើល"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"បញ្ចប់ការមើល​ការផ្សាយពាណិជ្ជកម្មនេះ ដើម្បី​ទទួលបានរង្វាន់។"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ប៉ះដើម្បីបើក​គេហទំព័រ/កម្មវិធី"</string>
-    <string name="hiad_swipe_screen" priority="LT">"វាសម្រាមដៃឡើងលើ"</string>
+    <string name="hiad_swipe_screen" priority="translator">"វាសម្រាមដៃ"</string>
     <string name="hiad_twist_screen" priority="LT">"រលាក់ទូរស័ព្ទ"</string>
     <string name="hiad_whether_download" priority="LT">"ទាញយក​កម្មវិធីនេះឬ?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"បានផ្ទុក​ជាមុន​នៅលើ​ Wi-Fi"</string>

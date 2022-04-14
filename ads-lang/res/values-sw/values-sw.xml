@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Endelea kutazama"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Maliza kutazama tangazo hili ili kupata tuzo."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Gusa ili kufungua tovuti/programu"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Telezesha juu"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Telezesha"</string>
     <string name="hiad_twist_screen" priority="LT">"Tikisa simu"</string>
     <string name="hiad_whether_download" priority="LT">"Pakua programu hii?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Imepakiwa awali kupitia Wi-Fi"</string>

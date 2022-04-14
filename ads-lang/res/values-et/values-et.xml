@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jätka vaatamist"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Preemia saamiseks vaadake see reklaam lõpuni."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Puudutage veebisaidi/rakenduse avamiseks"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Nipsake üles"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Nipsake"</string>
     <string name="hiad_twist_screen" priority="LT">"Raputage telefoni"</string>
     <string name="hiad_whether_download" priority="LT">"Laadida see rakendus alla?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Eellaaditud Wi-Fi kaudu"</string>

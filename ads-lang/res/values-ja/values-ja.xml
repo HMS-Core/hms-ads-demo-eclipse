@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"視聴を継続"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"この広告を最後まで視聴すると、特典を獲得できます"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"タップしてWebサイト/アプリを開く"</string>
-    <string name="hiad_swipe_screen" priority="LT">"上にスワイプ"</string>
+    <string name="hiad_swipe_screen" priority="translator">"スワイプ"</string>
     <string name="hiad_twist_screen" priority="LT">"携帯電話をシェイク"</string>
     <string name="hiad_whether_download" priority="LT">"このアプリをダウンロードしますか？"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi経由で事前に読み込み済み"</string>

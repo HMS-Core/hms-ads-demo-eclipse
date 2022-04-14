@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Үзсээр байх"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Энэ зарыг үзэж дуусгаад шагнал аваарай."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Вэбсайт/апликэйшнийг нээхийн тулд дарна уу"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Дээш зурах"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Зурах"</string>
     <string name="hiad_twist_screen" priority="LT">"Утсыг сэгсэрнэ үү"</string>
     <string name="hiad_whether_download" priority="LT">"Энэ аппликэйшнийг татах уу?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi-аар урьдчилан ачаалсан"</string>

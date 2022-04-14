@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"계속 시청"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"보상을 받으려면 이 광고 재생을 완료하십시오."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"터치하여 웹사이트/앱 열기"</string>
-    <string name="hiad_swipe_screen" priority="LT">"위로 스와이프"</string>
+    <string name="hiad_swipe_screen" priority="translator">"스와이프"</string>
     <string name="hiad_twist_screen" priority="LT">"휴대폰 흔들기"</string>
     <string name="hiad_whether_download" priority="LT">"이 앱을 다운로드하시겠습니까?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi로 사전 로딩됨"</string>

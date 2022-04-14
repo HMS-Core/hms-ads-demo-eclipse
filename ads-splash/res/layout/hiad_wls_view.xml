@@ -13,7 +13,7 @@
         android:layout_height="@dimen/hiad_24_dp">
     </com.huawei.hms.ads.splash.ChoicesView>
 
-    <com.huawei.openalliance.ad.views.PPSLabelView
+    <com.huawei.openalliance.ad.views.PPSSplashLabelView
         android:id="@+id/hiad_ad_label_wls"
         android:visibility="gone"
         android:layout_width="wrap_content"

@@ -94,7 +94,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Kontynuuj"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Obejrzyj tę reklamę w całości, aby zdobyć nagrodę."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Dotknij, aby otworzyć witrynę/aplikację"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Przeciągnij w górę"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Przeciągnij"</string>
     <string name="hiad_twist_screen" priority="LT">"Potrząśnij telefonem"</string>
     <string name="hiad_whether_download" priority="LT">"Pobrać tę aplikację?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Załadowane wstępnie przez Wi-Fi"</string>

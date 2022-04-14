@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Davom etish"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Mukofot olish uchun reklamani oxirigacha tomosha qiling."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Veb-sayt/ilovani ochish uchun tegining"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Tepaga suring"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Suring"</string>
     <string name="hiad_twist_screen" priority="LT">"Telefonni silkiting"</string>
     <string name="hiad_whether_download" priority="LT">"Bu ilova yuklab olinsinmi?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi orqali avvaldan yuklangan"</string>

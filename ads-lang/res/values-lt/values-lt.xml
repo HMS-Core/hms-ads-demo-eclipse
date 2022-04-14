@@ -94,7 +94,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Žiūrėti toliau"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Baikite žiūrėti šią reklamą ir gaukite apdovanojimą."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Norėdami atverti svetainę arba programėlę, palieskite"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Perbraukite aukštyn"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Perbraukti"</string>
     <string name="hiad_twist_screen" priority="LT">"Papurtykite telefoną"</string>
     <string name="hiad_whether_download" priority="LT">"Ar atsisiųsti šią programėlę?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Įkelta iš anksto per „Wi-Fi“"</string>

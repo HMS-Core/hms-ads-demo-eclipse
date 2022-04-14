@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <item>
+        <shape>
+            <corners android:radius="@dimen/hiad_24_dp" />
+            <solid android:color="@color/hiad_app_allow_install_dialog_bg" />
+        </shape>
+    </item>
+</layer-list>

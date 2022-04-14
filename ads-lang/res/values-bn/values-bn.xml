@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"দেখতে থাকুন"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"একটি পুরস্কার অর্জন করতে এই বিজ্ঞাপন দেখা সম্পন্ন করুন।"</string>
     <string name="hiad_splash_pro_desc" priority="LT">"ওয়েবসাইট/অ্যাপ খোলার জন্য স্পর্শ করুন"</string>
-    <string name="hiad_swipe_screen" priority="LT">"উপরে সোয়াইপ করুন"</string>
+    <string name="hiad_swipe_screen" priority="translator">"সোয়াইপ করুন"</string>
     <string name="hiad_twist_screen" priority="LT">"ফোনটি ঝাঁকান"</string>
     <string name="hiad_whether_download" priority="LT">"এই অ্যাপটি ডাউনলোড করতে চান?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi এর মাধ্যমে আগে থেকেই লোড করা"</string>

@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Συνέχιση παρακολούθησης"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Παρακολουθήστε αυτή τη διαφήμιση μέχρι το τέλος για να κερδίσετε μια ανταμοιβή."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Αγγίξτε για να ανοίξει ο ιστότοπος/η εφαρμογή"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Σύρετε προς τα πάνω"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Σύρετε"</string>
     <string name="hiad_twist_screen" priority="LT">"Κουνήστε το τηλέφωνο"</string>
     <string name="hiad_whether_download" priority="LT">"Να γίνει λήψη αυτής της εφαρμογής;"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Προφορτώθηκε μέσω του Wi-Fi."</string>

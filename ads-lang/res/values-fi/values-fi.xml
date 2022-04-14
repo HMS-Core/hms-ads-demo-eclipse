@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Jatka katselua"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Katso tämä mainos loppuun ansaitaksesi palkinnon."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Avaa verkkosivusto/sovellus koskettamalla"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Pyyhkäise ylös"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Pyyhkäise"</string>
     <string name="hiad_twist_screen" priority="LT">"Ravista puhelinta"</string>
     <string name="hiad_whether_download" priority="LT">"Ladataanko tämä sovellus?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Esiladattu Wi-Fi-yhteydellä"</string>

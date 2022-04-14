@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsette å se"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Se denne reklamen ferdig for å få en belønning."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Berør for å åpne nettsiden/appen"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Sveip opp"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Sveip"</string>
     <string name="hiad_twist_screen" priority="LT">"Rist telefonen"</string>
     <string name="hiad_whether_download" priority="LT">"Laste ned denne appen?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Forhåndsinnlastet over Wi-Fi"</string>

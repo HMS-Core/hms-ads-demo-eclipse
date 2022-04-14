@@ -85,7 +85,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Terus nonton"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Deleng iklan iki nganti rampung kanggo ngentukake ganjaran."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Dumuk kanggo mbukak situs web/apl"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Usap munggah"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Usap"</string>
     <string name="hiad_twist_screen" priority="LT">"Goyang ponsel"</string>
     <string name="hiad_whether_download" priority="LT">"Undhuh apl iki?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Diundhuh sadurunge liwat Wi-Fi"</string>

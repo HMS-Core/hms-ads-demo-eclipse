@@ -11,6 +11,15 @@
     </plurals>
     <string name="hiad_ad_label" priority="LT">"广告"</string>
     <string name="hiad_ad_label_new" priority="translator">"广告"</string>
+    <string name="hiad_app_allow_continue_btn" priority="LT">继续安装</string>
+    <string name="hiad_app_allow_continue_install" priority="LT">是否继续安装应用？</string>
+    <string name="hiad_app_allow_dont_remind_again" priority="LT">不再提示</string>
+    <string name="hiad_app_allow_install_pure" priority="LT">安装应用已通过华为安全检测，同时由华为提供应用安装服务，是否继续安装？</string>
+    <string name="hiad_app_allow_install_pure_t" priority="LT">安装应用已通过华为安全检测，同时由华为提供应用安装服务</string>
+    <string name="hiad_app_allow_permi" priority="LT">由华为提供应用安装服务，是否继续安装？</string>
+    <string name="hiad_app_allow_permi_t">由华为提供应用安装服务</string>
+    <string name="hiad_app_allow_pure_mode" priority="LT">安装应用已通过华为安全检测，是否继续安装？</string>
+    <string name="hiad_app_allow_pure_mode_t" priority="LT">安装应用已通过华为安全检测</string>
     <string name="hiad_app_installed" priority="translator">"%1$s 已安装成功"</string>
     <string name="hiad_app_open_notification" priority="translator">"安装完成，点击打开"</string>
     <string name="hiad_app_permission" priority="translator">"权限"</string>
@@ -86,7 +95,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="translator">"继续观看"</string>
     <string name="hiad_reward_close_dialog_message" priority="translator">"观看完整视频才可获得奖励"</string>
     <string name="hiad_splash_pro_desc">点击跳转至详情页或第三方应用</string>
-    <string name="hiad_swipe_screen" priority="translator">向上滑动屏幕</string>
+    <string name="hiad_swipe_screen" priority="translator">滑动屏幕</string>
     <string name="hiad_twist_screen" priority="translator">摇一摇手机</string>
     <string name="hiad_whether_download" priority="translator">"是否下载该软件？"</string>
     <string name="hiad_wifi_loaded_already" priority="LT">"已 Wi-Fi 预加载"</string>

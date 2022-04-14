@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hiad_app_allow_install_dialog_bg">
+
+    <TextView
+        android:id="@+id/hiad_allow_install_title"
+        style="@style/HIAD_App_Allow_Install_title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/hiad_24_dp"
+        android:layout_marginTop="@dimen/hiad_16_dp"
+        android:layout_marginEnd="@dimen/hiad_24_dp"
+        android:ellipsize="end"
+        android:gravity="left|center_vertical"
+        android:maxLines="2" />
+
+    <TextView
+        android:id="@+id/hiad_allow_install_close"
+        android:layout_width="@dimen/hiad_14_dp"
+        android:layout_height="@dimen/hiad_14_dp"
+        android:layout_alignBaseline="@id/hiad_allow_install_title"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/hiad_24_dp"
+        android:layout_marginEnd="@dimen/hiad_24_dp"
+        android:background="@drawable/hiad_allow_install_close" />
+
+    <TextView
+        android:id="@+id/hiad_allow_install_message"
+        style="@style/HIAD_App_Allow_Install_msg_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hiad_allow_install_title"
+        android:layout_marginStart="@dimen/hiad_24_dp"
+        android:layout_marginTop="@dimen/hiad_16_dp"
+        android:layout_marginEnd="@dimen/hiad_24_dp"
+        android:ellipsize="end"
+        android:gravity="left" />
+
+    <RadioGroup
+        android:id="@+id/hiad_allow_install_remind_again_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hiad_allow_install_message"
+        android:layout_marginStart="@dimen/hiad_24_dp"
+        android:layout_marginTop="@dimen/hiad_16_dp"
+        android:layout_marginEnd="@dimen/hiad_24_dp">
+
+        <CheckBox
+            android:id="@+id/hiad_allow_install_remind_again"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableLeft="@drawable/hiad_allow_install_checkbox_bg"
+            android:drawablePadding="@dimen/hiad_12_dp"
+            android:text="@string/hiad_app_allow_dont_remind_again" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/hiad_allow_install_accept"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/hiad_40_dp"
+        android:layout_below="@id/hiad_allow_install_remind_again_parent"
+        android:layout_marginStart="@dimen/hiad_16_dp"
+        android:layout_marginTop="@dimen/hiad_16_dp"
+        android:layout_marginEnd="@dimen/hiad_16_dp"
+        android:layout_marginBottom="@dimen/hiad_16_dp"
+        android:background="@drawable/hiad_app_allow_install_dialog_btn_bg"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/hiad_app_allow_continue_btn"
+        android:textColor="@color/hiad_font"
+        android:textSize="@dimen/hiad_text_16_sp"/>
+
+</RelativeLayout>

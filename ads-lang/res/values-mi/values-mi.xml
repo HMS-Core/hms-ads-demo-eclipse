@@ -100,7 +100,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Mātaki haere tonu"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Me whakamutu te mātakitaki i tēnei pānui hokohoko hei whiwhi i tētahi utu."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Pā atu hei huaki i te paetukutuku/taupānga"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Miri whakarunga"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Miri"</string>
     <string name="hiad_twist_screen" priority="LT">"Rurerurea te waea"</string>
     <string name="hiad_whether_download" priority="LT">"Tikiake tēnei taupānga?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Kua uta tōmuatia mā te Wi-Fi"</string>

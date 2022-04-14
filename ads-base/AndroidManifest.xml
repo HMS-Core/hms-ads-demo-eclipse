@@ -2,8 +2,8 @@
 <!--   ~ Copyright (c) Huawei Technologies Co., Ltd. 2015-2019. All rights reserved. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.ads.base"
-    android:versionCode="130452302"
-    android:versionName="13.4.52.302" >
+    android:versionCode="130453300"
+    android:versionName="13.4.53.300" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -15,11 +15,12 @@
     <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
     <uses-permission android:name="com.hihonor.permission.MANAGE_FOLD_SCREEN" />
     <uses-permission android:name="com.hihonor.permission.MANAGE_FOLD_SCREEN_PRIVILEGED" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:ads-base"
-            android:value="ads-base:13.4.52.302" />
+            android:value="ads-base:13.4.53.300" />
 
         <activity
             android:name="com.huawei.openalliance.ad.activity.PPSLauncherActivity"

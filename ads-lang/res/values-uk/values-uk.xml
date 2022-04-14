@@ -94,7 +94,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Продовжити перегляд"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Подивіться цю рекламу до кінця й отримаєте нагороду."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Відкрити сайт або додаток"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Проведіть по екрану вгору"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Проведіть по екрану"</string>
     <string name="hiad_twist_screen" priority="LT">"Струсіть телефон"</string>
     <string name="hiad_whether_download" priority="LT">"Завантажити цей додаток?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Попередньо завантажено через Wi-Fi"</string>

@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"දිගටම නරඹන්න"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"තිළිණයක් ඉපයීමට මෙම වෙළඳ දැන්වීම බලා අවසන් කරන්න."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"වෙබ් අඩවිය/යෙදුම විවෘත කිරීමට ස්පර්ශ කරන්න"</string>
-    <string name="hiad_swipe_screen" priority="LT">"ඉහළට ස්වයිප් කරන්න"</string>
+    <string name="hiad_swipe_screen" priority="translator">"ස්වයිප් කරන්න"</string>
     <string name="hiad_twist_screen" priority="LT">"දුරකථනය සොලවන්න"</string>
     <string name="hiad_whether_download" priority="LT">"මෙම යෙදුම බාගන්න ද?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi ඔස්සේ පෙර-පැටවූ"</string>

@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsätt titta"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Titta klart på den här annonsen för att få en belöning."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Peka för att öppna webbplats/app"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Svep uppåt"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Svepa"</string>
     <string name="hiad_twist_screen" priority="LT">"Skaka telefonen"</string>
     <string name="hiad_whether_download" priority="LT">"Vill du ladda ned den här appen?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Förinstallerad över Wi-Fi"</string>

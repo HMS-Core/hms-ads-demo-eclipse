@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Продолжи со гледање"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Догледајте ја оваа реклама за да добиете награда."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Допрете за да ја отворите веб-локацијата/апликацијата"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Поминете нагоре"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Поминете"</string>
     <string name="hiad_twist_screen" priority="LT">"Затресете го телефонот"</string>
     <string name="hiad_whether_download" priority="LT">"Да се преземе оваа апликација?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Вчитано претходно преку Wi-Fi"</string>

@@ -88,7 +88,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"İzlemeye devam et"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Ödül kazanmak için bu reklamı sonuna kadar izleyin."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Web sitesini/uygulamayı açmak için dokunun"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Yukarı kaydırın"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Kaydırın"</string>
     <string name="hiad_twist_screen" priority="LT">"Telefonu sallayın"</string>
     <string name="hiad_whether_download" priority="LT">"Bu uygulama indirilsin mi?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi üzerinden önceden yüklendi"</string>

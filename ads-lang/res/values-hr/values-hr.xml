@@ -91,7 +91,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Nastavi pratiti"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Pogledajte ovaj oglas do kraja kako biste dobili nagradu."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Dodirnite da biste otvorili web-mjesto/aplikaciju"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Kliznite prema gore"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Kliznite"</string>
     <string name="hiad_twist_screen" priority="LT">"Protresite telefon"</string>
     <string name="hiad_whether_download" priority="LT">"Preuzeti ovu aplikaciju?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Unaprijed učitano putem Wi-Fi mreže"</string>

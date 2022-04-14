@@ -91,7 +91,7 @@
     <string name="hiad_reward_close_dialog_continue" priority="LT">"Turpināt skatīties"</string>
     <string name="hiad_reward_close_dialog_message" priority="LT">"Noskatieties šo reklāmu, lai nopelnītu balvu."</string>
     <string name="hiad_splash_pro_desc" priority="LT">"Pieskarieties, lai atvērtu vietni/lietotni"</string>
-    <string name="hiad_swipe_screen" priority="LT">"Pavelciet uz augšu"</string>
+    <string name="hiad_swipe_screen" priority="translator">"Pavelciet"</string>
     <string name="hiad_twist_screen" priority="LT">"Pakratiet tālruni"</string>
     <string name="hiad_whether_download" priority="LT">"Vai lejupielādēt šo lietotni?"</string>
     <string name="hiad_wifi_loaded_already" priority="translator">"Iepriekš ielādēts, izmantojot Wi-Fi"</string>
