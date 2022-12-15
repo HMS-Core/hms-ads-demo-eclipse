@@ -1,4 +1,4 @@
-# HMS Ads Demo for Eclipse
+# Petal Ads Demo for Eclipse
 English | [中文](https://github.com/HMS-Core/hms-ads-demo-eclipse/blob/master/README_ZH.md)
 ## Table of Contents
 
@@ -6,8 +6,8 @@ English | [中文](https://github.com/HMS-Core/hms-ads-demo-eclipse/blob/master/
  * [License](#license)
  
 ## Introduction
-The hms-ads-demo-eclipse project demonstrates how to integrate the HUAWEI Ads SDK into Your App Project in the Eclipse IDE.
-Please refer to [Integrating the HUAWEI Ads SDK into Your App Project in the Eclipse IDE](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/eclipse-integrating-sdk-0000001055373923).
+The hms-ads-demo-eclipse project demonstrates how to integrate the Petal Ads SDK into Your App Project in the Eclipse IDE.
+Please refer to [Integrating the Petal Ads SDK into Your App Project in the Eclipse IDE](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/eclipse-integrating-sdk-0000001055373923).
 <br>You also can use HMS Toolkit to quickly integrate the kit and run the demo project, as well as debug the app using a remote device for free. For details, please visit [HMS Toolkit](https://developer.huawei.com/consumer/en/doc/development/Tools-Guides/getting-started-0000001077381096).</br>
 
 ## Question or issues
